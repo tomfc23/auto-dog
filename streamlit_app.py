@@ -11,8 +11,14 @@ st.set_page_config(page_title="DOTD EV Calculator", layout="wide")
 def load_config(file_name):
     if not os.path.exists(file_name):
         return {}
-    with open(file_name, 'r') as f:
-        return json.load(f)
+    try:
+        with open(file_name, 'r') as f:
+            content = f.read().strip()
+            if not content:  # Handle empty file
+                return {}
+            return json.loads(content)
+    except (json.JSONDecodeError, Exception):
+        return {}
 
 @st.cache_data(ttl=600)
 def fetch_poll_data(sport):
@@ -58,15 +64,8 @@ def calc_fair_prob_from_two_sides(odds1, odds2):
     return p1 / (p1 + p2)
 
 def calculate_payout(rank, real_odds):
-    """
-    Fixed Payout Logic: 
-    If odds are negative (e.g. -120), payout is (100 / 120) * 100 = 83.33.
-    If odds are positive (e.g. 120), payout is 120.
-    Final = (20 * Rank) + Odds_Payout.
-    """
     rank_bonus = 20 * rank
     if real_odds < 0:
-        # $100 applied to odds logic
         odds_payout = (100 / abs(real_odds)) * 100
     else:
         odds_payout = real_odds
@@ -95,9 +94,9 @@ def process_poll_data(raw_data, team_config):
     return dog_snapshot
 
 def get_fair_probs_from_file(dog_data, market_config, sport='nhl'):
-    if not os.path.exists('odds.json'): return {}, {}
-    with open('odds.json', 'r') as f:
-        odds_data = json.load(f)
+    # Use the robust loader instead of direct open to avoid JSONDecodeError
+    odds_data = load_config('odds.json')
+    
     sport_data = odds_data.get(sport, {})
     if not sport_data: return {}, {}
     
@@ -115,7 +114,6 @@ def get_fair_probs_from_file(dog_data, market_config, sport='nhl'):
                 o1 = data['odds']
                 o2 = event[t2_id][src_id]['odds']
                 
-                # Rule: Remove if both sides are -110
                 if o1 == -110 and o2 == -110:
                     continue
                 
@@ -138,7 +136,7 @@ def get_fair_probs_from_file(dog_data, market_config, sport='nhl'):
 
 # --- Main App ---
 
-st.title("Automatic DOTD EV Calculator")
+st.title("🏒 DOTD EV Optimizer")
 
 # Load Configs
 team_config = load_config('team_config.json')
@@ -150,7 +148,7 @@ if "manual_probs" not in st.session_state:
 # --- Logic Processing ---
 raw_poll, err = fetch_poll_data(sport="nhl")
 if err or not team_config:
-    st.error("Missing configuration or API error.")
+    st.error("Missing configuration or API error. Ensure team_config.json is not empty.")
     st.stop()
 
 dog_data = process_poll_data(raw_poll, team_config)
@@ -204,35 +202,37 @@ with st.sidebar:
 
 # --- Main Table ---
 st.subheader("📊 Results")
-st.info("Click a row to view the detailed bookmaker breakdown and fair averages below.")
+st.info("Click a row to view the detailed bookmaker breakdown below.")
 
 valid_df = df_display[~df_display['Missing']].sort_values("EV", ascending=False).reset_index(drop=True)
-selection = st.dataframe(
-    valid_df[['Team', 'Rank', 'Real Odds', 'Calc Payout', 'Fair Prob', 'EV']],
-    use_container_width=True,
-    hide_index=True,
-    on_select="rerun",
-    selection_mode="single-row"
-)
 
-# --- Detailed Odds Breakdown ---
-selected_rows = selection.get("selection", {}).get("rows", [])
-if selected_rows:
-    idx = selected_rows[0]
-    row_data = valid_df.iloc[idx]
-    tid = row_data['TeamID']
-    
-    st.divider()
-    st.subheader(f"🔍 Market Breakdown: {row_data['Team']}")
-    
-    # Averaged No-Vig Highlight
-    avg_american = prob_to_american(row_data['Fair Prob'])
-    st.metric("Averaged No-Vig Odds", f"{avg_american:+d}", 
-              help="The fair market price after stripping vig from all available books.")
-    
-    if tid in all_detailed_odds:
-        details = pd.DataFrame(all_detailed_odds[tid])
-        details['No-Vig American'] = details['FairProb'].apply(prob_to_american)
-        st.table(details[['Book', 'Team Odds', 'Opponent Odds', 'No-Vig American']])
-    else:
-        st.info("No individual book data available; using manual override probability.")
+if not valid_df.empty:
+    selection = st.dataframe(
+        valid_df[['Team', 'Rank', 'Real Odds', 'Calc Payout', 'Fair Prob', 'EV']],
+        use_container_width=True,
+        hide_index=True,
+        on_select="rerun",
+        selection_mode="single-row"
+    )
+
+    # --- Detailed Odds Breakdown ---
+    selected_rows = selection.get("selection", {}).get("rows", [])
+    if selected_rows:
+        idx = selected_rows[0]
+        row_data = valid_df.iloc[idx]
+        tid = row_data['TeamID']
+        
+        st.divider()
+        st.subheader(f"🔍 Market Breakdown: {row_data['Team']}")
+        
+        avg_american = prob_to_american(row_data['Fair Prob'])
+        st.metric("Averaged No-Vig Odds", f"{avg_american:+d}")
+        
+        if tid in all_detailed_odds:
+            details = pd.DataFrame(all_detailed_odds[tid])
+            details['No-Vig American'] = details['FairProb'].apply(prob_to_american)
+            st.table(details[['Book', 'Team Odds', 'Opponent Odds', 'No-Vig American']])
+        else:
+            st.info("Using manual override probability; no individual book data available.")
+else:
+    st.warning("No market data available yet. Please use the sidebar to enter odds manually.")
