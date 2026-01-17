@@ -1,1 +1,4420 @@
-
+{
+    "nhl": {
+        "104583": {
+            "start_time": "2026-01-17T17:30:00",
+            "name": "Wild Minnesota MIN @ Sabres Buffalo BUF",
+            "timestamp": "2026-01-17 10:59:09.670509",
+            "751": {
+                "8": {
+                    "odds": 107,
+                    "timestamp": "2026-01-17T15:57:18.415971",
+                    "market_name": "Bookmaker",
+                    "line": null
+                },
+                "9": {
+                    "odds": 110,
+                    "timestamp": "2026-01-17T15:44:22.956744",
+                    "market_name": "BetOnline",
+                    "line": null
+                },
+                "66": {
+                    "odds": 113,
+                    "timestamp": "2026-01-17T15:58:27.009063",
+                    "market_name": "Prophet Exchange",
+                    "line": null
+                },
+                "36": {
+                    "odds": 105,
+                    "timestamp": "2026-01-17T14:36:21.25041",
+                    "market_name": "TheScore US",
+                    "line": null
+                },
+                "60": {
+                    "odds": 105,
+                    "timestamp": "2026-01-17T14:36:21.309962",
+                    "market_name": "TheScore CA",
+                    "line": null
+                },
+                "20": {
+                    "odds": 105,
+                    "timestamp": "2026-01-17T03:39:01.471335",
+                    "market_name": "Caesars",
+                    "line": null
+                },
+                "25": {
+                    "odds": 102,
+                    "timestamp": "2026-01-17T14:32:37.844376",
+                    "market_name": "Parx",
+                    "line": null
+                },
+                "27": {
+                    "odds": 102,
+                    "timestamp": "2026-01-17T14:32:37.904521",
+                    "market_name": "Sugarhouse",
+                    "line": null
+                },
+                "78": {
+                    "odds": 105,
+                    "timestamp": "2026-01-17T03:41:16.633643",
+                    "market_name": "Bet365",
+                    "line": null
+                },
+                "7": {
+                    "odds": -110,
+                    "timestamp": "2026-01-17T15:20:08.631586",
+                    "market_name": "Sharp Book Price",
+                    "line": null
+                },
+                "24": {
+                    "odds": 105,
+                    "timestamp": "2026-01-17T14:33:39.928211",
+                    "market_name": "Hard Rock",
+                    "line": null
+                },
+                "59": {
+                    "odds": 105,
+                    "timestamp": "2026-01-17T03:12:09.643952",
+                    "market_name": "Buckeye",
+                    "line": null
+                },
+                "1": {
+                    "odds": 105,
+                    "timestamp": "2026-01-17T05:56:46.493156",
+                    "market_name": "DraftKings",
+                    "line": null
+                },
+                "77": {
+                    "odds": -110,
+                    "timestamp": "2026-01-17T15:18:58.944595",
+                    "market_name": "3et",
+                    "line": null
+                },
+                "49": {
+                    "odds": -110,
+                    "timestamp": "2026-01-17T15:50:27.580173",
+                    "market_name": "Unabated",
+                    "line": null
+                },
+                "99": {
+                    "odds": 105,
+                    "timestamp": "2026-01-17T13:09:34.93963",
+                    "market_name": "SouthPoint",
+                    "line": null
+                },
+                "2": {
+                    "odds": 102,
+                    "timestamp": "2026-01-17T15:12:06.553188",
+                    "market_name": "FanDuel",
+                    "line": null
+                },
+                "17": {
+                    "odds": 100,
+                    "timestamp": "2026-01-17T14:32:38.108027",
+                    "market_name": "BetRivers",
+                    "line": null
+                },
+                "89": {
+                    "odds": 111,
+                    "timestamp": "2026-01-17T15:19:07.796313",
+                    "market_name": "Novig",
+                    "line": null
+                },
+                "86": {
+                    "odds": 105,
+                    "timestamp": "2026-01-17T12:55:24.525648",
+                    "market_name": "Fanatics",
+                    "line": null
+                },
+                "4": {
+                    "odds": 100,
+                    "timestamp": "2026-01-17T15:27:31.440844",
+                    "market_name": "BetMGM",
+                    "line": null
+                },
+                "6": {
+                    "odds": -110,
+                    "timestamp": "2026-01-17T13:24:42.644645",
+                    "market_name": "Circa",
+                    "line": null
+                },
+                "91": {
+                    "odds": 100,
+                    "timestamp": "2026-01-17T06:41:02.836029",
+                    "market_name": "Fliff",
+                    "line": null
+                },
+                "92": {
+                    "odds": 109,
+                    "timestamp": "2026-01-17T15:58:20.48545",
+                    "market_name": "STX",
+                    "line": null
+                },
+                "104": {
+                    "odds": 111,
+                    "timestamp": "2026-01-17T15:25:04.249462",
+                    "market_name": "SxBet",
+                    "line": null
+                },
+                "69": {
+                    "odds": 100,
+                    "timestamp": "2026-01-17T15:30:03.29699",
+                    "market_name": "Sports Interaction",
+                    "line": null
+                },
+                "98": {
+                    "odds": 105,
+                    "timestamp": "2026-01-17T05:57:03.127074",
+                    "market_name": "Wagershack",
+                    "line": null
+                },
+                "105": {
+                    "odds": 101,
+                    "timestamp": "2026-01-17T15:17:26.156505",
+                    "market_name": "Kalshi",
+                    "line": null
+                },
+                "95": {
+                    "odds": 106,
+                    "timestamp": "2026-01-17T15:57:40.514602",
+                    "market_name": "Bet105",
+                    "line": null
+                },
+                "107": {
+                    "odds": 108,
+                    "timestamp": "2026-01-17T15:25:29.44325",
+                    "market_name": "Polymarket",
+                    "line": null
+                }
+            },
+            "730": {
+                "107": {
+                    "odds": -113,
+                    "timestamp": "2026-01-17T15:25:29.417862",
+                    "market_name": "Polymarket",
+                    "line": null
+                },
+                "8": {
+                    "odds": -126,
+                    "timestamp": "2026-01-17T15:57:18.358941",
+                    "market_name": "Bookmaker",
+                    "line": null
+                },
+                "66": {
+                    "odds": -114,
+                    "timestamp": "2026-01-17T15:58:26.996796",
+                    "market_name": "Prophet Exchange",
+                    "line": null
+                },
+                "7": {
+                    "odds": -110,
+                    "timestamp": "2026-01-17T15:20:08.608432",
+                    "market_name": "Sharp Book Price",
+                    "line": null
+                },
+                "36": {
+                    "odds": -125,
+                    "timestamp": "2026-01-17T14:36:21.370725",
+                    "market_name": "TheScore US",
+                    "line": null
+                },
+                "60": {
+                    "odds": -125,
+                    "timestamp": "2026-01-17T14:36:21.413403",
+                    "market_name": "TheScore CA",
+                    "line": null
+                },
+                "25": {
+                    "odds": -124,
+                    "timestamp": "2026-01-17T14:32:37.829921",
+                    "market_name": "Parx",
+                    "line": null
+                },
+                "27": {
+                    "odds": -124,
+                    "timestamp": "2026-01-17T14:32:37.892856",
+                    "market_name": "Sugarhouse",
+                    "line": null
+                },
+                "49": {
+                    "odds": -110,
+                    "timestamp": "2026-01-17T15:50:27.539067",
+                    "market_name": "Unabated",
+                    "line": null
+                },
+                "20": {
+                    "odds": -125,
+                    "timestamp": "2026-01-17T03:39:01.46182",
+                    "market_name": "Caesars",
+                    "line": null
+                },
+                "24": {
+                    "odds": -125,
+                    "timestamp": "2026-01-17T14:33:39.893179",
+                    "market_name": "Hard Rock",
+                    "line": null
+                },
+                "69": {
+                    "odds": -120,
+                    "timestamp": "2026-01-17T15:30:03.285846",
+                    "market_name": "Sports Interaction",
+                    "line": null
+                },
+                "78": {
+                    "odds": -125,
+                    "timestamp": "2026-01-17T03:41:16.603075",
+                    "market_name": "Bet365",
+                    "line": null
+                },
+                "59": {
+                    "odds": -125,
+                    "timestamp": "2026-01-17T03:12:09.632981",
+                    "market_name": "Buckeye",
+                    "line": null
+                },
+                "1": {
+                    "odds": -125,
+                    "timestamp": "2026-01-17T05:56:46.503109",
+                    "market_name": "DraftKings",
+                    "line": null
+                },
+                "9": {
+                    "odds": -125,
+                    "timestamp": "2026-01-17T15:44:22.870766",
+                    "market_name": "BetOnline",
+                    "line": null
+                },
+                "77": {
+                    "odds": -110,
+                    "timestamp": "2026-01-17T15:18:58.743089",
+                    "market_name": "3et",
+                    "line": null
+                },
+                "91": {
+                    "odds": -125,
+                    "timestamp": "2026-01-17T06:41:02.825814",
+                    "market_name": "Fliff",
+                    "line": null
+                },
+                "104": {
+                    "odds": -116,
+                    "timestamp": "2026-01-17T14:44:59.61603",
+                    "market_name": "SxBet",
+                    "line": null
+                },
+                "95": {
+                    "odds": -122,
+                    "timestamp": "2026-01-17T15:51:18.596346",
+                    "market_name": "Bet105",
+                    "line": null
+                },
+                "2": {
+                    "odds": -122,
+                    "timestamp": "2026-01-17T15:12:06.522714",
+                    "market_name": "FanDuel",
+                    "line": null
+                },
+                "17": {
+                    "odds": -127,
+                    "timestamp": "2026-01-17T14:32:38.092388",
+                    "market_name": "BetRivers",
+                    "line": null
+                },
+                "89": {
+                    "odds": -115,
+                    "timestamp": "2026-01-17T15:29:13.499943",
+                    "market_name": "Novig",
+                    "line": null
+                },
+                "86": {
+                    "odds": -125,
+                    "timestamp": "2026-01-17T12:55:24.492687",
+                    "market_name": "Fanatics",
+                    "line": null
+                },
+                "4": {
+                    "odds": -120,
+                    "timestamp": "2026-01-17T15:27:31.404702",
+                    "market_name": "BetMGM",
+                    "line": null
+                },
+                "6": {
+                    "odds": -110,
+                    "timestamp": "2026-01-17T13:24:42.567838",
+                    "market_name": "Circa",
+                    "line": null
+                },
+                "92": {
+                    "odds": -115,
+                    "timestamp": "2026-01-17T14:44:29.850832",
+                    "market_name": "STX",
+                    "line": null
+                },
+                "99": {
+                    "odds": -125,
+                    "timestamp": "2026-01-17T13:09:34.927362",
+                    "market_name": "SouthPoint",
+                    "line": null
+                },
+                "105": {
+                    "odds": -126,
+                    "timestamp": "2026-01-17T14:17:05.836436",
+                    "market_name": "Kalshi",
+                    "line": null
+                },
+                "98": {
+                    "odds": -125,
+                    "timestamp": "2026-01-17T05:57:03.118944",
+                    "market_name": "Wagershack",
+                    "line": null
+                }
+            }
+        },
+        "104584": {
+            "start_time": "2026-01-17T18:00:00",
+            "name": "Rangers New York NYR @ Flyers Philadelphia PHI",
+            "timestamp": "2026-01-17 10:59:09.672106",
+            "726": {
+                "7": {
+                    "odds": -110,
+                    "timestamp": "2026-01-17T15:39:35.691825",
+                    "market_name": "Sharp Book Price",
+                    "line": null
+                },
+                "66": {
+                    "odds": 126,
+                    "timestamp": "2026-01-17T15:41:30.858067",
+                    "market_name": "Prophet Exchange",
+                    "line": null
+                },
+                "49": {
+                    "odds": -110,
+                    "timestamp": "2026-01-17T15:41:06.071543",
+                    "market_name": "Unabated",
+                    "line": null
+                },
+                "36": {
+                    "odds": 125,
+                    "timestamp": "2026-01-16T21:06:40.911621",
+                    "market_name": "TheScore US",
+                    "line": null
+                },
+                "25": {
+                    "odds": 125,
+                    "timestamp": "2026-01-17T13:17:24.130957",
+                    "market_name": "Parx",
+                    "line": null
+                },
+                "60": {
+                    "odds": 125,
+                    "timestamp": "2026-01-16T21:06:40.941864",
+                    "market_name": "TheScore CA",
+                    "line": null
+                },
+                "24": {
+                    "odds": 125,
+                    "timestamp": "2026-01-16T22:34:53.868012",
+                    "market_name": "Hard Rock",
+                    "line": null
+                },
+                "78": {
+                    "odds": 125,
+                    "timestamp": "2026-01-16T22:28:31.891269",
+                    "market_name": "Bet365",
+                    "line": null
+                },
+                "59": {
+                    "odds": 125,
+                    "timestamp": "2026-01-17T15:48:25.600167",
+                    "market_name": "Buckeye",
+                    "line": null
+                },
+                "1": {
+                    "odds": 120,
+                    "timestamp": "2026-01-17T14:19:25.524736",
+                    "market_name": "DraftKings",
+                    "line": null
+                },
+                "20": {
+                    "odds": 126,
+                    "timestamp": "2026-01-17T04:44:08.614735",
+                    "market_name": "Caesars",
+                    "line": null
+                },
+                "104": {
+                    "odds": 129,
+                    "timestamp": "2026-01-17T14:17:32.330136",
+                    "market_name": "SxBet",
+                    "line": null
+                },
+                "77": {
+                    "odds": -110,
+                    "timestamp": "2026-01-17T15:32:08.541995",
+                    "market_name": "3et",
+                    "line": null
+                },
+                "8": {
+                    "odds": 117,
+                    "timestamp": "2026-01-17T15:52:01.335804",
+                    "market_name": "Bookmaker",
+                    "line": null
+                },
+                "95": {
+                    "odds": 119,
+                    "timestamp": "2026-01-17T15:53:00.292335",
+                    "market_name": "Bet105",
+                    "line": null
+                },
+                "99": {
+                    "odds": 120,
+                    "timestamp": "2026-01-17T13:09:43.508352",
+                    "market_name": "SouthPoint",
+                    "line": null
+                },
+                "105": {
+                    "odds": 119,
+                    "timestamp": "2026-01-17T15:15:25.267962",
+                    "market_name": "Kalshi",
+                    "line": null
+                },
+                "4": {
+                    "odds": 120,
+                    "timestamp": "2026-01-17T15:32:01.567037",
+                    "market_name": "BetMGM",
+                    "line": null
+                },
+                "69": {
+                    "odds": 120,
+                    "timestamp": "2026-01-17T15:34:31.748219",
+                    "market_name": "Sports Interaction",
+                    "line": null
+                },
+                "9": {
+                    "odds": 126,
+                    "timestamp": "2026-01-16T22:20:58.660143",
+                    "market_name": "BetOnline",
+                    "line": null
+                },
+                "91": {
+                    "odds": 115,
+                    "timestamp": "2026-01-17T14:41:04.57768",
+                    "market_name": "Fliff",
+                    "line": null
+                },
+                "86": {
+                    "odds": 120,
+                    "timestamp": "2026-01-17T02:48:31.814427",
+                    "market_name": "Fanatics",
+                    "line": null
+                },
+                "92": {
+                    "odds": 122,
+                    "timestamp": "2026-01-17T15:46:24.788617",
+                    "market_name": "STX",
+                    "line": null
+                },
+                "2": {
+                    "odds": 116,
+                    "timestamp": "2026-01-17T15:41:00.156906",
+                    "market_name": "FanDuel",
+                    "line": null
+                },
+                "98": {
+                    "odds": 125,
+                    "timestamp": "2026-01-17T04:01:03.053268",
+                    "market_name": "Wagershack",
+                    "line": null
+                },
+                "89": {
+                    "odds": 125,
+                    "timestamp": "2026-01-17T15:16:03.292415",
+                    "market_name": "Novig",
+                    "line": null
+                },
+                "6": {
+                    "odds": -110,
+                    "timestamp": "2026-01-17T13:05:13.808645",
+                    "market_name": "Circa",
+                    "line": null
+                },
+                "17": {
+                    "odds": 123,
+                    "timestamp": "2026-01-17T13:17:24.060522",
+                    "market_name": "BetRivers",
+                    "line": null
+                },
+                "27": {
+                    "odds": 125,
+                    "timestamp": "2026-01-17T13:17:24.145337",
+                    "market_name": "Sugarhouse",
+                    "line": null
+                },
+                "107": {
+                    "odds": 127,
+                    "timestamp": "2026-01-17T13:27:38.12028",
+                    "market_name": "Polymarket",
+                    "line": null
+                }
+            },
+            "727": {
+                "36": {
+                    "odds": -145,
+                    "timestamp": "2026-01-16T21:06:40.97563",
+                    "market_name": "TheScore US",
+                    "line": null
+                },
+                "60": {
+                    "odds": -145,
+                    "timestamp": "2026-01-16T21:06:40.990805",
+                    "market_name": "TheScore CA",
+                    "line": null
+                },
+                "7": {
+                    "odds": -110,
+                    "timestamp": "2026-01-17T14:19:55.587689",
+                    "market_name": "Sharp Book Price",
+                    "line": null
+                },
+                "8": {
+                    "odds": -138,
+                    "timestamp": "2026-01-17T15:58:28.894348",
+                    "market_name": "Bookmaker",
+                    "line": null
+                },
+                "66": {
+                    "odds": -131,
+                    "timestamp": "2026-01-17T15:03:47.081859",
+                    "market_name": "Prophet Exchange",
+                    "line": null
+                },
+                "49": {
+                    "odds": -110,
+                    "timestamp": "2026-01-17T15:41:05.953429",
+                    "market_name": "Unabated",
+                    "line": null
+                },
+                "25": {
+                    "odds": -152,
+                    "timestamp": "2026-01-17T13:17:24.121574",
+                    "market_name": "Parx",
+                    "line": null
+                },
+                "17": {
+                    "odds": -157,
+                    "timestamp": "2026-01-17T13:17:24.047584",
+                    "market_name": "BetRivers",
+                    "line": null
+                },
+                "27": {
+                    "odds": -152,
+                    "timestamp": "2026-01-17T13:17:24.133157",
+                    "market_name": "Sugarhouse",
+                    "line": null
+                },
+                "24": {
+                    "odds": -145,
+                    "timestamp": "2026-01-16T22:34:53.820018",
+                    "market_name": "Hard Rock",
+                    "line": null
+                },
+                "78": {
+                    "odds": -150,
+                    "timestamp": "2026-01-16T22:28:31.878015",
+                    "market_name": "Bet365",
+                    "line": null
+                },
+                "59": {
+                    "odds": -145,
+                    "timestamp": "2026-01-17T15:48:25.587725",
+                    "market_name": "Buckeye",
+                    "line": null
+                },
+                "1": {
+                    "odds": -142,
+                    "timestamp": "2026-01-17T14:19:25.557296",
+                    "market_name": "DraftKings",
+                    "line": null
+                },
+                "20": {
+                    "odds": -150,
+                    "timestamp": "2026-01-17T04:44:08.597972",
+                    "market_name": "Caesars",
+                    "line": null
+                },
+                "77": {
+                    "odds": -110,
+                    "timestamp": "2026-01-17T15:32:07.844378",
+                    "market_name": "3et",
+                    "line": null
+                },
+                "104": {
+                    "odds": -129,
+                    "timestamp": "2026-01-17T15:34:00.610047",
+                    "market_name": "SxBet",
+                    "line": null
+                },
+                "99": {
+                    "odds": -140,
+                    "timestamp": "2026-01-17T13:09:43.495168",
+                    "market_name": "SouthPoint",
+                    "line": null
+                },
+                "2": {
+                    "odds": -140,
+                    "timestamp": "2026-01-17T15:41:00.04137",
+                    "market_name": "FanDuel",
+                    "line": null
+                },
+                "86": {
+                    "odds": -145,
+                    "timestamp": "2026-01-17T02:48:31.786393",
+                    "market_name": "Fanatics",
+                    "line": null
+                },
+                "89": {
+                    "odds": -129,
+                    "timestamp": "2026-01-17T15:33:52.154363",
+                    "market_name": "Novig",
+                    "line": null
+                },
+                "105": {
+                    "odds": -142,
+                    "timestamp": "2026-01-17T15:16:10.62251",
+                    "market_name": "Kalshi",
+                    "line": null
+                },
+                "4": {
+                    "odds": -145,
+                    "timestamp": "2026-01-17T15:32:01.482984",
+                    "market_name": "BetMGM",
+                    "line": null
+                },
+                "69": {
+                    "odds": -145,
+                    "timestamp": "2026-01-17T15:34:31.738353",
+                    "market_name": "Sports Interaction",
+                    "line": null
+                },
+                "91": {
+                    "odds": -145,
+                    "timestamp": "2026-01-17T10:54:03.650126",
+                    "market_name": "Fliff",
+                    "line": null
+                },
+                "92": {
+                    "odds": -132,
+                    "timestamp": "2026-01-17T14:44:46.117012",
+                    "market_name": "STX",
+                    "line": null
+                },
+                "98": {
+                    "odds": -145,
+                    "timestamp": "2026-01-17T04:01:03.037551",
+                    "market_name": "Wagershack",
+                    "line": null
+                },
+                "95": {
+                    "odds": -136,
+                    "timestamp": "2026-01-17T15:53:00.302067",
+                    "market_name": "Bet105",
+                    "line": null
+                },
+                "9": {
+                    "odds": -143,
+                    "timestamp": "2026-01-16T22:20:58.671947",
+                    "market_name": "BetOnline",
+                    "line": null
+                },
+                "6": {
+                    "odds": -110,
+                    "timestamp": "2026-01-17T13:05:13.753509",
+                    "market_name": "Circa",
+                    "line": null
+                },
+                "107": {
+                    "odds": -133,
+                    "timestamp": "2026-01-17T13:27:38.100274",
+                    "market_name": "Polymarket",
+                    "line": null
+                }
+            }
+        },
+        "104585": {
+            "start_time": "2026-01-17T20:00:00",
+            "name": "Islanders New York NYI @ Flames Calgary CGY",
+            "timestamp": "2026-01-17 10:59:09.673703",
+            "725": {
+                "77": {
+                    "odds": -110,
+                    "timestamp": "2026-01-17T15:05:00.74803",
+                    "market_name": "3et",
+                    "line": null
+                },
+                "66": {
+                    "odds": -101,
+                    "timestamp": "2026-01-17T15:19:25.678655",
+                    "market_name": "Prophet Exchange",
+                    "line": null
+                },
+                "9": {
+                    "odds": -109,
+                    "timestamp": "2026-01-17T14:28:35.652992",
+                    "market_name": "BetOnline",
+                    "line": null
+                },
+                "8": {
+                    "odds": -112,
+                    "timestamp": "2026-01-17T15:28:27.412085",
+                    "market_name": "Bookmaker",
+                    "line": null
+                },
+                "7": {
+                    "odds": -110,
+                    "timestamp": "2026-01-17T15:05:41.523206",
+                    "market_name": "Sharp Book Price",
+                    "line": null
+                },
+                "17": {
+                    "odds": -113,
+                    "timestamp": "2026-01-17T08:25:03.298195",
+                    "market_name": "BetRivers",
+                    "line": null
+                },
+                "25": {
+                    "odds": -110,
+                    "timestamp": "2026-01-17T08:25:02.855451",
+                    "market_name": "Parx",
+                    "line": null
+                },
+                "78": {
+                    "odds": -115,
+                    "timestamp": "2026-01-16T22:25:31.878427",
+                    "market_name": "Bet365",
+                    "line": null
+                },
+                "60": {
+                    "odds": -115,
+                    "timestamp": "2026-01-16T21:07:30.767298",
+                    "market_name": "TheScore CA",
+                    "line": null
+                },
+                "36": {
+                    "odds": -115,
+                    "timestamp": "2026-01-16T21:07:30.753318",
+                    "market_name": "TheScore US",
+                    "line": null
+                },
+                "24": {
+                    "odds": -110,
+                    "timestamp": "2026-01-16T21:08:01.567178",
+                    "market_name": "Hard Rock",
+                    "line": null
+                },
+                "1": {
+                    "odds": -112,
+                    "timestamp": "2026-01-16T19:03:10.926669",
+                    "market_name": "DraftKings",
+                    "line": null
+                },
+                "104": {
+                    "odds": 100,
+                    "timestamp": "2026-01-17T15:46:02.594369",
+                    "market_name": "SxBet",
+                    "line": null
+                },
+                "6": {
+                    "odds": -110,
+                    "timestamp": "2026-01-17T02:41:01.624735",
+                    "market_name": "Circa",
+                    "line": null
+                },
+                "95": {
+                    "odds": -110,
+                    "timestamp": "2026-01-17T10:00:36.929898",
+                    "market_name": "Bet105",
+                    "line": null
+                },
+                "86": {
+                    "odds": -110,
+                    "timestamp": "2026-01-16T17:46:19.746798",
+                    "market_name": "Fanatics",
+                    "line": null
+                },
+                "89": {
+                    "odds": -102,
+                    "timestamp": "2026-01-17T14:18:42.645586",
+                    "market_name": "Novig",
+                    "line": null
+                },
+                "4": {
+                    "odds": -110,
+                    "timestamp": "2026-01-17T14:28:26.686625",
+                    "market_name": "BetMGM",
+                    "line": null
+                },
+                "69": {
+                    "odds": -110,
+                    "timestamp": "2026-01-17T14:31:16.204444",
+                    "market_name": "Sports Interaction",
+                    "line": null
+                },
+                "49": {
+                    "odds": -110,
+                    "timestamp": "2026-01-17T15:57:22.443895",
+                    "market_name": "Unabated",
+                    "line": null
+                },
+                "20": {
+                    "odds": -110,
+                    "timestamp": "2026-01-17T14:28:24.0066",
+                    "market_name": "Caesars",
+                    "line": null
+                },
+                "2": {
+                    "odds": -104,
+                    "timestamp": "2026-01-17T15:57:19.980959",
+                    "market_name": "FanDuel",
+                    "line": null
+                },
+                "99": {
+                    "odds": -110,
+                    "timestamp": "2026-01-17T13:09:50.803599",
+                    "market_name": "SouthPoint",
+                    "line": null
+                },
+                "27": {
+                    "odds": -110,
+                    "timestamp": "2026-01-17T08:25:03.566845",
+                    "market_name": "Sugarhouse",
+                    "line": null
+                },
+                "91": {
+                    "odds": -110,
+                    "timestamp": "2026-01-17T15:06:03.952827",
+                    "market_name": "Fliff",
+                    "line": null
+                },
+                "98": {
+                    "odds": -110,
+                    "timestamp": "2026-01-17T14:29:15.042307",
+                    "market_name": "Wagershack",
+                    "line": null
+                },
+                "59": {
+                    "odds": -110,
+                    "timestamp": "2026-01-17T03:12:09.779643",
+                    "market_name": "Buckeye",
+                    "line": null
+                },
+                "105": {
+                    "odds": -107,
+                    "timestamp": "2026-01-17T04:43:53.395375",
+                    "market_name": "Kalshi",
+                    "line": null
+                },
+                "92": {
+                    "odds": -104,
+                    "timestamp": "2026-01-17T14:20:18.792055",
+                    "market_name": "STX",
+                    "line": null
+                },
+                "107": {
+                    "odds": -104,
+                    "timestamp": "2026-01-17T15:35:52.585762",
+                    "market_name": "Polymarket",
+                    "line": null
+                }
+            },
+            "742": {
+                "77": {
+                    "odds": -110,
+                    "timestamp": "2026-01-17T15:05:00.343966",
+                    "market_name": "3et",
+                    "line": null
+                },
+                "91": {
+                    "odds": -110,
+                    "timestamp": "2026-01-16T18:28:01.908598",
+                    "market_name": "Fliff",
+                    "line": null
+                },
+                "7": {
+                    "odds": -110,
+                    "timestamp": "2026-01-17T15:05:41.483219",
+                    "market_name": "Sharp Book Price",
+                    "line": null
+                },
+                "9": {
+                    "odds": -105,
+                    "timestamp": "2026-01-17T14:28:35.667176",
+                    "market_name": "BetOnline",
+                    "line": null
+                },
+                "66": {
+                    "odds": -104,
+                    "timestamp": "2026-01-17T15:20:18.455946",
+                    "market_name": "Prophet Exchange",
+                    "line": null
+                },
+                "8": {
+                    "odds": -108,
+                    "timestamp": "2026-01-17T15:28:27.329398",
+                    "market_name": "Bookmaker",
+                    "line": null
+                },
+                "49": {
+                    "odds": -110,
+                    "timestamp": "2026-01-17T15:57:22.386946",
+                    "market_name": "Unabated",
+                    "line": null
+                },
+                "27": {
+                    "odds": -110,
+                    "timestamp": "2026-01-17T08:25:03.558714",
+                    "market_name": "Sugarhouse",
+                    "line": null
+                },
+                "78": {
+                    "odds": -105,
+                    "timestamp": "2026-01-16T22:25:31.868821",
+                    "market_name": "Bet365",
+                    "line": null
+                },
+                "17": {
+                    "odds": -113,
+                    "timestamp": "2026-01-17T08:25:03.286559",
+                    "market_name": "BetRivers",
+                    "line": null
+                },
+                "25": {
+                    "odds": -110,
+                    "timestamp": "2026-01-17T08:25:02.845352",
+                    "market_name": "Parx",
+                    "line": null
+                },
+                "36": {
+                    "odds": -105,
+                    "timestamp": "2026-01-16T21:07:30.790063",
+                    "market_name": "TheScore US",
+                    "line": null
+                },
+                "60": {
+                    "odds": -105,
+                    "timestamp": "2026-01-16T21:07:30.804151",
+                    "market_name": "TheScore CA",
+                    "line": null
+                },
+                "24": {
+                    "odds": -110,
+                    "timestamp": "2026-01-16T21:08:01.590946",
+                    "market_name": "Hard Rock",
+                    "line": null
+                },
+                "59": {
+                    "odds": -110,
+                    "timestamp": "2026-01-17T03:12:09.747748",
+                    "market_name": "Buckeye",
+                    "line": null
+                },
+                "1": {
+                    "odds": -108,
+                    "timestamp": "2026-01-16T19:03:10.939916",
+                    "market_name": "DraftKings",
+                    "line": null
+                },
+                "20": {
+                    "odds": -110,
+                    "timestamp": "2026-01-17T14:28:23.989249",
+                    "market_name": "Caesars",
+                    "line": null
+                },
+                "6": {
+                    "odds": -110,
+                    "timestamp": "2026-01-17T02:41:01.598488",
+                    "market_name": "Circa",
+                    "line": null
+                },
+                "95": {
+                    "odds": -106,
+                    "timestamp": "2026-01-17T10:00:36.95116",
+                    "market_name": "Bet105",
+                    "line": null
+                },
+                "104": {
+                    "odds": -104,
+                    "timestamp": "2026-01-17T15:50:55.410826",
+                    "market_name": "SxBet",
+                    "line": null
+                },
+                "2": {
+                    "odds": -115,
+                    "timestamp": "2026-01-17T15:57:19.940727",
+                    "market_name": "FanDuel",
+                    "line": null
+                },
+                "86": {
+                    "odds": -110,
+                    "timestamp": "2026-01-16T17:46:19.790759",
+                    "market_name": "Fanatics",
+                    "line": null
+                },
+                "89": {
+                    "odds": -103,
+                    "timestamp": "2026-01-17T15:43:12.761656",
+                    "market_name": "Novig",
+                    "line": null
+                },
+                "4": {
+                    "odds": -110,
+                    "timestamp": "2026-01-17T14:28:26.705319",
+                    "market_name": "BetMGM",
+                    "line": null
+                },
+                "69": {
+                    "odds": -110,
+                    "timestamp": "2026-01-17T14:31:16.184308",
+                    "market_name": "Sports Interaction",
+                    "line": null
+                },
+                "99": {
+                    "odds": -110,
+                    "timestamp": "2026-01-17T13:09:50.792763",
+                    "market_name": "SouthPoint",
+                    "line": null
+                },
+                "92": {
+                    "odds": -106,
+                    "timestamp": "2026-01-17T15:04:55.328596",
+                    "market_name": "STX",
+                    "line": null
+                },
+                "107": {
+                    "odds": 100,
+                    "timestamp": "2026-01-17T15:35:52.66185",
+                    "market_name": "Polymarket",
+                    "line": null
+                },
+                "98": {
+                    "odds": -110,
+                    "timestamp": "2026-01-17T14:29:15.066966",
+                    "market_name": "Wagershack",
+                    "line": null
+                },
+                "105": {
+                    "odds": -112,
+                    "timestamp": "2026-01-17T02:59:54.329148",
+                    "market_name": "Kalshi",
+                    "line": null
+                }
+            }
+        },
+        "104586": {
+            "start_time": "2026-01-18T00:00:00",
+            "name": "Canadiens Montreal MTL @ Senators Ottawa OTT",
+            "timestamp": "2026-01-17 10:59:09.675289",
+            "731": {
+                "77": {
+                    "odds": -110,
+                    "timestamp": "2026-01-17T15:39:30.53668",
+                    "market_name": "3et",
+                    "line": null
+                },
+                "7": {
+                    "odds": -110,
+                    "timestamp": "2026-01-17T15:37:06.110603",
+                    "market_name": "Sharp Book Price",
+                    "line": null
+                },
+                "9": {
+                    "odds": 110,
+                    "timestamp": "2026-01-16T22:46:10.207385",
+                    "market_name": "BetOnline",
+                    "line": null
+                },
+                "27": {
+                    "odds": 100,
+                    "timestamp": "2026-01-17T08:25:04.420166",
+                    "market_name": "Sugarhouse",
+                    "line": null
+                },
+                "17": {
+                    "odds": -104,
+                    "timestamp": "2026-01-17T08:25:04.346185",
+                    "market_name": "BetRivers",
+                    "line": null
+                },
+                "25": {
+                    "odds": 100,
+                    "timestamp": "2026-01-17T08:25:03.761115",
+                    "market_name": "Parx",
+                    "line": null
+                },
+                "36": {
+                    "odds": 105,
+                    "timestamp": "2026-01-17T15:21:35.817162",
+                    "market_name": "TheScore US",
+                    "line": null
+                },
+                "60": {
+                    "odds": 105,
+                    "timestamp": "2026-01-17T15:21:35.833018",
+                    "market_name": "TheScore CA",
+                    "line": null
+                },
+                "24": {
+                    "odds": 105,
+                    "timestamp": "2026-01-17T14:36:21.387222",
+                    "market_name": "Hard Rock",
+                    "line": null
+                },
+                "92": {
+                    "odds": 108,
+                    "timestamp": "2026-01-17T15:36:31.757531",
+                    "market_name": "STX",
+                    "line": null
+                },
+                "59": {
+                    "odds": 105,
+                    "timestamp": "2026-01-17T15:05:32.415882",
+                    "market_name": "Buckeye",
+                    "line": null
+                },
+                "6": {
+                    "odds": -110,
+                    "timestamp": "2026-01-17T13:07:23.177129",
+                    "market_name": "Circa",
+                    "line": null
+                },
+                "95": {
+                    "odds": 111,
+                    "timestamp": "2026-01-17T13:07:40.462634",
+                    "market_name": "Bet105",
+                    "line": null
+                },
+                "78": {
+                    "odds": 110,
+                    "timestamp": "2026-01-16T22:58:02.357499",
+                    "market_name": "Bet365",
+                    "line": null
+                },
+                "66": {
+                    "odds": 113,
+                    "timestamp": "2026-01-17T13:30:43.402143",
+                    "market_name": "Prophet Exchange",
+                    "line": null
+                },
+                "8": {
+                    "odds": 110,
+                    "timestamp": "2026-01-16T17:52:06.92228",
+                    "market_name": "Bookmaker",
+                    "line": null
+                },
+                "20": {
+                    "odds": 110,
+                    "timestamp": "2026-01-16T22:46:25.192315",
+                    "market_name": "Caesars",
+                    "line": null
+                },
+                "105": {
+                    "odds": 105,
+                    "timestamp": "2026-01-16T18:30:40.262415",
+                    "market_name": "Kalshi",
+                    "line": null
+                },
+                "49": {
+                    "odds": -110,
+                    "timestamp": "2026-01-17T15:37:07.558232",
+                    "market_name": "Unabated",
+                    "line": null
+                },
+                "2": {
+                    "odds": 104,
+                    "timestamp": "2026-01-17T15:18:45.843355",
+                    "market_name": "FanDuel",
+                    "line": null
+                },
+                "86": {
+                    "odds": 105,
+                    "timestamp": "2026-01-17T14:31:31.048975",
+                    "market_name": "Fanatics",
+                    "line": null
+                },
+                "89": {
+                    "odds": 111,
+                    "timestamp": "2026-01-17T15:36:33.278422",
+                    "market_name": "Novig",
+                    "line": null
+                },
+                "104": {
+                    "odds": 111,
+                    "timestamp": "2026-01-17T15:52:32.20147",
+                    "market_name": "SxBet",
+                    "line": null
+                },
+                "4": {
+                    "odds": 105,
+                    "timestamp": "2026-01-17T10:00:12.57051",
+                    "market_name": "BetMGM",
+                    "line": null
+                },
+                "69": {
+                    "odds": 105,
+                    "timestamp": "2026-01-17T09:45:10.555512",
+                    "market_name": "Sports Interaction",
+                    "line": null
+                },
+                "91": {
+                    "odds": 105,
+                    "timestamp": "2026-01-16T17:59:00.797348",
+                    "market_name": "Fliff",
+                    "line": null
+                },
+                "1": {
+                    "odds": 110,
+                    "timestamp": "2026-01-16T22:46:11.668928",
+                    "market_name": "DraftKings",
+                    "line": null
+                },
+                "99": {
+                    "odds": 110,
+                    "timestamp": "2026-01-17T13:10:16.699983",
+                    "market_name": "SouthPoint",
+                    "line": null
+                },
+                "98": {
+                    "odds": 110,
+                    "timestamp": "2026-01-17T04:01:03.252308",
+                    "market_name": "Wagershack",
+                    "line": null
+                },
+                "107": {
+                    "odds": 113,
+                    "timestamp": "2026-01-17T15:57:39.207911",
+                    "market_name": "Polymarket",
+                    "line": null
+                }
+            },
+            "732": {
+                "77": {
+                    "odds": -110,
+                    "timestamp": "2026-01-17T15:39:30.235903",
+                    "market_name": "3et",
+                    "line": null
+                },
+                "7": {
+                    "odds": -110,
+                    "timestamp": "2026-01-17T15:37:06.078814",
+                    "market_name": "Sharp Book Price",
+                    "line": null
+                },
+                "9": {
+                    "odds": -125,
+                    "timestamp": "2026-01-16T22:46:10.23962",
+                    "market_name": "BetOnline",
+                    "line": null
+                },
+                "49": {
+                    "odds": -110,
+                    "timestamp": "2026-01-17T15:37:07.491958",
+                    "market_name": "Unabated",
+                    "line": null
+                },
+                "27": {
+                    "odds": -121,
+                    "timestamp": "2026-01-17T08:25:04.411509",
+                    "market_name": "Sugarhouse",
+                    "line": null
+                },
+                "25": {
+                    "odds": -121,
+                    "timestamp": "2026-01-17T08:25:03.750996",
+                    "market_name": "Parx",
+                    "line": null
+                },
+                "78": {
+                    "odds": -130,
+                    "timestamp": "2026-01-16T22:58:02.318883",
+                    "market_name": "Bet365",
+                    "line": null
+                },
+                "24": {
+                    "odds": -125,
+                    "timestamp": "2026-01-17T14:36:21.324986",
+                    "market_name": "Hard Rock",
+                    "line": null
+                },
+                "92": {
+                    "odds": -122,
+                    "timestamp": "2026-01-17T15:36:35.957643",
+                    "market_name": "STX",
+                    "line": null
+                },
+                "59": {
+                    "odds": -125,
+                    "timestamp": "2026-01-17T15:05:32.398953",
+                    "market_name": "Buckeye",
+                    "line": null
+                },
+                "6": {
+                    "odds": -110,
+                    "timestamp": "2026-01-17T13:07:23.159526",
+                    "market_name": "Circa",
+                    "line": null
+                },
+                "95": {
+                    "odds": -128,
+                    "timestamp": "2026-01-17T13:07:40.440359",
+                    "market_name": "Bet105",
+                    "line": null
+                },
+                "1": {
+                    "odds": -130,
+                    "timestamp": "2026-01-16T22:46:11.678074",
+                    "market_name": "DraftKings",
+                    "line": null
+                },
+                "60": {
+                    "odds": -125,
+                    "timestamp": "2026-01-17T15:21:35.869471",
+                    "market_name": "TheScore CA",
+                    "line": null
+                },
+                "104": {
+                    "odds": -119,
+                    "timestamp": "2026-01-17T13:34:25.275796",
+                    "market_name": "SxBet",
+                    "line": null
+                },
+                "17": {
+                    "odds": -124,
+                    "timestamp": "2026-01-17T08:25:04.338161",
+                    "market_name": "BetRivers",
+                    "line": null
+                },
+                "66": {
+                    "odds": -118,
+                    "timestamp": "2026-01-17T15:38:08.50861",
+                    "market_name": "Prophet Exchange",
+                    "line": null
+                },
+                "105": {
+                    "odds": -126,
+                    "timestamp": "2026-01-17T07:00:50.318234",
+                    "market_name": "Kalshi",
+                    "line": null
+                },
+                "36": {
+                    "odds": -125,
+                    "timestamp": "2026-01-17T15:21:35.852941",
+                    "market_name": "TheScore US",
+                    "line": null
+                },
+                "20": {
+                    "odds": -130,
+                    "timestamp": "2026-01-16T22:46:25.182876",
+                    "market_name": "Caesars",
+                    "line": null
+                },
+                "8": {
+                    "odds": -130,
+                    "timestamp": "2026-01-17T12:56:16.103283",
+                    "market_name": "Bookmaker",
+                    "line": null
+                },
+                "2": {
+                    "odds": -125,
+                    "timestamp": "2026-01-17T15:18:45.742785",
+                    "market_name": "FanDuel",
+                    "line": null
+                },
+                "86": {
+                    "odds": -125,
+                    "timestamp": "2026-01-17T14:31:31.023035",
+                    "market_name": "Fanatics",
+                    "line": null
+                },
+                "89": {
+                    "odds": -117,
+                    "timestamp": "2026-01-17T15:55:43.057536",
+                    "market_name": "Novig",
+                    "line": null
+                },
+                "4": {
+                    "odds": -125,
+                    "timestamp": "2026-01-17T15:47:34.444183",
+                    "market_name": "BetMGM",
+                    "line": null
+                },
+                "69": {
+                    "odds": -125,
+                    "timestamp": "2026-01-17T15:49:29.540335",
+                    "market_name": "Sports Interaction",
+                    "line": null
+                },
+                "91": {
+                    "odds": -130,
+                    "timestamp": "2026-01-16T18:31:35.339373",
+                    "market_name": "Fliff",
+                    "line": null
+                },
+                "99": {
+                    "odds": -130,
+                    "timestamp": "2026-01-17T13:10:16.687488",
+                    "market_name": "SouthPoint",
+                    "line": null
+                },
+                "98": {
+                    "odds": -130,
+                    "timestamp": "2026-01-17T04:01:03.240723",
+                    "market_name": "Wagershack",
+                    "line": null
+                },
+                "107": {
+                    "odds": -117,
+                    "timestamp": "2026-01-17T15:57:25.339255",
+                    "market_name": "Polymarket",
+                    "line": null
+                }
+            }
+        },
+        "104587": {
+            "start_time": "2026-01-18T00:00:00",
+            "name": "Blue Jackets Columbus CBJ @ Penguins Pittsburgh PIT",
+            "timestamp": "2026-01-17 10:59:09.676884",
+            "750": {
+                "77": {
+                    "odds": -110,
+                    "timestamp": "2026-01-17T13:01:19.652151",
+                    "market_name": "3et",
+                    "line": null
+                },
+                "7": {
+                    "odds": -110,
+                    "timestamp": "2026-01-17T13:03:29.999227",
+                    "market_name": "Sharp Book Price",
+                    "line": null
+                },
+                "9": {
+                    "odds": 106,
+                    "timestamp": "2026-01-17T02:45:07.210713",
+                    "market_name": "BetOnline",
+                    "line": null
+                },
+                "8": {
+                    "odds": 105,
+                    "timestamp": "2026-01-17T05:57:29.799095",
+                    "market_name": "Bookmaker",
+                    "line": null
+                },
+                "49": {
+                    "odds": -110,
+                    "timestamp": "2026-01-17T05:57:30.16542",
+                    "market_name": "Unabated",
+                    "line": null
+                },
+                "17": {
+                    "odds": 107,
+                    "timestamp": "2026-01-17T11:11:27.7556",
+                    "market_name": "BetRivers",
+                    "line": null
+                },
+                "25": {
+                    "odds": 110,
+                    "timestamp": "2026-01-17T11:11:27.658997",
+                    "market_name": "Parx",
+                    "line": null
+                },
+                "27": {
+                    "odds": 110,
+                    "timestamp": "2026-01-17T11:11:27.670882",
+                    "market_name": "Sugarhouse",
+                    "line": null
+                },
+                "20": {
+                    "odds": 105,
+                    "timestamp": "2026-01-17T03:13:48.789923",
+                    "market_name": "Caesars",
+                    "line": null
+                },
+                "78": {
+                    "odds": 105,
+                    "timestamp": "2026-01-17T03:16:17.104972",
+                    "market_name": "Bet365",
+                    "line": null
+                },
+                "60": {
+                    "odds": 110,
+                    "timestamp": "2026-01-16T21:07:46.492238",
+                    "market_name": "TheScore CA",
+                    "line": null
+                },
+                "36": {
+                    "odds": 110,
+                    "timestamp": "2026-01-16T21:07:46.453032",
+                    "market_name": "TheScore US",
+                    "line": null
+                },
+                "24": {
+                    "odds": 110,
+                    "timestamp": "2026-01-17T15:45:41.280012",
+                    "market_name": "Hard Rock",
+                    "line": null
+                },
+                "92": {
+                    "odds": 101,
+                    "timestamp": "2026-01-17T13:34:41.838285",
+                    "market_name": "STX",
+                    "line": null
+                },
+                "59": {
+                    "odds": 105,
+                    "timestamp": "2026-01-17T03:12:25.342905",
+                    "market_name": "Buckeye",
+                    "line": null
+                },
+                "6": {
+                    "odds": -110,
+                    "timestamp": "2026-01-17T13:07:56.397959",
+                    "market_name": "Circa",
+                    "line": null
+                },
+                "95": {
+                    "odds": 108,
+                    "timestamp": "2026-01-17T12:34:55.459388",
+                    "market_name": "Bet105",
+                    "line": null
+                },
+                "66": {
+                    "odds": 112,
+                    "timestamp": "2026-01-17T14:06:52.956301",
+                    "market_name": "Prophet Exchange",
+                    "line": null
+                },
+                "1": {
+                    "odds": 105,
+                    "timestamp": "2026-01-17T07:20:03.898567",
+                    "market_name": "DraftKings",
+                    "line": null
+                },
+                "104": {
+                    "odds": 109,
+                    "timestamp": "2026-01-17T14:08:32.529973",
+                    "market_name": "SxBet",
+                    "line": null
+                },
+                "2": {
+                    "odds": 106,
+                    "timestamp": "2026-01-17T02:58:57.234628",
+                    "market_name": "FanDuel",
+                    "line": null
+                },
+                "89": {
+                    "odds": 111,
+                    "timestamp": "2026-01-17T13:21:31.558554",
+                    "market_name": "Novig",
+                    "line": null
+                },
+                "4": {
+                    "odds": 105,
+                    "timestamp": "2026-01-17T02:44:49.006313",
+                    "market_name": "BetMGM",
+                    "line": null
+                },
+                "69": {
+                    "odds": 105,
+                    "timestamp": "2026-01-17T02:46:02.26718",
+                    "market_name": "Sports Interaction",
+                    "line": null
+                },
+                "91": {
+                    "odds": 105,
+                    "timestamp": "2026-01-17T09:32:02.910547",
+                    "market_name": "Fliff",
+                    "line": null
+                },
+                "86": {
+                    "odds": 105,
+                    "timestamp": "2026-01-17T12:37:23.875835",
+                    "market_name": "Fanatics",
+                    "line": null
+                },
+                "107": {
+                    "odds": 113,
+                    "timestamp": "2026-01-17T10:00:24.019731",
+                    "market_name": "Polymarket",
+                    "line": null
+                },
+                "99": {
+                    "odds": 105,
+                    "timestamp": "2026-01-17T13:10:58.89394",
+                    "market_name": "SouthPoint",
+                    "line": null
+                },
+                "105": {
+                    "odds": 105,
+                    "timestamp": "2026-01-17T07:17:30.338253",
+                    "market_name": "Kalshi",
+                    "line": null
+                },
+                "98": {
+                    "odds": 105,
+                    "timestamp": "2026-01-17T04:01:03.493746",
+                    "market_name": "Wagershack",
+                    "line": null
+                }
+            },
+            "728": {
+                "77": {
+                    "odds": -110,
+                    "timestamp": "2026-01-17T13:01:19.641689",
+                    "market_name": "3et",
+                    "line": null
+                },
+                "66": {
+                    "odds": -115,
+                    "timestamp": "2026-01-17T14:06:52.943143",
+                    "market_name": "Prophet Exchange",
+                    "line": null
+                },
+                "7": {
+                    "odds": -110,
+                    "timestamp": "2026-01-17T13:03:29.978453",
+                    "market_name": "Sharp Book Price",
+                    "line": null
+                },
+                "9": {
+                    "odds": -120,
+                    "timestamp": "2026-01-17T02:45:07.2839",
+                    "market_name": "BetOnline",
+                    "line": null
+                },
+                "8": {
+                    "odds": -125,
+                    "timestamp": "2026-01-17T05:57:29.768935",
+                    "market_name": "Bookmaker",
+                    "line": null
+                },
+                "49": {
+                    "odds": -110,
+                    "timestamp": "2026-01-17T05:57:30.148601",
+                    "market_name": "Unabated",
+                    "line": null
+                },
+                "17": {
+                    "odds": -136,
+                    "timestamp": "2026-01-17T11:11:27.744393",
+                    "market_name": "BetRivers",
+                    "line": null
+                },
+                "25": {
+                    "odds": -132,
+                    "timestamp": "2026-01-17T11:11:27.648266",
+                    "market_name": "Parx",
+                    "line": null
+                },
+                "27": {
+                    "odds": -132,
+                    "timestamp": "2026-01-17T11:11:27.66098",
+                    "market_name": "Sugarhouse",
+                    "line": null
+                },
+                "60": {
+                    "odds": -130,
+                    "timestamp": "2026-01-16T21:07:46.610559",
+                    "market_name": "TheScore CA",
+                    "line": null
+                },
+                "24": {
+                    "odds": -130,
+                    "timestamp": "2026-01-17T15:45:41.172177",
+                    "market_name": "Hard Rock",
+                    "line": null
+                },
+                "92": {
+                    "odds": -115,
+                    "timestamp": "2026-01-17T13:34:41.805299",
+                    "market_name": "STX",
+                    "line": null
+                },
+                "59": {
+                    "odds": -125,
+                    "timestamp": "2026-01-17T03:12:25.333483",
+                    "market_name": "Buckeye",
+                    "line": null
+                },
+                "6": {
+                    "odds": -110,
+                    "timestamp": "2026-01-17T13:07:56.380393",
+                    "market_name": "Circa",
+                    "line": null
+                },
+                "95": {
+                    "odds": -125,
+                    "timestamp": "2026-01-17T10:00:43.230393",
+                    "market_name": "Bet105",
+                    "line": null
+                },
+                "1": {
+                    "odds": -125,
+                    "timestamp": "2026-01-17T07:20:03.909302",
+                    "market_name": "DraftKings",
+                    "line": null
+                },
+                "104": {
+                    "odds": -116,
+                    "timestamp": "2026-01-17T13:34:48.3919",
+                    "market_name": "SxBet",
+                    "line": null
+                },
+                "2": {
+                    "odds": -128,
+                    "timestamp": "2026-01-17T02:58:57.217684",
+                    "market_name": "FanDuel",
+                    "line": null
+                },
+                "78": {
+                    "odds": -125,
+                    "timestamp": "2026-01-17T03:16:17.092727",
+                    "market_name": "Bet365",
+                    "line": null
+                },
+                "89": {
+                    "odds": -115,
+                    "timestamp": "2026-01-17T15:08:02.840663",
+                    "market_name": "Novig",
+                    "line": null
+                },
+                "20": {
+                    "odds": -125,
+                    "timestamp": "2026-01-17T03:13:48.78124",
+                    "market_name": "Caesars",
+                    "line": null
+                },
+                "4": {
+                    "odds": -125,
+                    "timestamp": "2026-01-17T07:17:08.55131",
+                    "market_name": "BetMGM",
+                    "line": null
+                },
+                "69": {
+                    "odds": -125,
+                    "timestamp": "2026-01-17T07:20:01.859581",
+                    "market_name": "Sports Interaction",
+                    "line": null
+                },
+                "91": {
+                    "odds": -130,
+                    "timestamp": "2026-01-17T12:35:03.956837",
+                    "market_name": "Fliff",
+                    "line": null
+                },
+                "36": {
+                    "odds": -130,
+                    "timestamp": "2026-01-16T21:07:46.566817",
+                    "market_name": "TheScore US",
+                    "line": null
+                },
+                "105": {
+                    "odds": -126,
+                    "timestamp": "2026-01-17T13:54:00.753021",
+                    "market_name": "Kalshi",
+                    "line": null
+                },
+                "99": {
+                    "odds": -125,
+                    "timestamp": "2026-01-17T13:10:58.882153",
+                    "market_name": "SouthPoint",
+                    "line": null
+                },
+                "98": {
+                    "odds": -125,
+                    "timestamp": "2026-01-17T04:01:03.480228",
+                    "market_name": "Wagershack",
+                    "line": null
+                },
+                "86": {
+                    "odds": -125,
+                    "timestamp": "2026-01-17T12:37:23.859437",
+                    "market_name": "Fanatics",
+                    "line": null
+                },
+                "107": {
+                    "odds": -117,
+                    "timestamp": "2026-01-17T10:00:23.99213",
+                    "market_name": "Polymarket",
+                    "line": null
+                }
+            }
+        },
+        "104588": {
+            "start_time": "2026-01-18T00:00:00",
+            "name": "Maple Leafs Toronto TOR @ Jets Winnipeg WPG",
+            "timestamp": "2026-01-17 10:59:09.678520",
+            "733": {
+                "77": {
+                    "odds": -110,
+                    "timestamp": "2026-01-17T15:26:06.240043",
+                    "market_name": "3et",
+                    "line": null
+                },
+                "66": {
+                    "odds": 120,
+                    "timestamp": "2026-01-17T15:51:12.889135",
+                    "market_name": "Prophet Exchange",
+                    "line": null
+                },
+                "8": {
+                    "odds": 111,
+                    "timestamp": "2026-01-17T14:39:09.141953",
+                    "market_name": "Bookmaker",
+                    "line": null
+                },
+                "49": {
+                    "odds": -110,
+                    "timestamp": "2026-01-17T15:43:23.97286",
+                    "market_name": "Unabated",
+                    "line": null
+                },
+                "17": {
+                    "odds": 106,
+                    "timestamp": "2026-01-17T01:53:03.331446",
+                    "market_name": "BetRivers",
+                    "line": null
+                },
+                "24": {
+                    "odds": 110,
+                    "timestamp": "2026-01-17T11:54:56.5656",
+                    "market_name": "Hard Rock",
+                    "line": null
+                },
+                "92": {
+                    "odds": 116,
+                    "timestamp": "2026-01-17T15:36:30.221373",
+                    "market_name": "STX",
+                    "line": null
+                },
+                "59": {
+                    "odds": 110,
+                    "timestamp": "2026-01-17T03:12:30.97667",
+                    "market_name": "Buckeye",
+                    "line": null
+                },
+                "36": {
+                    "odds": 110,
+                    "timestamp": "2026-01-17T00:40:31.507162",
+                    "market_name": "TheScore US",
+                    "line": null
+                },
+                "60": {
+                    "odds": 110,
+                    "timestamp": "2026-01-17T00:40:31.522823",
+                    "market_name": "TheScore CA",
+                    "line": null
+                },
+                "6": {
+                    "odds": -110,
+                    "timestamp": "2026-01-17T14:59:00.556925",
+                    "market_name": "Circa",
+                    "line": null
+                },
+                "89": {
+                    "odds": 118,
+                    "timestamp": "2026-01-17T15:36:54.153127",
+                    "market_name": "Novig",
+                    "line": null
+                },
+                "2": {
+                    "odds": 116,
+                    "timestamp": "2026-01-17T15:34:40.108874",
+                    "market_name": "FanDuel",
+                    "line": null
+                },
+                "20": {
+                    "odds": 115,
+                    "timestamp": "2026-01-17T15:43:22.594095",
+                    "market_name": "Caesars",
+                    "line": null
+                },
+                "91": {
+                    "odds": 110,
+                    "timestamp": "2026-01-17T15:35:05.027688",
+                    "market_name": "Fliff",
+                    "line": null
+                },
+                "99": {
+                    "odds": 110,
+                    "timestamp": "2026-01-17T10:00:19.969442",
+                    "market_name": "SouthPoint",
+                    "line": null
+                },
+                "25": {
+                    "odds": 108,
+                    "timestamp": "2026-01-17T01:53:03.323572",
+                    "market_name": "Parx",
+                    "line": null
+                },
+                "7": {
+                    "odds": -110,
+                    "timestamp": "2026-01-17T15:34:02.927423",
+                    "market_name": "Sharp Book Price",
+                    "line": null
+                },
+                "4": {
+                    "odds": 110,
+                    "timestamp": "2026-01-17T13:00:36.239272",
+                    "market_name": "BetMGM",
+                    "line": null
+                },
+                "69": {
+                    "odds": 110,
+                    "timestamp": "2026-01-17T13:02:16.781388",
+                    "market_name": "Sports Interaction",
+                    "line": null
+                },
+                "86": {
+                    "odds": 115,
+                    "timestamp": "2026-01-17T15:37:15.014124",
+                    "market_name": "Fanatics",
+                    "line": null
+                },
+                "95": {
+                    "odds": 113,
+                    "timestamp": "2026-01-17T02:41:39.860965",
+                    "market_name": "Bet105",
+                    "line": null
+                },
+                "1": {
+                    "odds": 114,
+                    "timestamp": "2026-01-17T15:41:50.394391",
+                    "market_name": "DraftKings",
+                    "line": null
+                },
+                "104": {
+                    "odds": 119,
+                    "timestamp": "2026-01-17T15:49:30.450264",
+                    "market_name": "SxBet",
+                    "line": null
+                },
+                "105": {
+                    "odds": 114,
+                    "timestamp": "2026-01-17T15:47:30.300913",
+                    "market_name": "Kalshi",
+                    "line": null
+                },
+                "78": {
+                    "odds": 115,
+                    "timestamp": "2026-01-17T15:48:04.541547",
+                    "market_name": "Bet365",
+                    "line": null
+                },
+                "98": {
+                    "odds": 115,
+                    "timestamp": "2026-01-17T15:42:26.125304",
+                    "market_name": "Wagershack",
+                    "line": null
+                },
+                "9": {
+                    "odds": 113,
+                    "timestamp": "2026-01-17T01:32:56.441489",
+                    "market_name": "BetOnline",
+                    "line": null
+                },
+                "27": {
+                    "odds": 108,
+                    "timestamp": "2026-01-17T01:53:03.159148",
+                    "market_name": "Sugarhouse",
+                    "line": null
+                },
+                "107": {
+                    "odds": 122,
+                    "timestamp": "2026-01-17T15:47:13.889258",
+                    "market_name": "Polymarket",
+                    "line": null
+                }
+            },
+            "752": {
+                "77": {
+                    "odds": -110,
+                    "timestamp": "2026-01-17T15:25:51.480622",
+                    "market_name": "3et",
+                    "line": null
+                },
+                "66": {
+                    "odds": -124,
+                    "timestamp": "2026-01-17T15:37:08.631942",
+                    "market_name": "Prophet Exchange",
+                    "line": null
+                },
+                "8": {
+                    "odds": -131,
+                    "timestamp": "2026-01-17T09:36:27.513848",
+                    "market_name": "Bookmaker",
+                    "line": null
+                },
+                "49": {
+                    "odds": -110,
+                    "timestamp": "2026-01-17T15:43:23.947624",
+                    "market_name": "Unabated",
+                    "line": null
+                },
+                "17": {
+                    "odds": -134,
+                    "timestamp": "2026-01-17T01:53:03.322729",
+                    "market_name": "BetRivers",
+                    "line": null
+                },
+                "27": {
+                    "odds": -132,
+                    "timestamp": "2026-01-17T01:53:03.148437",
+                    "market_name": "Sugarhouse",
+                    "line": null
+                },
+                "24": {
+                    "odds": -130,
+                    "timestamp": "2026-01-17T11:54:56.544092",
+                    "market_name": "Hard Rock",
+                    "line": null
+                },
+                "92": {
+                    "odds": -131,
+                    "timestamp": "2026-01-17T15:36:30.18528",
+                    "market_name": "STX",
+                    "line": null
+                },
+                "59": {
+                    "odds": -130,
+                    "timestamp": "2026-01-17T03:12:30.966228",
+                    "market_name": "Buckeye",
+                    "line": null
+                },
+                "36": {
+                    "odds": -130,
+                    "timestamp": "2026-01-17T00:40:31.543651",
+                    "market_name": "TheScore US",
+                    "line": null
+                },
+                "60": {
+                    "odds": -130,
+                    "timestamp": "2026-01-17T00:40:31.562344",
+                    "market_name": "TheScore CA",
+                    "line": null
+                },
+                "6": {
+                    "odds": -110,
+                    "timestamp": "2026-01-17T14:59:00.480465",
+                    "market_name": "Circa",
+                    "line": null
+                },
+                "95": {
+                    "odds": -130,
+                    "timestamp": "2026-01-17T11:48:26.304118",
+                    "market_name": "Bet105",
+                    "line": null
+                },
+                "89": {
+                    "odds": -124,
+                    "timestamp": "2026-01-17T15:58:13.47264",
+                    "market_name": "Novig",
+                    "line": null
+                },
+                "1": {
+                    "odds": -135,
+                    "timestamp": "2026-01-17T15:41:50.419307",
+                    "market_name": "DraftKings",
+                    "line": null
+                },
+                "78": {
+                    "odds": -135,
+                    "timestamp": "2026-01-17T15:48:04.526592",
+                    "market_name": "Bet365",
+                    "line": null
+                },
+                "20": {
+                    "odds": -135,
+                    "timestamp": "2026-01-17T15:43:22.563599",
+                    "market_name": "Caesars",
+                    "line": null
+                },
+                "91": {
+                    "odds": -135,
+                    "timestamp": "2026-01-17T14:36:03.665026",
+                    "market_name": "Fliff",
+                    "line": null
+                },
+                "99": {
+                    "odds": -130,
+                    "timestamp": "2026-01-17T10:00:19.953219",
+                    "market_name": "SouthPoint",
+                    "line": null
+                },
+                "7": {
+                    "odds": -110,
+                    "timestamp": "2026-01-17T15:34:02.88365",
+                    "market_name": "Sharp Book Price",
+                    "line": null
+                },
+                "2": {
+                    "odds": -140,
+                    "timestamp": "2026-01-17T15:34:40.072002",
+                    "market_name": "FanDuel",
+                    "line": null
+                },
+                "4": {
+                    "odds": -135,
+                    "timestamp": "2026-01-17T13:00:36.21178",
+                    "market_name": "BetMGM",
+                    "line": null
+                },
+                "69": {
+                    "odds": -135,
+                    "timestamp": "2026-01-17T13:02:16.771108",
+                    "market_name": "Sports Interaction",
+                    "line": null
+                },
+                "86": {
+                    "odds": -140,
+                    "timestamp": "2026-01-17T15:37:14.907857",
+                    "market_name": "Fanatics",
+                    "line": null
+                },
+                "25": {
+                    "odds": -132,
+                    "timestamp": "2026-01-17T01:53:03.313315",
+                    "market_name": "Parx",
+                    "line": null
+                },
+                "105": {
+                    "odds": -137,
+                    "timestamp": "2026-01-17T15:15:30.371981",
+                    "market_name": "Kalshi",
+                    "line": null
+                },
+                "9": {
+                    "odds": -128,
+                    "timestamp": "2026-01-17T01:32:56.479289",
+                    "market_name": "BetOnline",
+                    "line": null
+                },
+                "107": {
+                    "odds": -127,
+                    "timestamp": "2026-01-17T15:47:13.870737",
+                    "market_name": "Polymarket",
+                    "line": null
+                },
+                "104": {
+                    "odds": -123,
+                    "timestamp": "2026-01-17T15:49:30.40903",
+                    "market_name": "SxBet",
+                    "line": null
+                },
+                "98": {
+                    "odds": -135,
+                    "timestamp": "2026-01-17T15:42:26.094556",
+                    "market_name": "Wagershack",
+                    "line": null
+                }
+            }
+        },
+        "104589": {
+            "start_time": "2026-01-18T00:00:00",
+            "name": "Panthers Florida FLA @ Capitals Washington WSH",
+            "timestamp": "2026-01-17 10:59:09.680110",
+            "735": {
+                "6": {
+                    "odds": -110,
+                    "timestamp": "2026-01-17T12:59:49.019135",
+                    "market_name": "Circa",
+                    "line": null
+                },
+                "77": {
+                    "odds": -110,
+                    "timestamp": "2026-01-17T13:04:34.657326",
+                    "market_name": "3et",
+                    "line": null
+                },
+                "95": {
+                    "odds": 121,
+                    "timestamp": "2026-01-17T14:46:45.992441",
+                    "market_name": "Bet105",
+                    "line": null
+                },
+                "25": {
+                    "odds": 118,
+                    "timestamp": "2026-01-17T15:54:37.127811",
+                    "market_name": "Parx",
+                    "line": null
+                },
+                "17": {
+                    "odds": 116,
+                    "timestamp": "2026-01-17T15:54:38.548585",
+                    "market_name": "BetRivers",
+                    "line": null
+                },
+                "27": {
+                    "odds": 118,
+                    "timestamp": "2026-01-17T15:54:42.165895",
+                    "market_name": "Sugarhouse",
+                    "line": null
+                },
+                "1": {
+                    "odds": 120,
+                    "timestamp": "2026-01-17T05:27:37.485628",
+                    "market_name": "DraftKings",
+                    "line": null
+                },
+                "36": {
+                    "odds": 120,
+                    "timestamp": "2026-01-17T00:40:01.299907",
+                    "market_name": "TheScore US",
+                    "line": null
+                },
+                "60": {
+                    "odds": 120,
+                    "timestamp": "2026-01-17T00:40:01.315213",
+                    "market_name": "TheScore CA",
+                    "line": null
+                },
+                "49": {
+                    "odds": -110,
+                    "timestamp": "2026-01-17T15:57:54.025297",
+                    "market_name": "Unabated",
+                    "line": null
+                },
+                "78": {
+                    "odds": 120,
+                    "timestamp": "2026-01-17T05:31:46.845828",
+                    "market_name": "Bet365",
+                    "line": null
+                },
+                "2": {
+                    "odds": 118,
+                    "timestamp": "2026-01-17T15:56:43.600944",
+                    "market_name": "FanDuel",
+                    "line": null
+                },
+                "99": {
+                    "odds": 115,
+                    "timestamp": "2026-01-17T10:00:19.78019",
+                    "market_name": "SouthPoint",
+                    "line": null
+                },
+                "104": {
+                    "odds": 132,
+                    "timestamp": "2026-01-17T15:54:54.910289",
+                    "market_name": "SxBet",
+                    "line": null
+                },
+                "24": {
+                    "odds": 120,
+                    "timestamp": "2026-01-17T12:05:17.290709",
+                    "market_name": "Hard Rock",
+                    "line": null
+                },
+                "8": {
+                    "odds": 128,
+                    "timestamp": "2026-01-17T15:57:52.582926",
+                    "market_name": "Bookmaker",
+                    "line": null
+                },
+                "66": {
+                    "odds": 129,
+                    "timestamp": "2026-01-17T14:59:18.746251",
+                    "market_name": "Prophet Exchange",
+                    "line": null
+                },
+                "4": {
+                    "odds": 118,
+                    "timestamp": "2026-01-17T13:47:07.047918",
+                    "market_name": "BetMGM",
+                    "line": null
+                },
+                "69": {
+                    "odds": 118,
+                    "timestamp": "2026-01-17T13:49:46.877242",
+                    "market_name": "Sports Interaction",
+                    "line": null
+                },
+                "9": {
+                    "odds": 127,
+                    "timestamp": "2026-01-17T13:47:54.724128",
+                    "market_name": "BetOnline",
+                    "line": null
+                },
+                "91": {
+                    "odds": 115,
+                    "timestamp": "2026-01-16T16:21:00.915582",
+                    "market_name": "Fliff",
+                    "line": null
+                },
+                "89": {
+                    "odds": 128,
+                    "timestamp": "2026-01-17T15:50:43.468123",
+                    "market_name": "Novig",
+                    "line": null
+                },
+                "86": {
+                    "odds": 120,
+                    "timestamp": "2026-01-17T15:58:20.91552",
+                    "market_name": "Fanatics",
+                    "line": null
+                },
+                "59": {
+                    "odds": 120,
+                    "timestamp": "2026-01-17T06:29:03.265684",
+                    "market_name": "Buckeye",
+                    "line": null
+                },
+                "107": {
+                    "odds": 133,
+                    "timestamp": "2026-01-17T15:43:02.68627",
+                    "market_name": "Polymarket",
+                    "line": null
+                },
+                "105": {
+                    "odds": 124,
+                    "timestamp": "2026-01-17T15:44:20.587838",
+                    "market_name": "Kalshi",
+                    "line": null
+                },
+                "20": {
+                    "odds": 118,
+                    "timestamp": "2026-01-17T05:28:36.546369",
+                    "market_name": "Caesars",
+                    "line": null
+                },
+                "98": {
+                    "odds": 125,
+                    "timestamp": "2026-01-17T13:47:10.939665",
+                    "market_name": "Wagershack",
+                    "line": null
+                },
+                "92": {
+                    "odds": 127,
+                    "timestamp": "2026-01-17T15:49:55.920252",
+                    "market_name": "STX",
+                    "line": null
+                },
+                "7": {
+                    "odds": -110,
+                    "timestamp": "2026-01-17T13:05:17.110103",
+                    "market_name": "Sharp Book Price",
+                    "line": null
+                }
+            },
+            "737": {
+                "6": {
+                    "odds": -110,
+                    "timestamp": "2026-01-17T12:59:48.981579",
+                    "market_name": "Circa",
+                    "line": null
+                },
+                "95": {
+                    "odds": -138,
+                    "timestamp": "2026-01-17T14:46:46.010952",
+                    "market_name": "Bet105",
+                    "line": null
+                },
+                "25": {
+                    "odds": -143,
+                    "timestamp": "2026-01-17T15:54:37.084233",
+                    "market_name": "Parx",
+                    "line": null
+                },
+                "17": {
+                    "odds": -148,
+                    "timestamp": "2026-01-17T15:54:38.51444",
+                    "market_name": "BetRivers",
+                    "line": null
+                },
+                "27": {
+                    "odds": -143,
+                    "timestamp": "2026-01-17T15:54:42.119281",
+                    "market_name": "Sugarhouse",
+                    "line": null
+                },
+                "60": {
+                    "odds": -140,
+                    "timestamp": "2026-01-17T00:40:01.348821",
+                    "market_name": "TheScore CA",
+                    "line": null
+                },
+                "36": {
+                    "odds": -140,
+                    "timestamp": "2026-01-17T00:40:01.333948",
+                    "market_name": "TheScore US",
+                    "line": null
+                },
+                "91": {
+                    "odds": -145,
+                    "timestamp": "2026-01-17T07:10:04.123791",
+                    "market_name": "Fliff",
+                    "line": null
+                },
+                "20": {
+                    "odds": -140,
+                    "timestamp": "2026-01-17T05:28:36.53431",
+                    "market_name": "Caesars",
+                    "line": null
+                },
+                "49": {
+                    "odds": -110,
+                    "timestamp": "2026-01-17T15:57:53.950483",
+                    "market_name": "Unabated",
+                    "line": null
+                },
+                "78": {
+                    "odds": -140,
+                    "timestamp": "2026-01-17T05:31:46.83515",
+                    "market_name": "Bet365",
+                    "line": null
+                },
+                "2": {
+                    "odds": -142,
+                    "timestamp": "2026-01-17T15:56:43.53586",
+                    "market_name": "FanDuel",
+                    "line": null
+                },
+                "77": {
+                    "odds": -110,
+                    "timestamp": "2026-01-17T13:04:34.641143",
+                    "market_name": "3et",
+                    "line": null
+                },
+                "99": {
+                    "odds": -135,
+                    "timestamp": "2026-01-17T10:00:19.76664",
+                    "market_name": "SouthPoint",
+                    "line": null
+                },
+                "104": {
+                    "odds": -140,
+                    "timestamp": "2026-01-17T15:54:54.882156",
+                    "market_name": "SxBet",
+                    "line": null
+                },
+                "8": {
+                    "odds": -148,
+                    "timestamp": "2026-01-17T15:57:52.510494",
+                    "market_name": "Bookmaker",
+                    "line": null
+                },
+                "66": {
+                    "odds": -135,
+                    "timestamp": "2026-01-17T14:41:55.594934",
+                    "market_name": "Prophet Exchange",
+                    "line": null
+                },
+                "4": {
+                    "odds": -145,
+                    "timestamp": "2026-01-17T13:47:07.026652",
+                    "market_name": "BetMGM",
+                    "line": null
+                },
+                "69": {
+                    "odds": -145,
+                    "timestamp": "2026-01-17T13:49:46.855573",
+                    "market_name": "Sports Interaction",
+                    "line": null
+                },
+                "9": {
+                    "odds": -144,
+                    "timestamp": "2026-01-17T13:47:54.769228",
+                    "market_name": "BetOnline",
+                    "line": null
+                },
+                "89": {
+                    "odds": -135,
+                    "timestamp": "2026-01-17T14:52:42.035832",
+                    "market_name": "Novig",
+                    "line": null
+                },
+                "86": {
+                    "odds": -145,
+                    "timestamp": "2026-01-17T15:58:20.839085",
+                    "market_name": "Fanatics",
+                    "line": null
+                },
+                "59": {
+                    "odds": -140,
+                    "timestamp": "2026-01-17T06:29:03.255429",
+                    "market_name": "Buckeye",
+                    "line": null
+                },
+                "24": {
+                    "odds": -140,
+                    "timestamp": "2026-01-17T10:00:10.924553",
+                    "market_name": "Hard Rock",
+                    "line": null
+                },
+                "105": {
+                    "odds": -148,
+                    "timestamp": "2026-01-17T14:15:00.434042",
+                    "market_name": "Kalshi",
+                    "line": null
+                },
+                "1": {
+                    "odds": -142,
+                    "timestamp": "2026-01-17T05:27:37.496451",
+                    "market_name": "DraftKings",
+                    "line": null
+                },
+                "98": {
+                    "odds": -145,
+                    "timestamp": "2026-01-17T13:47:10.927237",
+                    "market_name": "Wagershack",
+                    "line": null
+                },
+                "92": {
+                    "odds": -144,
+                    "timestamp": "2026-01-17T15:49:55.897047",
+                    "market_name": "STX",
+                    "line": null
+                },
+                "7": {
+                    "odds": -110,
+                    "timestamp": "2026-01-17T13:05:17.075051",
+                    "market_name": "Sharp Book Price",
+                    "line": null
+                },
+                "107": {
+                    "odds": -138,
+                    "timestamp": "2026-01-17T15:41:57.648654",
+                    "market_name": "Polymarket",
+                    "line": null
+                }
+            }
+        },
+        "104590": {
+            "start_time": "2026-01-18T00:00:00",
+            "name": "Hurricanes Carolina CAR @ Devils New Jersey NJ",
+            "timestamp": "2026-01-17 10:59:09.681705",
+            "734": {
+                "95": {
+                    "odds": -116,
+                    "timestamp": "2026-01-17T12:57:44.431071",
+                    "market_name": "Bet105",
+                    "line": null
+                },
+                "77": {
+                    "odds": -110,
+                    "timestamp": "2026-01-17T15:23:51.558409",
+                    "market_name": "3et",
+                    "line": null
+                },
+                "6": {
+                    "odds": -110,
+                    "timestamp": "2026-01-17T12:57:25.041425",
+                    "market_name": "Circa",
+                    "line": null
+                },
+                "17": {
+                    "odds": -113,
+                    "timestamp": "2026-01-17T08:25:04.089292",
+                    "market_name": "BetRivers",
+                    "line": null
+                },
+                "25": {
+                    "odds": -110,
+                    "timestamp": "2026-01-17T08:25:03.530385",
+                    "market_name": "Parx",
+                    "line": null
+                },
+                "27": {
+                    "odds": -110,
+                    "timestamp": "2026-01-17T08:25:04.206443",
+                    "market_name": "Sugarhouse",
+                    "line": null
+                },
+                "86": {
+                    "odds": -120,
+                    "timestamp": "2026-01-17T15:23:19.094876",
+                    "market_name": "Fanatics",
+                    "line": null
+                },
+                "1": {
+                    "odds": -115,
+                    "timestamp": "2026-01-16T18:37:07.817924",
+                    "market_name": "DraftKings",
+                    "line": null
+                },
+                "20": {
+                    "odds": -115,
+                    "timestamp": "2026-01-16T18:40:38.190058",
+                    "market_name": "Caesars",
+                    "line": null
+                },
+                "49": {
+                    "odds": -110,
+                    "timestamp": "2026-01-17T14:10:35.634712",
+                    "market_name": "Unabated",
+                    "line": null
+                },
+                "78": {
+                    "odds": -115,
+                    "timestamp": "2026-01-16T18:41:16.390647",
+                    "market_name": "Bet365",
+                    "line": null
+                },
+                "60": {
+                    "odds": -115,
+                    "timestamp": "2026-01-17T00:16:46.236765",
+                    "market_name": "TheScore CA",
+                    "line": null
+                },
+                "36": {
+                    "odds": -115,
+                    "timestamp": "2026-01-17T00:16:46.207201",
+                    "market_name": "TheScore US",
+                    "line": null
+                },
+                "2": {
+                    "odds": -120,
+                    "timestamp": "2026-01-17T13:24:09.65969",
+                    "market_name": "FanDuel",
+                    "line": null
+                },
+                "99": {
+                    "odds": -115,
+                    "timestamp": "2026-01-17T10:00:19.857153",
+                    "market_name": "SouthPoint",
+                    "line": null
+                },
+                "24": {
+                    "odds": -115,
+                    "timestamp": "2026-01-17T05:44:03.160238",
+                    "market_name": "Hard Rock",
+                    "line": null
+                },
+                "8": {
+                    "odds": -115,
+                    "timestamp": "2026-01-17T06:58:08.183056",
+                    "market_name": "Bookmaker",
+                    "line": null
+                },
+                "4": {
+                    "odds": -118,
+                    "timestamp": "2026-01-17T10:00:08.079104",
+                    "market_name": "BetMGM",
+                    "line": null
+                },
+                "9": {
+                    "odds": -115,
+                    "timestamp": "2026-01-17T03:21:14.430677",
+                    "market_name": "BetOnline",
+                    "line": null
+                },
+                "104": {
+                    "odds": -111,
+                    "timestamp": "2026-01-17T15:31:46.253157",
+                    "market_name": "SxBet",
+                    "line": null
+                },
+                "69": {
+                    "odds": -118,
+                    "timestamp": "2026-01-17T08:50:01.423766",
+                    "market_name": "Sports Interaction",
+                    "line": null
+                },
+                "91": {
+                    "odds": -120,
+                    "timestamp": "2026-01-17T14:39:12.487276",
+                    "market_name": "Fliff",
+                    "line": null
+                },
+                "89": {
+                    "odds": -115,
+                    "timestamp": "2026-01-17T15:48:32.916472",
+                    "market_name": "Novig",
+                    "line": null
+                },
+                "59": {
+                    "odds": -115,
+                    "timestamp": "2026-01-17T06:28:35.383676",
+                    "market_name": "Buckeye",
+                    "line": null
+                },
+                "105": {
+                    "odds": -121,
+                    "timestamp": "2026-01-17T08:45:40.366757",
+                    "market_name": "Kalshi",
+                    "line": null
+                },
+                "98": {
+                    "odds": -115,
+                    "timestamp": "2026-01-17T04:01:03.307526",
+                    "market_name": "Wagershack",
+                    "line": null
+                },
+                "92": {
+                    "odds": -123,
+                    "timestamp": "2026-01-17T12:48:11.672794",
+                    "market_name": "STX",
+                    "line": null
+                },
+                "66": {
+                    "odds": -111,
+                    "timestamp": "2026-01-17T15:46:56.071898",
+                    "market_name": "Prophet Exchange",
+                    "line": null
+                },
+                "7": {
+                    "odds": -110,
+                    "timestamp": "2026-01-17T15:41:59.30057",
+                    "market_name": "Sharp Book Price",
+                    "line": null
+                },
+                "107": {
+                    "odds": -113,
+                    "timestamp": "2026-01-17T06:31:01.063945",
+                    "market_name": "Polymarket",
+                    "line": null
+                }
+            },
+            "724": {
+                "6": {
+                    "odds": -110,
+                    "timestamp": "2026-01-17T12:57:25.009148",
+                    "market_name": "Circa",
+                    "line": null
+                },
+                "95": {
+                    "odds": 100,
+                    "timestamp": "2026-01-17T12:57:44.412644",
+                    "market_name": "Bet105",
+                    "line": null
+                },
+                "77": {
+                    "odds": -110,
+                    "timestamp": "2026-01-17T15:23:47.750251",
+                    "market_name": "3et",
+                    "line": null
+                },
+                "25": {
+                    "odds": -110,
+                    "timestamp": "2026-01-17T08:25:03.519734",
+                    "market_name": "Parx",
+                    "line": null
+                },
+                "17": {
+                    "odds": -113,
+                    "timestamp": "2026-01-17T08:25:04.076165",
+                    "market_name": "BetRivers",
+                    "line": null
+                },
+                "27": {
+                    "odds": -110,
+                    "timestamp": "2026-01-17T08:25:04.197036",
+                    "market_name": "Sugarhouse",
+                    "line": null
+                },
+                "86": {
+                    "odds": 100,
+                    "timestamp": "2026-01-17T15:23:19.147804",
+                    "market_name": "Fanatics",
+                    "line": null
+                },
+                "1": {
+                    "odds": -105,
+                    "timestamp": "2026-01-16T18:37:07.839102",
+                    "market_name": "DraftKings",
+                    "line": null
+                },
+                "20": {
+                    "odds": -105,
+                    "timestamp": "2026-01-16T18:40:38.200905",
+                    "market_name": "Caesars",
+                    "line": null
+                },
+                "49": {
+                    "odds": -110,
+                    "timestamp": "2026-01-17T14:10:35.65462",
+                    "market_name": "Unabated",
+                    "line": null
+                },
+                "78": {
+                    "odds": -105,
+                    "timestamp": "2026-01-16T18:41:16.377356",
+                    "market_name": "Bet365",
+                    "line": null
+                },
+                "60": {
+                    "odds": -105,
+                    "timestamp": "2026-01-17T00:16:46.274147",
+                    "market_name": "TheScore CA",
+                    "line": null
+                },
+                "36": {
+                    "odds": -105,
+                    "timestamp": "2026-01-17T00:16:46.256516",
+                    "market_name": "TheScore US",
+                    "line": null
+                },
+                "2": {
+                    "odds": 100,
+                    "timestamp": "2026-01-17T13:24:09.700282",
+                    "market_name": "FanDuel",
+                    "line": null
+                },
+                "104": {
+                    "odds": 108,
+                    "timestamp": "2026-01-17T14:17:48.844727",
+                    "market_name": "SxBet",
+                    "line": null
+                },
+                "99": {
+                    "odds": -105,
+                    "timestamp": "2026-01-17T10:00:19.873229",
+                    "market_name": "SouthPoint",
+                    "line": null
+                },
+                "24": {
+                    "odds": -105,
+                    "timestamp": "2026-01-17T05:44:03.246971",
+                    "market_name": "Hard Rock",
+                    "line": null
+                },
+                "8": {
+                    "odds": -105,
+                    "timestamp": "2026-01-17T06:58:08.150625",
+                    "market_name": "Bookmaker",
+                    "line": null
+                },
+                "4": {
+                    "odds": -102,
+                    "timestamp": "2026-01-17T10:00:08.123915",
+                    "market_name": "BetMGM",
+                    "line": null
+                },
+                "9": {
+                    "odds": 101,
+                    "timestamp": "2026-01-17T03:21:14.452446",
+                    "market_name": "BetOnline",
+                    "line": null
+                },
+                "69": {
+                    "odds": -102,
+                    "timestamp": "2026-01-17T08:50:01.412095",
+                    "market_name": "Sports Interaction",
+                    "line": null
+                },
+                "91": {
+                    "odds": -105,
+                    "timestamp": "2026-01-17T07:48:02.542692",
+                    "market_name": "Fliff",
+                    "line": null
+                },
+                "89": {
+                    "odds": 108,
+                    "timestamp": "2026-01-17T12:48:11.583601",
+                    "market_name": "Novig",
+                    "line": null
+                },
+                "59": {
+                    "odds": -105,
+                    "timestamp": "2026-01-17T06:28:35.370943",
+                    "market_name": "Buckeye",
+                    "line": null
+                },
+                "105": {
+                    "odds": -103,
+                    "timestamp": "2026-01-17T06:08:50.446142",
+                    "market_name": "Kalshi",
+                    "line": null
+                },
+                "107": {
+                    "odds": 108,
+                    "timestamp": "2026-01-17T06:35:33.173112",
+                    "market_name": "Polymarket",
+                    "line": null
+                },
+                "98": {
+                    "odds": -105,
+                    "timestamp": "2026-01-17T04:01:03.319329",
+                    "market_name": "Wagershack",
+                    "line": null
+                },
+                "92": {
+                    "odds": 108,
+                    "timestamp": "2026-01-17T12:48:11.683206",
+                    "market_name": "STX",
+                    "line": null
+                },
+                "66": {
+                    "odds": 107,
+                    "timestamp": "2026-01-17T15:17:00.312141",
+                    "market_name": "Prophet Exchange",
+                    "line": null
+                },
+                "7": {
+                    "odds": -110,
+                    "timestamp": "2026-01-17T15:26:02.204591",
+                    "market_name": "Sharp Book Price",
+                    "line": null
+                }
+            }
+        },
+        "104591": {
+            "start_time": "2026-01-18T01:00:00",
+            "name": "Bruins Boston BOS @ Blackhawks Chicago CHI",
+            "timestamp": "2026-01-17 10:59:09.683292",
+            "729": {
+                "77": {
+                    "odds": -110,
+                    "timestamp": "2026-01-17T13:18:32.948982",
+                    "market_name": "3et",
+                    "line": null
+                },
+                "7": {
+                    "odds": -110,
+                    "timestamp": "2026-01-17T13:18:41.944434",
+                    "market_name": "Sharp Book Price",
+                    "line": null
+                },
+                "9": {
+                    "odds": -120,
+                    "timestamp": "2026-01-16T22:51:03.476626",
+                    "market_name": "BetOnline",
+                    "line": null
+                },
+                "8": {
+                    "odds": -120,
+                    "timestamp": "2026-01-17T15:32:32.118109",
+                    "market_name": "Bookmaker",
+                    "line": null
+                },
+                "49": {
+                    "odds": -110,
+                    "timestamp": "2026-01-17T15:32:32.993715",
+                    "market_name": "Unabated",
+                    "line": null
+                },
+                "17": {
+                    "odds": -129,
+                    "timestamp": "2026-01-17T08:25:04.576746",
+                    "market_name": "BetRivers",
+                    "line": null
+                },
+                "27": {
+                    "odds": -127,
+                    "timestamp": "2026-01-17T08:25:04.596168",
+                    "market_name": "Sugarhouse",
+                    "line": null
+                },
+                "25": {
+                    "odds": -127,
+                    "timestamp": "2026-01-17T08:25:03.94663",
+                    "market_name": "Parx",
+                    "line": null
+                },
+                "20": {
+                    "odds": -125,
+                    "timestamp": "2026-01-17T04:55:17.258249",
+                    "market_name": "Caesars",
+                    "line": null
+                },
+                "78": {
+                    "odds": -120,
+                    "timestamp": "2026-01-16T18:03:16.528645",
+                    "market_name": "Bet365",
+                    "line": null
+                },
+                "24": {
+                    "odds": -115,
+                    "timestamp": "2026-01-17T10:00:11.103408",
+                    "market_name": "Hard Rock",
+                    "line": null
+                },
+                "36": {
+                    "odds": -120,
+                    "timestamp": "2026-01-17T00:31:35.853582",
+                    "market_name": "TheScore US",
+                    "line": null
+                },
+                "60": {
+                    "odds": -120,
+                    "timestamp": "2026-01-17T00:31:35.872449",
+                    "market_name": "TheScore CA",
+                    "line": null
+                },
+                "92": {
+                    "odds": -113,
+                    "timestamp": "2026-01-17T12:49:54.033346",
+                    "market_name": "STX",
+                    "line": null
+                },
+                "59": {
+                    "odds": -120,
+                    "timestamp": "2026-01-17T03:12:31.020946",
+                    "market_name": "Buckeye",
+                    "line": null
+                },
+                "6": {
+                    "odds": -110,
+                    "timestamp": "2026-01-17T13:09:23.180128",
+                    "market_name": "Circa",
+                    "line": null
+                },
+                "95": {
+                    "odds": -119,
+                    "timestamp": "2026-01-17T13:09:45.243212",
+                    "market_name": "Bet105",
+                    "line": null
+                },
+                "1": {
+                    "odds": -122,
+                    "timestamp": "2026-01-17T03:45:02.130364",
+                    "market_name": "DraftKings",
+                    "line": null
+                },
+                "104": {
+                    "odds": -112,
+                    "timestamp": "2026-01-17T15:24:28.54973",
+                    "market_name": "SxBet",
+                    "line": null
+                },
+                "2": {
+                    "odds": -118,
+                    "timestamp": "2026-01-17T06:45:27.542158",
+                    "market_name": "FanDuel",
+                    "line": null
+                },
+                "66": {
+                    "odds": -111,
+                    "timestamp": "2026-01-17T15:06:10.792134",
+                    "market_name": "Prophet Exchange",
+                    "line": null
+                },
+                "89": {
+                    "odds": -112,
+                    "timestamp": "2026-01-17T15:49:03.008096",
+                    "market_name": "Novig",
+                    "line": null
+                },
+                "4": {
+                    "odds": -120,
+                    "timestamp": "2026-01-16T22:17:53.863844",
+                    "market_name": "BetMGM",
+                    "line": null
+                },
+                "69": {
+                    "odds": -120,
+                    "timestamp": "2026-01-16T22:18:32.049707",
+                    "market_name": "Sports Interaction",
+                    "line": null
+                },
+                "91": {
+                    "odds": -120,
+                    "timestamp": "2026-01-16T16:21:00.841417",
+                    "market_name": "Fliff",
+                    "line": null
+                },
+                "86": {
+                    "odds": -120,
+                    "timestamp": "2026-01-16T19:42:35.302713",
+                    "market_name": "Fanatics",
+                    "line": null
+                },
+                "99": {
+                    "odds": -120,
+                    "timestamp": "2026-01-17T01:24:18.657182",
+                    "market_name": "SouthPoint",
+                    "line": null
+                },
+                "105": {
+                    "odds": -121,
+                    "timestamp": "2026-01-17T07:05:50.317788",
+                    "market_name": "Kalshi",
+                    "line": null
+                },
+                "98": {
+                    "odds": -120,
+                    "timestamp": "2026-01-17T04:01:03.650669",
+                    "market_name": "Wagershack",
+                    "line": null
+                },
+                "107": {
+                    "odds": -113,
+                    "timestamp": "2026-01-17T12:23:34.681269",
+                    "market_name": "Polymarket",
+                    "line": null
+                }
+            },
+            "738": {
+                "77": {
+                    "odds": -110,
+                    "timestamp": "2026-01-17T13:04:58.436774",
+                    "market_name": "3et",
+                    "line": null
+                },
+                "7": {
+                    "odds": -110,
+                    "timestamp": "2026-01-17T13:05:02.334293",
+                    "market_name": "Sharp Book Price",
+                    "line": null
+                },
+                "49": {
+                    "odds": -110,
+                    "timestamp": "2026-01-17T15:32:32.94662",
+                    "market_name": "Unabated",
+                    "line": null
+                },
+                "66": {
+                    "odds": 105,
+                    "timestamp": "2026-01-17T15:05:46.776801",
+                    "market_name": "Prophet Exchange",
+                    "line": null
+                },
+                "9": {
+                    "odds": 106,
+                    "timestamp": "2026-01-16T22:51:03.489491",
+                    "market_name": "BetOnline",
+                    "line": null
+                },
+                "8": {
+                    "odds": 100,
+                    "timestamp": "2026-01-17T15:32:32.090847",
+                    "market_name": "Bookmaker",
+                    "line": null
+                },
+                "107": {
+                    "odds": 108,
+                    "timestamp": "2026-01-17T10:00:24.392087",
+                    "market_name": "Polymarket",
+                    "line": null
+                },
+                "27": {
+                    "odds": 104,
+                    "timestamp": "2026-01-17T08:25:04.586541",
+                    "market_name": "Sugarhouse",
+                    "line": null
+                },
+                "17": {
+                    "odds": 102,
+                    "timestamp": "2026-01-17T08:25:04.56669",
+                    "market_name": "BetRivers",
+                    "line": null
+                },
+                "25": {
+                    "odds": 104,
+                    "timestamp": "2026-01-17T08:25:03.936121",
+                    "market_name": "Parx",
+                    "line": null
+                },
+                "20": {
+                    "odds": 105,
+                    "timestamp": "2026-01-17T04:55:17.269596",
+                    "market_name": "Caesars",
+                    "line": null
+                },
+                "78": {
+                    "odds": 100,
+                    "timestamp": "2026-01-16T18:03:16.51719",
+                    "market_name": "Bet365",
+                    "line": null
+                },
+                "24": {
+                    "odds": -105,
+                    "timestamp": "2026-01-17T13:20:10.094533",
+                    "market_name": "Hard Rock",
+                    "line": null
+                },
+                "36": {
+                    "odds": 100,
+                    "timestamp": "2026-01-17T00:31:35.896156",
+                    "market_name": "TheScore US",
+                    "line": null
+                },
+                "60": {
+                    "odds": 100,
+                    "timestamp": "2026-01-17T00:31:35.915001",
+                    "market_name": "TheScore CA",
+                    "line": null
+                },
+                "92": {
+                    "odds": -101,
+                    "timestamp": "2026-01-17T13:18:38.852834",
+                    "market_name": "STX",
+                    "line": null
+                },
+                "59": {
+                    "odds": 100,
+                    "timestamp": "2026-01-17T03:12:31.010491",
+                    "market_name": "Buckeye",
+                    "line": null
+                },
+                "6": {
+                    "odds": -110,
+                    "timestamp": "2026-01-17T13:09:23.162402",
+                    "market_name": "Circa",
+                    "line": null
+                },
+                "95": {
+                    "odds": 103,
+                    "timestamp": "2026-01-17T12:57:36.031877",
+                    "market_name": "Bet105",
+                    "line": null
+                },
+                "1": {
+                    "odds": 102,
+                    "timestamp": "2026-01-17T03:45:02.141074",
+                    "market_name": "DraftKings",
+                    "line": null
+                },
+                "104": {
+                    "odds": 105,
+                    "timestamp": "2026-01-17T15:52:31.817158",
+                    "market_name": "SxBet",
+                    "line": null
+                },
+                "2": {
+                    "odds": -102,
+                    "timestamp": "2026-01-17T06:45:27.561022",
+                    "market_name": "FanDuel",
+                    "line": null
+                },
+                "89": {
+                    "odds": 108,
+                    "timestamp": "2026-01-17T15:58:04.115427",
+                    "market_name": "Novig",
+                    "line": null
+                },
+                "4": {
+                    "odds": 100,
+                    "timestamp": "2026-01-17T04:25:45.412237",
+                    "market_name": "BetMGM",
+                    "line": null
+                },
+                "69": {
+                    "odds": 100,
+                    "timestamp": "2026-01-16T22:18:32.038982",
+                    "market_name": "Sports Interaction",
+                    "line": null
+                },
+                "91": {
+                    "odds": -105,
+                    "timestamp": "2026-01-16T16:21:00.887675",
+                    "market_name": "Fliff",
+                    "line": null
+                },
+                "86": {
+                    "odds": 100,
+                    "timestamp": "2026-01-16T19:42:35.322296",
+                    "market_name": "Fanatics",
+                    "line": null
+                },
+                "99": {
+                    "odds": 100,
+                    "timestamp": "2026-01-17T01:24:18.695444",
+                    "market_name": "SouthPoint",
+                    "line": null
+                },
+                "105": {
+                    "odds": 101,
+                    "timestamp": "2026-01-17T13:40:10.32581",
+                    "market_name": "Kalshi",
+                    "line": null
+                },
+                "98": {
+                    "odds": 100,
+                    "timestamp": "2026-01-17T04:01:03.661991",
+                    "market_name": "Wagershack",
+                    "line": null
+                }
+            }
+        },
+        "104592": {
+            "start_time": "2026-01-18T03:00:00",
+            "name": "Oilers Edmonton EDM @ Canucks Vancouver VAN",
+            "timestamp": "2026-01-17 10:59:09.684885",
+            "744": {
+                "77": {
+                    "odds": -110,
+                    "timestamp": "2026-01-17T14:33:03.739269",
+                    "market_name": "3et",
+                    "line": null
+                },
+                "7": {
+                    "odds": -110,
+                    "timestamp": "2026-01-17T15:31:49.108447",
+                    "market_name": "Sharp Book Price",
+                    "line": null
+                },
+                "9": {
+                    "odds": -183,
+                    "timestamp": "2026-01-17T01:33:14.702364",
+                    "market_name": "BetOnline",
+                    "line": null
+                },
+                "49": {
+                    "odds": -110,
+                    "timestamp": "2026-01-17T15:06:42.445292",
+                    "market_name": "Unabated",
+                    "line": null
+                },
+                "17": {
+                    "odds": -186,
+                    "timestamp": "2026-01-16T21:13:18.015334",
+                    "market_name": "BetRivers",
+                    "line": null
+                },
+                "27": {
+                    "odds": -182,
+                    "timestamp": "2026-01-17T10:50:57.637327",
+                    "market_name": "Sugarhouse",
+                    "line": null
+                },
+                "25": {
+                    "odds": -182,
+                    "timestamp": "2026-01-17T10:50:57.860448",
+                    "market_name": "Parx",
+                    "line": null
+                },
+                "20": {
+                    "odds": -190,
+                    "timestamp": "2026-01-16T22:38:00.923005",
+                    "market_name": "Caesars",
+                    "line": null
+                },
+                "78": {
+                    "odds": -185,
+                    "timestamp": "2026-01-16T23:01:32.139722",
+                    "market_name": "Bet365",
+                    "line": null
+                },
+                "36": {
+                    "odds": -185,
+                    "timestamp": "2026-01-17T01:04:40.913081",
+                    "market_name": "TheScore US",
+                    "line": null
+                },
+                "60": {
+                    "odds": -185,
+                    "timestamp": "2026-01-17T01:04:40.930126",
+                    "market_name": "TheScore CA",
+                    "line": null
+                },
+                "24": {
+                    "odds": -180,
+                    "timestamp": "2026-01-17T04:08:59.399332",
+                    "market_name": "Hard Rock",
+                    "line": null
+                },
+                "105": {
+                    "odds": -183,
+                    "timestamp": "2026-01-17T04:41:42.370337",
+                    "market_name": "Kalshi",
+                    "line": null
+                },
+                "92": {
+                    "odds": -183,
+                    "timestamp": "2026-01-17T15:31:13.894341",
+                    "market_name": "STX",
+                    "line": null
+                },
+                "59": {
+                    "odds": -185,
+                    "timestamp": "2026-01-17T03:12:36.753022",
+                    "market_name": "Buckeye",
+                    "line": null
+                },
+                "6": {
+                    "odds": -110,
+                    "timestamp": "2026-01-17T13:09:55.008482",
+                    "market_name": "Circa",
+                    "line": null
+                },
+                "95": {
+                    "odds": -183,
+                    "timestamp": "2026-01-17T13:10:26.702541",
+                    "market_name": "Bet105",
+                    "line": null
+                },
+                "2": {
+                    "odds": -192,
+                    "timestamp": "2026-01-17T14:57:16.659737",
+                    "market_name": "FanDuel",
+                    "line": null
+                },
+                "104": {
+                    "odds": -174,
+                    "timestamp": "2026-01-17T15:37:30.496971",
+                    "market_name": "SxBet",
+                    "line": null
+                },
+                "66": {
+                    "odds": -174,
+                    "timestamp": "2026-01-17T15:16:40.88523",
+                    "market_name": "Prophet Exchange",
+                    "line": null
+                },
+                "89": {
+                    "odds": -174,
+                    "timestamp": "2026-01-17T15:31:52.063121",
+                    "market_name": "Novig",
+                    "line": null
+                },
+                "4": {
+                    "odds": -190,
+                    "timestamp": "2026-01-16T22:52:23.736401",
+                    "market_name": "BetMGM",
+                    "line": null
+                },
+                "1": {
+                    "odds": -185,
+                    "timestamp": "2026-01-17T12:57:34.467479",
+                    "market_name": "DraftKings",
+                    "line": null
+                },
+                "69": {
+                    "odds": -190,
+                    "timestamp": "2026-01-16T22:53:02.54071",
+                    "market_name": "Sports Interaction",
+                    "line": null
+                },
+                "86": {
+                    "odds": -190,
+                    "timestamp": "2026-01-17T13:32:23.196164",
+                    "market_name": "Fanatics",
+                    "line": null
+                },
+                "107": {
+                    "odds": -170,
+                    "timestamp": "2026-01-17T15:04:36.933993",
+                    "market_name": "Polymarket",
+                    "line": null
+                },
+                "91": {
+                    "odds": -190,
+                    "timestamp": "2026-01-17T14:49:05.036449",
+                    "market_name": "Fliff",
+                    "line": null
+                },
+                "99": {
+                    "odds": -180,
+                    "timestamp": "2026-01-17T01:24:22.501576",
+                    "market_name": "SouthPoint",
+                    "line": null
+                },
+                "98": {
+                    "odds": -185,
+                    "timestamp": "2026-01-17T04:01:03.788142",
+                    "market_name": "Wagershack",
+                    "line": null
+                },
+                "8": {
+                    "odds": -185,
+                    "timestamp": "2026-01-17T12:58:16.359383",
+                    "market_name": "Bookmaker",
+                    "line": null
+                }
+            },
+            "745": {
+                "7": {
+                    "odds": -110,
+                    "timestamp": "2026-01-17T15:31:49.167995",
+                    "market_name": "Sharp Book Price",
+                    "line": null
+                },
+                "49": {
+                    "odds": -110,
+                    "timestamp": "2026-01-17T15:06:42.467234",
+                    "market_name": "Unabated",
+                    "line": null
+                },
+                "17": {
+                    "odds": 145,
+                    "timestamp": "2026-01-16T21:13:18.003832",
+                    "market_name": "BetRivers",
+                    "line": null
+                },
+                "27": {
+                    "odds": 148,
+                    "timestamp": "2026-01-16T21:13:18.425525",
+                    "market_name": "Sugarhouse",
+                    "line": null
+                },
+                "25": {
+                    "odds": 148,
+                    "timestamp": "2026-01-16T21:13:18.125373",
+                    "market_name": "Parx",
+                    "line": null
+                },
+                "20": {
+                    "odds": 158,
+                    "timestamp": "2026-01-16T22:38:00.934489",
+                    "market_name": "Caesars",
+                    "line": null
+                },
+                "78": {
+                    "odds": 155,
+                    "timestamp": "2026-01-16T23:01:32.127515",
+                    "market_name": "Bet365",
+                    "line": null
+                },
+                "36": {
+                    "odds": 155,
+                    "timestamp": "2026-01-17T01:04:40.948151",
+                    "market_name": "TheScore US",
+                    "line": null
+                },
+                "60": {
+                    "odds": 155,
+                    "timestamp": "2026-01-17T01:04:40.96801",
+                    "market_name": "TheScore CA",
+                    "line": null
+                },
+                "24": {
+                    "odds": 150,
+                    "timestamp": "2026-01-17T12:30:26.594058",
+                    "market_name": "Hard Rock",
+                    "line": null
+                },
+                "105": {
+                    "odds": 152,
+                    "timestamp": "2026-01-17T14:31:15.75116",
+                    "market_name": "Kalshi",
+                    "line": null
+                },
+                "92": {
+                    "odds": 160,
+                    "timestamp": "2026-01-17T15:31:13.914334",
+                    "market_name": "STX",
+                    "line": null
+                },
+                "59": {
+                    "odds": 155,
+                    "timestamp": "2026-01-17T03:12:36.742725",
+                    "market_name": "Buckeye",
+                    "line": null
+                },
+                "66": {
+                    "odds": 164,
+                    "timestamp": "2026-01-17T15:57:36.21728",
+                    "market_name": "Prophet Exchange",
+                    "line": null
+                },
+                "6": {
+                    "odds": -110,
+                    "timestamp": "2026-01-17T13:09:54.981939",
+                    "market_name": "Circa",
+                    "line": null
+                },
+                "95": {
+                    "odds": 161,
+                    "timestamp": "2026-01-17T13:10:26.665071",
+                    "market_name": "Bet105",
+                    "line": null
+                },
+                "1": {
+                    "odds": 154,
+                    "timestamp": "2026-01-17T12:57:34.476648",
+                    "market_name": "DraftKings",
+                    "line": null
+                },
+                "2": {
+                    "odds": 158,
+                    "timestamp": "2026-01-17T14:57:16.781876",
+                    "market_name": "FanDuel",
+                    "line": null
+                },
+                "104": {
+                    "odds": 161,
+                    "timestamp": "2026-01-17T15:32:12.451374",
+                    "market_name": "SxBet",
+                    "line": null
+                },
+                "77": {
+                    "odds": -110,
+                    "timestamp": "2026-01-17T14:33:03.646888",
+                    "market_name": "3et",
+                    "line": null
+                },
+                "89": {
+                    "odds": 162,
+                    "timestamp": "2026-01-17T15:31:52.082426",
+                    "market_name": "Novig",
+                    "line": null
+                },
+                "69": {
+                    "odds": 155,
+                    "timestamp": "2026-01-17T13:56:03.257166",
+                    "market_name": "Sports Interaction",
+                    "line": null
+                },
+                "91": {
+                    "odds": 155,
+                    "timestamp": "2026-01-17T15:32:05.93888",
+                    "market_name": "Fliff",
+                    "line": null
+                },
+                "86": {
+                    "odds": 160,
+                    "timestamp": "2026-01-17T13:32:23.247836",
+                    "market_name": "Fanatics",
+                    "line": null
+                },
+                "4": {
+                    "odds": 155,
+                    "timestamp": "2026-01-17T13:55:10.129468",
+                    "market_name": "BetMGM",
+                    "line": null
+                },
+                "98": {
+                    "odds": 155,
+                    "timestamp": "2026-01-17T04:01:03.799162",
+                    "market_name": "Wagershack",
+                    "line": null
+                },
+                "107": {
+                    "odds": 163,
+                    "timestamp": "2026-01-17T15:06:28.752434",
+                    "market_name": "Polymarket",
+                    "line": null
+                },
+                "99": {
+                    "odds": 160,
+                    "timestamp": "2026-01-17T01:24:22.514897",
+                    "market_name": "SouthPoint",
+                    "line": null
+                },
+                "9": {
+                    "odds": 160,
+                    "timestamp": "2026-01-16T22:52:15.977629",
+                    "market_name": "BetOnline",
+                    "line": null
+                },
+                "8": {
+                    "odds": 160,
+                    "timestamp": "2026-01-17T12:58:16.340363",
+                    "market_name": "Bookmaker",
+                    "line": null
+                }
+            }
+        },
+        "104593": {
+            "start_time": "2026-01-18T03:00:00",
+            "name": "Kings Los Angeles LA @ Ducks Anaheim ANA",
+            "timestamp": "2026-01-17 10:59:09.686428",
+            "748": {
+                "77": {
+                    "odds": -110,
+                    "timestamp": "2026-01-17T15:29:55.835472",
+                    "market_name": "3et",
+                    "line": null
+                },
+                "6": {
+                    "odds": -110,
+                    "timestamp": "2026-01-17T13:02:57.004647",
+                    "market_name": "Circa",
+                    "line": null
+                },
+                "8": {
+                    "odds": -113,
+                    "timestamp": "2026-01-17T15:29:34.10687",
+                    "market_name": "Bookmaker",
+                    "line": null
+                },
+                "25": {
+                    "odds": -127,
+                    "timestamp": "2026-01-17T15:44:49.700731",
+                    "market_name": "Parx",
+                    "line": null
+                },
+                "17": {
+                    "odds": -130,
+                    "timestamp": "2026-01-17T15:44:49.647155",
+                    "market_name": "BetRivers",
+                    "line": null
+                },
+                "27": {
+                    "odds": -127,
+                    "timestamp": "2026-01-17T15:44:49.794585",
+                    "market_name": "Sugarhouse",
+                    "line": null
+                },
+                "105": {
+                    "odds": -121,
+                    "timestamp": "2026-01-17T15:51:25.648976",
+                    "market_name": "Kalshi",
+                    "line": null
+                },
+                "107": {
+                    "odds": -108,
+                    "timestamp": "2026-01-17T13:44:09.468874",
+                    "market_name": "Polymarket",
+                    "line": null
+                },
+                "66": {
+                    "odds": -110,
+                    "timestamp": "2026-01-17T15:29:22.343939",
+                    "market_name": "Prophet Exchange",
+                    "line": null
+                },
+                "86": {
+                    "odds": -115,
+                    "timestamp": "2026-01-17T15:39:48.018591",
+                    "market_name": "Fanatics",
+                    "line": null
+                },
+                "1": {
+                    "odds": -115,
+                    "timestamp": "2026-01-16T18:55:11.30045",
+                    "market_name": "DraftKings",
+                    "line": null
+                },
+                "92": {
+                    "odds": -120,
+                    "timestamp": "2026-01-17T13:32:51.449457",
+                    "market_name": "STX",
+                    "line": null
+                },
+                "2": {
+                    "odds": -122,
+                    "timestamp": "2026-01-17T15:31:09.203497",
+                    "market_name": "FanDuel",
+                    "line": null
+                },
+                "49": {
+                    "odds": -110,
+                    "timestamp": "2026-01-17T15:29:44.572834",
+                    "market_name": "Unabated",
+                    "line": null
+                },
+                "9": {
+                    "odds": -114,
+                    "timestamp": "2026-01-17T10:00:18.580491",
+                    "market_name": "BetOnline",
+                    "line": null
+                },
+                "99": {
+                    "odds": -120,
+                    "timestamp": "2026-01-17T10:00:20.122056",
+                    "market_name": "SouthPoint",
+                    "line": null
+                },
+                "78": {
+                    "odds": -115,
+                    "timestamp": "2026-01-17T01:59:47.161024",
+                    "market_name": "Bet365",
+                    "line": null
+                },
+                "4": {
+                    "odds": -118,
+                    "timestamp": "2026-01-17T13:03:06.522755",
+                    "market_name": "BetMGM",
+                    "line": null
+                },
+                "69": {
+                    "odds": -118,
+                    "timestamp": "2026-01-17T13:04:04.00131",
+                    "market_name": "Sports Interaction",
+                    "line": null
+                },
+                "91": {
+                    "odds": -120,
+                    "timestamp": "2026-01-17T15:30:04.303899",
+                    "market_name": "Fliff",
+                    "line": null
+                },
+                "36": {
+                    "odds": -120,
+                    "timestamp": "2026-01-17T15:45:30.660828",
+                    "market_name": "TheScore US",
+                    "line": null
+                },
+                "60": {
+                    "odds": -120,
+                    "timestamp": "2026-01-17T15:45:30.71597",
+                    "market_name": "TheScore CA",
+                    "line": null
+                },
+                "7": {
+                    "odds": -110,
+                    "timestamp": "2026-01-17T15:34:19.731397",
+                    "market_name": "Sharp Book Price",
+                    "line": null
+                },
+                "24": {
+                    "odds": -120,
+                    "timestamp": "2026-01-17T15:45:41.616379",
+                    "market_name": "Hard Rock",
+                    "line": null
+                },
+                "104": {
+                    "odds": -108,
+                    "timestamp": "2026-01-17T14:04:09.884651",
+                    "market_name": "SxBet",
+                    "line": null
+                },
+                "98": {
+                    "odds": -115,
+                    "timestamp": "2026-01-17T04:01:03.853807",
+                    "market_name": "Wagershack",
+                    "line": null
+                },
+                "89": {
+                    "odds": -113,
+                    "timestamp": "2026-01-17T15:57:23.047389",
+                    "market_name": "Novig",
+                    "line": null
+                },
+                "20": {
+                    "odds": -115,
+                    "timestamp": "2026-01-17T01:57:40.13609",
+                    "market_name": "Caesars",
+                    "line": null
+                },
+                "59": {
+                    "odds": -115,
+                    "timestamp": "2026-01-17T13:00:38.488127",
+                    "market_name": "Buckeye",
+                    "line": null
+                }
+            },
+            "746": {
+                "8": {
+                    "odds": -107,
+                    "timestamp": "2026-01-17T15:29:34.057923",
+                    "market_name": "Bookmaker",
+                    "line": null
+                },
+                "104": {
+                    "odds": 108,
+                    "timestamp": "2026-01-17T15:52:34.351654",
+                    "market_name": "SxBet",
+                    "line": null
+                },
+                "6": {
+                    "odds": -110,
+                    "timestamp": "2026-01-17T13:02:56.986134",
+                    "market_name": "Circa",
+                    "line": null
+                },
+                "107": {
+                    "odds": 104,
+                    "timestamp": "2026-01-17T13:33:26.28887",
+                    "market_name": "Polymarket",
+                    "line": null
+                },
+                "77": {
+                    "odds": -110,
+                    "timestamp": "2026-01-17T15:28:59.940793",
+                    "market_name": "3et",
+                    "line": null
+                },
+                "25": {
+                    "odds": 105,
+                    "timestamp": "2026-01-17T15:44:49.678661",
+                    "market_name": "Parx",
+                    "line": null
+                },
+                "17": {
+                    "odds": 102,
+                    "timestamp": "2026-01-17T15:44:49.62732",
+                    "market_name": "BetRivers",
+                    "line": null
+                },
+                "27": {
+                    "odds": 105,
+                    "timestamp": "2026-01-17T15:44:49.780045",
+                    "market_name": "Sugarhouse",
+                    "line": null
+                },
+                "105": {
+                    "odds": -103,
+                    "timestamp": "2026-01-17T13:32:26.181359",
+                    "market_name": "Kalshi",
+                    "line": null
+                },
+                "86": {
+                    "odds": -105,
+                    "timestamp": "2026-01-17T15:39:48.104732",
+                    "market_name": "Fanatics",
+                    "line": null
+                },
+                "1": {
+                    "odds": -105,
+                    "timestamp": "2026-01-16T18:55:11.312157",
+                    "market_name": "DraftKings",
+                    "line": null
+                },
+                "2": {
+                    "odds": 102,
+                    "timestamp": "2026-01-17T15:31:09.228947",
+                    "market_name": "FanDuel",
+                    "line": null
+                },
+                "20": {
+                    "odds": -105,
+                    "timestamp": "2026-01-17T01:57:40.155333",
+                    "market_name": "Caesars",
+                    "line": null
+                },
+                "49": {
+                    "odds": -110,
+                    "timestamp": "2026-01-17T15:29:44.618281",
+                    "market_name": "Unabated",
+                    "line": null
+                },
+                "9": {
+                    "odds": 100,
+                    "timestamp": "2026-01-17T10:00:18.600419",
+                    "market_name": "BetOnline",
+                    "line": null
+                },
+                "99": {
+                    "odds": 100,
+                    "timestamp": "2026-01-17T10:00:20.137375",
+                    "market_name": "SouthPoint",
+                    "line": null
+                },
+                "78": {
+                    "odds": -105,
+                    "timestamp": "2026-01-17T01:59:47.149487",
+                    "market_name": "Bet365",
+                    "line": null
+                },
+                "91": {
+                    "odds": -105,
+                    "timestamp": "2026-01-17T15:30:04.320346",
+                    "market_name": "Fliff",
+                    "line": null
+                },
+                "4": {
+                    "odds": -102,
+                    "timestamp": "2026-01-17T13:03:06.550545",
+                    "market_name": "BetMGM",
+                    "line": null
+                },
+                "69": {
+                    "odds": -102,
+                    "timestamp": "2026-01-17T13:04:03.990532",
+                    "market_name": "Sports Interaction",
+                    "line": null
+                },
+                "60": {
+                    "odds": 100,
+                    "timestamp": "2026-01-17T15:45:30.818235",
+                    "market_name": "TheScore CA",
+                    "line": null
+                },
+                "36": {
+                    "odds": 100,
+                    "timestamp": "2026-01-17T15:45:30.768197",
+                    "market_name": "TheScore US",
+                    "line": null
+                },
+                "92": {
+                    "odds": 105,
+                    "timestamp": "2026-01-17T13:32:51.46655",
+                    "market_name": "STX",
+                    "line": null
+                },
+                "7": {
+                    "odds": -110,
+                    "timestamp": "2026-01-17T15:34:19.755178",
+                    "market_name": "Sharp Book Price",
+                    "line": null
+                },
+                "24": {
+                    "odds": 100,
+                    "timestamp": "2026-01-17T15:45:41.678053",
+                    "market_name": "Hard Rock",
+                    "line": null
+                },
+                "59": {
+                    "odds": -105,
+                    "timestamp": "2026-01-17T13:00:38.476848",
+                    "market_name": "Buckeye",
+                    "line": null
+                },
+                "66": {
+                    "odds": 105,
+                    "timestamp": "2026-01-17T13:32:57.566336",
+                    "market_name": "Prophet Exchange",
+                    "line": null
+                },
+                "98": {
+                    "odds": -105,
+                    "timestamp": "2026-01-17T04:01:03.866412",
+                    "market_name": "Wagershack",
+                    "line": null
+                },
+                "89": {
+                    "odds": 107,
+                    "timestamp": "2026-01-17T15:47:32.122888",
+                    "market_name": "Novig",
+                    "line": null
+                }
+            }
+        },
+        "104594": {
+            "start_time": "2026-01-18T03:00:00",
+            "name": "Predators Nashville NSH @ Golden Knights Vegas VGK",
+            "timestamp": "2026-01-17 10:59:09.688028",
+            "740": {
+                "95": {
+                    "odds": 191,
+                    "timestamp": "2026-01-17T14:55:55.7242",
+                    "market_name": "Bet105",
+                    "line": null
+                },
+                "6": {
+                    "odds": -110,
+                    "timestamp": "2026-01-17T14:54:54.514729",
+                    "market_name": "Circa",
+                    "line": null
+                },
+                "25": {
+                    "odds": 200,
+                    "timestamp": "2026-01-17T05:29:53.270351",
+                    "market_name": "Parx",
+                    "line": null
+                },
+                "27": {
+                    "odds": 200,
+                    "timestamp": "2026-01-17T05:29:53.137723",
+                    "market_name": "Sugarhouse",
+                    "line": null
+                },
+                "17": {
+                    "odds": 200,
+                    "timestamp": "2026-01-17T05:29:53.454236",
+                    "market_name": "BetRivers",
+                    "line": null
+                },
+                "107": {
+                    "odds": 213,
+                    "timestamp": "2026-01-17T14:55:25.61492",
+                    "market_name": "Polymarket",
+                    "line": null
+                },
+                "8": {
+                    "odds": 185,
+                    "timestamp": "2026-01-17T15:23:29.955788",
+                    "market_name": "Bookmaker",
+                    "line": null
+                },
+                "98": {
+                    "odds": 195,
+                    "timestamp": "2026-01-17T15:44:26.607876",
+                    "market_name": "Wagershack",
+                    "line": null
+                },
+                "66": {
+                    "odds": 196,
+                    "timestamp": "2026-01-17T15:57:05.969947",
+                    "market_name": "Prophet Exchange",
+                    "line": null
+                },
+                "105": {
+                    "odds": 198,
+                    "timestamp": "2026-01-17T06:02:43.848947",
+                    "market_name": "Kalshi",
+                    "line": null
+                },
+                "77": {
+                    "odds": -110,
+                    "timestamp": "2026-01-17T14:51:02.453756",
+                    "market_name": "3et",
+                    "line": null
+                },
+                "1": {
+                    "odds": 195,
+                    "timestamp": "2026-01-17T14:55:06.203023",
+                    "market_name": "DraftKings",
+                    "line": null
+                },
+                "2": {
+                    "odds": 184,
+                    "timestamp": "2026-01-17T15:48:15.320516",
+                    "market_name": "FanDuel",
+                    "line": null
+                },
+                "92": {
+                    "odds": 182,
+                    "timestamp": "2026-01-17T14:58:01.826125",
+                    "market_name": "STX",
+                    "line": null
+                },
+                "99": {
+                    "odds": 200,
+                    "timestamp": "2026-01-17T13:11:28.263574",
+                    "market_name": "SouthPoint",
+                    "line": null
+                },
+                "9": {
+                    "odds": 200,
+                    "timestamp": "2026-01-17T14:56:41.109206",
+                    "market_name": "BetOnline",
+                    "line": null
+                },
+                "104": {
+                    "odds": 196,
+                    "timestamp": "2026-01-17T15:52:32.426226",
+                    "market_name": "SxBet",
+                    "line": null
+                },
+                "24": {
+                    "odds": 190,
+                    "timestamp": "2026-01-17T14:35:06.198496",
+                    "market_name": "Hard Rock",
+                    "line": null
+                },
+                "36": {
+                    "odds": 200,
+                    "timestamp": "2026-01-17T14:56:10.751178",
+                    "market_name": "TheScore US",
+                    "line": null
+                },
+                "60": {
+                    "odds": 200,
+                    "timestamp": "2026-01-17T14:56:10.766064",
+                    "market_name": "TheScore CA",
+                    "line": null
+                },
+                "4": {
+                    "odds": 195,
+                    "timestamp": "2026-01-17T14:55:11.26908",
+                    "market_name": "BetMGM",
+                    "line": null
+                },
+                "69": {
+                    "odds": 195,
+                    "timestamp": "2026-01-17T14:55:48.449461",
+                    "market_name": "Sports Interaction",
+                    "line": null
+                },
+                "78": {
+                    "odds": 200,
+                    "timestamp": "2026-01-17T15:48:04.816274",
+                    "market_name": "Bet365",
+                    "line": null
+                },
+                "7": {
+                    "odds": -110,
+                    "timestamp": "2026-01-17T14:55:11.922475",
+                    "market_name": "Sharp Book Price",
+                    "line": null
+                },
+                "86": {
+                    "odds": 190,
+                    "timestamp": "2026-01-17T14:57:43.368544",
+                    "market_name": "Fanatics",
+                    "line": null
+                },
+                "89": {
+                    "odds": 208,
+                    "timestamp": "2026-01-17T15:51:31.603443",
+                    "market_name": "Novig",
+                    "line": null
+                },
+                "59": {
+                    "odds": 195,
+                    "timestamp": "2026-01-17T14:56:31.247024",
+                    "market_name": "Buckeye",
+                    "line": null
+                },
+                "91": {
+                    "odds": 200,
+                    "timestamp": "2026-01-17T14:57:07.639357",
+                    "market_name": "Fliff",
+                    "line": null
+                },
+                "49": {
+                    "odds": -110,
+                    "timestamp": "2026-01-17T15:48:16.777272",
+                    "market_name": "Unabated",
+                    "line": null
+                },
+                "20": {
+                    "odds": 196,
+                    "timestamp": "2026-01-17T14:59:50.118506",
+                    "market_name": "Caesars",
+                    "line": null
+                }
+            },
+            "754": {
+                "6": {
+                    "odds": -110,
+                    "timestamp": "2026-01-17T14:54:54.496993",
+                    "market_name": "Circa",
+                    "line": null
+                },
+                "95": {
+                    "odds": -222,
+                    "timestamp": "2026-01-17T14:55:55.810419",
+                    "market_name": "Bet105",
+                    "line": null
+                },
+                "25": {
+                    "odds": -250,
+                    "timestamp": "2026-01-17T05:29:53.251812",
+                    "market_name": "Parx",
+                    "line": null
+                },
+                "17": {
+                    "odds": -265,
+                    "timestamp": "2026-01-17T05:29:53.44561",
+                    "market_name": "BetRivers",
+                    "line": null
+                },
+                "27": {
+                    "odds": -250,
+                    "timestamp": "2026-01-17T05:29:53.127544",
+                    "market_name": "Sugarhouse",
+                    "line": null
+                },
+                "8": {
+                    "odds": -221,
+                    "timestamp": "2026-01-17T15:23:29.892774",
+                    "market_name": "Bookmaker",
+                    "line": null
+                },
+                "66": {
+                    "odds": -212,
+                    "timestamp": "2026-01-17T14:49:32.049633",
+                    "market_name": "Prophet Exchange",
+                    "line": null
+                },
+                "105": {
+                    "odds": -239,
+                    "timestamp": "2026-01-17T14:46:45.551859",
+                    "market_name": "Kalshi",
+                    "line": null
+                },
+                "77": {
+                    "odds": -110,
+                    "timestamp": "2026-01-17T14:51:41.954288",
+                    "market_name": "3et",
+                    "line": null
+                },
+                "1": {
+                    "odds": -238,
+                    "timestamp": "2026-01-17T14:55:06.214199",
+                    "market_name": "DraftKings",
+                    "line": null
+                },
+                "2": {
+                    "odds": -225,
+                    "timestamp": "2026-01-17T15:48:15.28532",
+                    "market_name": "FanDuel",
+                    "line": null
+                },
+                "92": {
+                    "odds": -220,
+                    "timestamp": "2026-01-17T14:58:01.78588",
+                    "market_name": "STX",
+                    "line": null
+                },
+                "99": {
+                    "odds": -240,
+                    "timestamp": "2026-01-17T13:11:28.241455",
+                    "market_name": "SouthPoint",
+                    "line": null
+                },
+                "9": {
+                    "odds": -230,
+                    "timestamp": "2026-01-17T14:56:41.250854",
+                    "market_name": "BetOnline",
+                    "line": null
+                },
+                "104": {
+                    "odds": -215,
+                    "timestamp": "2026-01-17T15:52:32.373413",
+                    "market_name": "SxBet",
+                    "line": null
+                },
+                "24": {
+                    "odds": -250,
+                    "timestamp": "2026-01-17T14:35:06.132461",
+                    "market_name": "Hard Rock",
+                    "line": null
+                },
+                "60": {
+                    "odds": -240,
+                    "timestamp": "2026-01-17T14:56:10.797747",
+                    "market_name": "TheScore CA",
+                    "line": null
+                },
+                "36": {
+                    "odds": -240,
+                    "timestamp": "2026-01-17T14:56:10.782575",
+                    "market_name": "TheScore US",
+                    "line": null
+                },
+                "4": {
+                    "odds": -235,
+                    "timestamp": "2026-01-17T14:55:11.23577",
+                    "market_name": "BetMGM",
+                    "line": null
+                },
+                "69": {
+                    "odds": -235,
+                    "timestamp": "2026-01-17T14:55:48.417845",
+                    "market_name": "Sports Interaction",
+                    "line": null
+                },
+                "78": {
+                    "odds": -245,
+                    "timestamp": "2026-01-17T15:48:04.79975",
+                    "market_name": "Bet365",
+                    "line": null
+                },
+                "7": {
+                    "odds": -110,
+                    "timestamp": "2026-01-17T14:55:11.899987",
+                    "market_name": "Sharp Book Price",
+                    "line": null
+                },
+                "86": {
+                    "odds": -240,
+                    "timestamp": "2026-01-17T14:57:43.264054",
+                    "market_name": "Fanatics",
+                    "line": null
+                },
+                "89": {
+                    "odds": -209,
+                    "timestamp": "2026-01-17T15:49:51.607938",
+                    "market_name": "Novig",
+                    "line": null
+                },
+                "98": {
+                    "odds": -245,
+                    "timestamp": "2026-01-17T15:44:26.580191",
+                    "market_name": "Wagershack",
+                    "line": null
+                },
+                "59": {
+                    "odds": -235,
+                    "timestamp": "2026-01-17T14:56:31.232913",
+                    "market_name": "Buckeye",
+                    "line": null
+                },
+                "49": {
+                    "odds": -110,
+                    "timestamp": "2026-01-17T15:48:16.74327",
+                    "market_name": "Unabated",
+                    "line": null
+                },
+                "91": {
+                    "odds": -250,
+                    "timestamp": "2026-01-17T15:49:10.803443",
+                    "market_name": "Fliff",
+                    "line": null
+                },
+                "20": {
+                    "odds": -240,
+                    "timestamp": "2026-01-17T14:59:50.096575",
+                    "market_name": "Caesars",
+                    "line": null
+                },
+                "107": {
+                    "odds": -223,
+                    "timestamp": "2026-01-17T14:52:34.304452",
+                    "market_name": "Polymarket",
+                    "line": null
+                }
+            }
+        }
+    }
+}
