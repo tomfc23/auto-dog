@@ -1,0 +1,3278 @@
+{
+    "739": {
+        "name": "Detroit Red Wings",
+        "abbrevation": "DET",
+        "event_id": 104578,
+        "team_id": 739,
+        "league_id": 6
+    },
+    "749": {
+        "name": "San Jose Sharks",
+        "abbrevation": "SJS",
+        "event_id": 104578,
+        "team_id": 749,
+        "league_id": 6
+    },
+    "734": {
+        "name": "Carolina Hurricanes",
+        "abbrevation": "CAR",
+        "event_id": 104579,
+        "team_id": 734,
+        "league_id": 6
+    },
+    "735": {
+        "name": "Florida Panthers",
+        "abbrevation": "FLA",
+        "event_id": 104579,
+        "team_id": 735,
+        "league_id": 6
+    },
+    "741": {
+        "name": "St. Louis Blues",
+        "abbrevation": "STL",
+        "event_id": 104580,
+        "team_id": 741,
+        "league_id": 6
+    },
+    "736": {
+        "name": "Tampa Bay Lightning",
+        "abbrevation": "TBL",
+        "event_id": 104580,
+        "team_id": 736,
+        "league_id": 6
+    },
+    "743": {
+        "name": "Colorado Avalanche",
+        "abbrevation": "COL",
+        "event_id": 104581,
+        "team_id": 743,
+        "league_id": 6
+    },
+    "740": {
+        "name": "Nashville Predators",
+        "abbrevation": "NSH",
+        "event_id": 104581,
+        "team_id": 740,
+        "league_id": 6
+    },
+    "748": {
+        "name": "Los Angeles Kings",
+        "abbrevation": "LAK",
+        "event_id": 104582,
+        "team_id": 748,
+        "league_id": 6
+    },
+    "746": {
+        "name": "Anaheim Ducks",
+        "abbrevation": "ANA",
+        "event_id": 104582,
+        "team_id": 746,
+        "league_id": 6
+    },
+    "730": {
+        "name": "Buffalo Sabres",
+        "abbrevation": "BUF",
+        "event_id": 104583,
+        "team_id": 730,
+        "league_id": 6
+    },
+    "751": {
+        "name": "Minnesota Wild",
+        "abbrevation": "MIN",
+        "event_id": 104583,
+        "team_id": 751,
+        "league_id": 6
+    },
+    "727": {
+        "name": "Philadelphia Flyers",
+        "abbrevation": "PHI",
+        "event_id": 104584,
+        "team_id": 727,
+        "league_id": 6
+    },
+    "726": {
+        "name": "New York Rangers",
+        "abbrevation": "NYR",
+        "event_id": 104584,
+        "team_id": 726,
+        "league_id": 6
+    },
+    "742": {
+        "name": "Calgary Flames",
+        "abbrevation": "CGY",
+        "event_id": 104585,
+        "team_id": 742,
+        "league_id": 6
+    },
+    "725": {
+        "name": "New York Islanders",
+        "abbrevation": "NYI",
+        "event_id": 104585,
+        "team_id": 725,
+        "league_id": 6
+    },
+    "732": {
+        "name": "Ottawa Senators",
+        "abbrevation": "OTT",
+        "event_id": 104586,
+        "team_id": 732,
+        "league_id": 6
+    },
+    "731": {
+        "name": "Montreal Canadiens",
+        "abbrevation": "MTL",
+        "event_id": 104586,
+        "team_id": 731,
+        "league_id": 6
+    },
+    "728": {
+        "name": "Pittsburgh Penguins",
+        "abbrevation": "PIT",
+        "event_id": 104587,
+        "team_id": 728,
+        "league_id": 6
+    },
+    "750": {
+        "name": "Columbus Blue Jackets",
+        "abbrevation": "CBJ",
+        "event_id": 104587,
+        "team_id": 750,
+        "league_id": 6
+    },
+    "752": {
+        "name": "Winnipeg Jets",
+        "abbrevation": "WPG",
+        "event_id": 104588,
+        "team_id": 752,
+        "league_id": 6
+    },
+    "733": {
+        "name": "Toronto Maple Leafs",
+        "abbrevation": "TOR",
+        "event_id": 104588,
+        "team_id": 733,
+        "league_id": 6
+    },
+    "737": {
+        "name": "Washington Capitals",
+        "abbrevation": "WSH",
+        "event_id": 104589,
+        "team_id": 737,
+        "league_id": 6
+    },
+    "724": {
+        "name": "New Jersey Devils",
+        "abbrevation": "NJD",
+        "event_id": 104590,
+        "team_id": 724,
+        "league_id": 6
+    },
+    "738": {
+        "name": "Chicago Blackhawks",
+        "abbrevation": "CHI",
+        "event_id": 104591,
+        "team_id": 738,
+        "league_id": 6
+    },
+    "729": {
+        "name": "Boston Bruins",
+        "abbrevation": "BOS",
+        "event_id": 104591,
+        "team_id": 729,
+        "league_id": 6
+    },
+    "745": {
+        "name": "Vancouver Canucks",
+        "abbrevation": "VAN",
+        "event_id": 104592,
+        "team_id": 745,
+        "league_id": 6
+    },
+    "744": {
+        "name": "Edmonton Oilers",
+        "abbrevation": "EDM",
+        "event_id": 104592,
+        "team_id": 744,
+        "league_id": 6
+    },
+    "754": {
+        "name": "Vegas Golden Knights",
+        "abbrevation": "VGK",
+        "event_id": 104594,
+        "team_id": 754,
+        "league_id": 6
+    },
+    "747": {
+        "name": "Dallas Stars",
+        "abbrevation": "DAL",
+        "event_id": 104595,
+        "team_id": 747,
+        "league_id": 6
+    },
+    "755": {
+        "name": "Seattle Kraken",
+        "abbrevation": "SEA",
+        "event_id": 104600,
+        "team_id": 755,
+        "league_id": 6
+    },
+    "753": {
+        "name": "Utah Mammoth",
+        "abbrevation": "UTA",
+        "event_id": 105112,
+        "team_id": 753,
+        "league_id": 6
+    },
+    "63": {
+        "name": "Atlanta Hawks",
+        "abbrevation": "ATL",
+        "event_id": 105976,
+        "team_id": 63,
+        "league_id": 3
+    },
+    "79": {
+        "name": "Milwaukee Bucks",
+        "abbrevation": "MIL",
+        "event_id": 105976,
+        "team_id": 79,
+        "league_id": 3
+    },
+    "68": {
+        "name": "Cleveland Cavaliers",
+        "abbrevation": "CLE",
+        "event_id": 105977,
+        "team_id": 68,
+        "league_id": 3
+    },
+    "83": {
+        "name": "Oklahoma City Thunder",
+        "abbrevation": "OKC",
+        "event_id": 105977,
+        "team_id": 83,
+        "league_id": 3
+    },
+    "82": {
+        "name": "New York Knicks",
+        "abbrevation": "NYK",
+        "event_id": 105978,
+        "team_id": 82,
+        "league_id": 3
+    },
+    "69": {
+        "name": "Dallas Mavericks",
+        "abbrevation": "DAL",
+        "event_id": 105978,
+        "team_id": 69,
+        "league_id": 3
+    },
+    "71": {
+        "name": "Detroit Pistons",
+        "abbrevation": "DET",
+        "event_id": 105979,
+        "team_id": 71,
+        "league_id": 3
+    },
+    "64": {
+        "name": "Boston Celtics",
+        "abbrevation": "BOS",
+        "event_id": 105979,
+        "team_id": 64,
+        "league_id": 3
+    },
+    "74": {
+        "name": "Indiana Pacers",
+        "abbrevation": "IND",
+        "event_id": 106600,
+        "team_id": 74,
+        "league_id": 3
+    },
+    "81": {
+        "name": "New Orleans Pelicans",
+        "abbrevation": "NOP",
+        "event_id": 106600,
+        "team_id": 81,
+        "league_id": 3
+    },
+    "65": {
+        "name": "Brooklyn Nets",
+        "abbrevation": "BKN",
+        "event_id": 106601,
+        "team_id": 65,
+        "league_id": 3
+    },
+    "67": {
+        "name": "Chicago Bulls",
+        "abbrevation": "CHI",
+        "event_id": 106601,
+        "team_id": 67,
+        "league_id": 3
+    },
+    "85": {
+        "name": "Philadelphia 76ers",
+        "abbrevation": "PHI",
+        "event_id": 106602,
+        "team_id": 85,
+        "league_id": 3
+    },
+    "90": {
+        "name": "Toronto Raptors",
+        "abbrevation": "TOR",
+        "event_id": 106603,
+        "team_id": 90,
+        "league_id": 3
+    },
+    "75": {
+        "name": "LA Clippers",
+        "abbrevation": "LAC",
+        "event_id": 106603,
+        "team_id": 75,
+        "league_id": 3
+    },
+    "73": {
+        "name": "Houston Rockets",
+        "abbrevation": "HOU",
+        "event_id": 106604,
+        "team_id": 73,
+        "league_id": 3
+    },
+    "80": {
+        "name": "Minnesota Timberwolves",
+        "abbrevation": "MIN",
+        "event_id": 106604,
+        "team_id": 80,
+        "league_id": 3
+    },
+    "88": {
+        "name": "Sacramento Kings",
+        "abbrevation": "SAC",
+        "event_id": 106605,
+        "team_id": 88,
+        "league_id": 3
+    },
+    "92": {
+        "name": "Washington Wizards",
+        "abbrevation": "WAS",
+        "event_id": 106605,
+        "team_id": 92,
+        "league_id": 3
+    },
+    "91": {
+        "name": "Utah Jazz",
+        "abbrevation": "UTA",
+        "event_id": 106606,
+        "team_id": 91,
+        "league_id": 3
+    },
+    "86": {
+        "name": "Phoenix Suns",
+        "abbrevation": "PHX",
+        "event_id": 106608,
+        "team_id": 86,
+        "league_id": 3
+    },
+    "78": {
+        "name": "Miami Heat",
+        "abbrevation": "MIA",
+        "event_id": 106610,
+        "team_id": 78,
+        "league_id": 3
+    },
+    "89": {
+        "name": "San Antonio Spurs",
+        "abbrevation": "SAS",
+        "event_id": 106611,
+        "team_id": 89,
+        "league_id": 3
+    },
+    "72": {
+        "name": "Golden State Warriors",
+        "abbrevation": "GSW",
+        "event_id": 106612,
+        "team_id": 72,
+        "league_id": 3
+    },
+    "66": {
+        "name": "Charlotte Hornets",
+        "abbrevation": "CHA",
+        "event_id": 106612,
+        "team_id": 66,
+        "league_id": 3
+    },
+    "70": {
+        "name": "Denver Nuggets",
+        "abbrevation": "DEN",
+        "event_id": 106613,
+        "team_id": 70,
+        "league_id": 3
+    },
+    "87": {
+        "name": "Portland Trail Blazers",
+        "abbrevation": "POR",
+        "event_id": 106614,
+        "team_id": 87,
+        "league_id": 3
+    },
+    "76": {
+        "name": "Los Angeles Lakers",
+        "abbrevation": "LAL",
+        "event_id": 106614,
+        "team_id": 76,
+        "league_id": 3
+    },
+    "77": {
+        "name": "Memphis Grizzlies",
+        "abbrevation": "MEM",
+        "event_id": 106615,
+        "team_id": 77,
+        "league_id": 3
+    },
+    "84": {
+        "name": "Orlando Magic",
+        "abbrevation": "ORL",
+        "event_id": 106615,
+        "team_id": 84,
+        "league_id": 3
+    },
+    "61": {
+        "name": "Toronto Blue Jays",
+        "abbrevation": "TOR",
+        "event_id": 108544,
+        "team_id": 61,
+        "league_id": 5
+    },
+    "43": {
+        "name": "Houston Astros",
+        "abbrevation": "HOU",
+        "event_id": 108544,
+        "team_id": 43,
+        "league_id": 5
+    },
+    "46": {
+        "name": "Los Angeles Dodgers",
+        "abbrevation": "LAD",
+        "event_id": 108545,
+        "team_id": 46,
+        "league_id": 5
+    },
+    "44": {
+        "name": "Kansas City Royals",
+        "abbrevation": "KC",
+        "event_id": 108545,
+        "team_id": 44,
+        "league_id": 5
+    },
+    "54": {
+        "name": "Pittsburgh Pirates",
+        "abbrevation": "PIT",
+        "event_id": 108546,
+        "team_id": 54,
+        "league_id": 5
+    },
+    "36": {
+        "name": "Boston Red Sox",
+        "abbrevation": "BOS",
+        "event_id": 108546,
+        "team_id": 36,
+        "league_id": 5
+    },
+    "62": {
+        "name": "Washington Nationals",
+        "abbrevation": "WAS",
+        "event_id": 108547,
+        "team_id": 62,
+        "league_id": 5
+    },
+    "41": {
+        "name": "Colorado Rockies",
+        "abbrevation": "COL",
+        "event_id": 108547,
+        "team_id": 41,
+        "league_id": 5
+    },
+    "58": {
+        "name": "St. Louis Cardinals",
+        "abbrevation": "STL",
+        "event_id": 108548,
+        "team_id": 58,
+        "league_id": 5
+    },
+    "55": {
+        "name": "San Diego Padres",
+        "abbrevation": "SD",
+        "event_id": 108548,
+        "team_id": 55,
+        "league_id": 5
+    },
+    "37": {
+        "name": "Chicago Cubs",
+        "abbrevation": "CHC",
+        "event_id": 108549,
+        "team_id": 37,
+        "league_id": 5
+    },
+    "50": {
+        "name": "New York Mets",
+        "abbrevation": "NYM",
+        "event_id": 108550,
+        "team_id": 50,
+        "league_id": 5
+    },
+    "33": {
+        "name": "Arizona Diamondbacks",
+        "abbrevation": "ARI",
+        "event_id": 108550,
+        "team_id": 33,
+        "league_id": 5
+    },
+    "35": {
+        "name": "Baltimore Orioles",
+        "abbrevation": "BAL",
+        "event_id": 108551,
+        "team_id": 35,
+        "league_id": 5
+    },
+    "40": {
+        "name": "Cleveland Guardians",
+        "abbrevation": "CLE",
+        "event_id": 108552,
+        "team_id": 40,
+        "league_id": 5
+    },
+    "57": {
+        "name": "Seattle Mariners",
+        "abbrevation": "SEA",
+        "event_id": 108553,
+        "team_id": 57,
+        "league_id": 5
+    },
+    "39": {
+        "name": "Cincinnati Reds",
+        "abbrevation": "CIN",
+        "event_id": 108553,
+        "team_id": 39,
+        "league_id": 5
+    },
+    "49": {
+        "name": "Minnesota Twins",
+        "abbrevation": "MIN",
+        "event_id": 108554,
+        "team_id": 49,
+        "league_id": 5
+    },
+    "45": {
+        "name": "Los Angeles Angels",
+        "abbrevation": "LAA",
+        "event_id": 108557,
+        "team_id": 45,
+        "league_id": 5
+    },
+    "42": {
+        "name": "Detroit Tigers",
+        "abbrevation": "DET",
+        "event_id": 108558,
+        "team_id": 42,
+        "league_id": 5
+    },
+    "56": {
+        "name": "San Francisco Giants",
+        "abbrevation": "SF",
+        "event_id": 108559,
+        "team_id": 56,
+        "league_id": 5
+    },
+    "38": {
+        "name": "Chicago White Sox",
+        "abbrevation": "CWS",
+        "event_id": 108563,
+        "team_id": 38,
+        "league_id": 5
+    },
+    "52": {
+        "name": "Oakland Athletics",
+        "abbrevation": "OAK",
+        "event_id": 108564,
+        "team_id": 52,
+        "league_id": 5
+    },
+    "60": {
+        "name": "Texas Rangers",
+        "abbrevation": "TEX",
+        "event_id": 108567,
+        "team_id": 60,
+        "league_id": 5
+    },
+    "51": {
+        "name": "New York Yankees",
+        "abbrevation": "NYY",
+        "event_id": 108568,
+        "team_id": 51,
+        "league_id": 5
+    },
+    "59": {
+        "name": "Tampa Bay Rays",
+        "abbrevation": "TB",
+        "event_id": 108570,
+        "team_id": 59,
+        "league_id": 5
+    },
+    "53": {
+        "name": "Philadelphia Phillies",
+        "abbrevation": "PHI",
+        "event_id": 108571,
+        "team_id": 53,
+        "league_id": 5
+    },
+    "34": {
+        "name": "Atlanta Braves",
+        "abbrevation": "ATL",
+        "event_id": 108571,
+        "team_id": 34,
+        "league_id": 5
+    },
+    "48": {
+        "name": "Milwaukee Brewers",
+        "abbrevation": "MIL",
+        "event_id": 108591,
+        "team_id": 48,
+        "league_id": 5
+    },
+    "47": {
+        "name": "Miami Marlins",
+        "abbrevation": "MIA",
+        "event_id": 108638,
+        "team_id": 47,
+        "league_id": 5
+    },
+    "419": {
+        "name": "Providence",
+        "abbrevation": "PROV",
+        "event_id": 114533,
+        "team_id": 419,
+        "league_id": 4
+    },
+    "182": {
+        "name": "Creighton",
+        "abbrevation": "CREI",
+        "event_id": 114533,
+        "team_id": 182,
+        "league_id": 4
+    },
+    "284": {
+        "name": "Kent State",
+        "abbrevation": "KNT",
+        "event_id": 114534,
+        "team_id": 284,
+        "league_id": 4
+    },
+    "511": {
+        "name": "Toledo",
+        "abbrevation": "TOL",
+        "event_id": 114534,
+        "team_id": 511,
+        "league_id": 4
+    },
+    "281": {
+        "name": "Kansas",
+        "abbrevation": "KU",
+        "event_id": 114535,
+        "team_id": 281,
+        "league_id": 4
+    },
+    "116": {
+        "name": "Baylor",
+        "abbrevation": "BAY",
+        "event_id": 114535,
+        "team_id": 116,
+        "league_id": 4
+    },
+    "198": {
+        "name": "DePaul",
+        "abbrevation": "DEP",
+        "event_id": 114536,
+        "team_id": 198,
+        "league_id": 4
+    },
+    "318": {
+        "name": "Marquette",
+        "abbrevation": "MARQ",
+        "event_id": 114536,
+        "team_id": 318,
+        "league_id": 4
+    },
+    "394": {
+        "name": "Ohio",
+        "abbrevation": "OHI",
+        "event_id": 114537,
+        "team_id": 394,
+        "league_id": 4
+    },
+    "115": {
+        "name": "Ball State",
+        "abbrevation": "BALL",
+        "event_id": 114537,
+        "team_id": 115,
+        "league_id": 4
+    },
+    "192": {
+        "name": "Dayton",
+        "abbrevation": "DAY",
+        "event_id": 114538,
+        "team_id": 192,
+        "league_id": 4
+    },
+    "308": {
+        "name": "Loyola Chicago",
+        "abbrevation": null,
+        "event_id": 114538,
+        "team_id": 308,
+        "league_id": 4
+    },
+    "128": {
+        "name": "Boise State",
+        "abbrevation": "BOISE",
+        "event_id": 114539,
+        "team_id": 128,
+        "league_id": 4
+    },
+    "172": {
+        "name": "Colorado State",
+        "abbrevation": "CSU",
+        "event_id": 114539,
+        "team_id": 172,
+        "league_id": 4
+    },
+    "357": {
+        "name": "NC State",
+        "abbrevation": "NCST",
+        "event_id": 114540,
+        "team_id": 357,
+        "league_id": 4
+    },
+    "246": {
+        "name": "Georgia Tech",
+        "abbrevation": "GT",
+        "event_id": 114540,
+        "team_id": 246,
+        "league_id": 4
+    },
+    "558": {
+        "name": "Virginia Tech",
+        "abbrevation": "VT",
+        "event_id": 114541,
+        "team_id": 558,
+        "league_id": 4
+    },
+    "391": {
+        "name": "Notre Dame",
+        "abbrevation": "ND",
+        "event_id": 114541,
+        "team_id": 391,
+        "league_id": 4
+    },
+    "267": {
+        "name": "Illinois",
+        "abbrevation": "ILL",
+        "event_id": 114542,
+        "team_id": 267,
+        "league_id": 4
+    },
+    "338": {
+        "name": "Minnesota",
+        "abbrevation": "MINN",
+        "event_id": 114542,
+        "team_id": 338,
+        "league_id": 4
+    },
+    "457": {
+        "name": "Seton Hall",
+        "abbrevation": "HALL",
+        "event_id": 114543,
+        "team_id": 457,
+        "league_id": 4
+    },
+    "138": {
+        "name": "Butler",
+        "abbrevation": "BUT",
+        "event_id": 114543,
+        "team_id": 138,
+        "league_id": 4
+    },
+    "461": {
+        "name": "SMU",
+        "abbrevation": "SMU",
+        "event_id": 114544,
+        "team_id": 461,
+        "league_id": 4
+    },
+    "557": {
+        "name": "Virginia",
+        "abbrevation": "UVA",
+        "event_id": 114544,
+        "team_id": 557,
+        "league_id": 4
+    },
+    "145": {
+        "name": "Canisius",
+        "abbrevation": "CAN",
+        "event_id": 114545,
+        "team_id": 145,
+        "league_id": 4
+    },
+    "354": {
+        "name": "Mt. St. Mary's",
+        "abbrevation": null,
+        "event_id": 114545,
+        "team_id": 354,
+        "league_id": 4
+    },
+    "259": {
+        "name": "Hofstra",
+        "abbrevation": "HOF",
+        "event_id": 114546,
+        "team_id": 259,
+        "league_id": 4
+    },
+    "216": {
+        "name": "Elon",
+        "abbrevation": "ELON",
+        "event_id": 114546,
+        "team_id": 216,
+        "league_id": 4
+    },
+    "241": {
+        "name": "Georgetown",
+        "abbrevation": "GTWN",
+        "event_id": 114547,
+        "team_id": 241,
+        "league_id": 4
+    },
+    "528": {
+        "name": "Connecticut",
+        "abbrevation": "CONN",
+        "event_id": 114547,
+        "team_id": 528,
+        "league_id": 4
+    },
+    "499": {
+        "name": "Tennessee",
+        "abbrevation": "TEN",
+        "event_id": 114548,
+        "team_id": 499,
+        "league_id": 4
+    },
+    "285": {
+        "name": "Kentucky",
+        "abbrevation": "KEN",
+        "event_id": 114548,
+        "team_id": 285,
+        "league_id": 4
+    },
+    "232": {
+        "name": "Fordham",
+        "abbrevation": "FOR",
+        "event_id": 114549,
+        "team_id": 232,
+        "league_id": 4
+    },
+    "206": {
+        "name": "Duquesne",
+        "abbrevation": "DUQ",
+        "event_id": 114549,
+        "team_id": 206,
+        "league_id": 4
+    },
+    "95": {
+        "name": "Air Force",
+        "abbrevation": "AF",
+        "event_id": 114550,
+        "team_id": 95,
+        "league_id": 4
+    },
+    "360": {
+        "name": "Nevada",
+        "abbrevation": "NEV",
+        "event_id": 114550,
+        "team_id": 360,
+        "league_id": 4
+    },
+    "395": {
+        "name": "Ohio State",
+        "abbrevation": "OSU",
+        "event_id": 114551,
+        "team_id": 395,
+        "league_id": 4
+    },
+    "527": {
+        "name": "UCLA",
+        "abbrevation": "UCLA",
+        "event_id": 114551,
+        "team_id": 527,
+        "league_id": 4
+    },
+    "551": {
+        "name": "Valparaiso",
+        "abbrevation": "VALP",
+        "event_id": 114552,
+        "team_id": 551,
+        "league_id": 4
+    },
+    "386": {
+        "name": "Northern Iowa",
+        "abbrevation": "UNI",
+        "event_id": 114552,
+        "team_id": 386,
+        "league_id": 4
+    },
+    "104": {
+        "name": "Appalachian State",
+        "abbrevation": "APP",
+        "event_id": 114553,
+        "team_id": 104,
+        "league_id": 4
+    },
+    "398": {
+        "name": "Old Dominion",
+        "abbrevation": "ODU",
+        "event_id": 114553,
+        "team_id": 398,
+        "league_id": 4
+    },
+    "567": {
+        "name": "Washington",
+        "abbrevation": "WAS",
+        "event_id": 114554,
+        "team_id": 567,
+        "league_id": 4
+    },
+    "333": {
+        "name": "Michigan State",
+        "abbrevation": "MSU",
+        "event_id": 114554,
+        "team_id": 333,
+        "league_id": 4
+    },
+    "355": {
+        "name": "Murray State",
+        "abbrevation": "MUR",
+        "event_id": 114555,
+        "team_id": 355,
+        "league_id": 4
+    },
+    "271": {
+        "name": "Indiana State",
+        "abbrevation": "INDS",
+        "event_id": 114555,
+        "team_id": 271,
+        "league_id": 4
+    },
+    "451": {
+        "name": "San Jose State",
+        "abbrevation": "SJS",
+        "event_id": 114556,
+        "team_id": 451,
+        "league_id": 4
+    },
+    "538": {
+        "name": "UNLV",
+        "abbrevation": "UNLV",
+        "event_id": 114556,
+        "team_id": 538,
+        "league_id": 4
+    },
+    "101": {
+        "name": "Alcorn State",
+        "abbrevation": "ALCST",
+        "event_id": 114557,
+        "team_id": 101,
+        "league_id": 4
+    },
+    "505": {
+        "name": "Texas Southern",
+        "abbrevation": "TSO",
+        "event_id": 114557,
+        "team_id": 505,
+        "league_id": 4
+    },
+    "331": {
+        "name": "Miami Ohio",
+        "abbrevation": "MOH",
+        "event_id": 114558,
+        "team_id": 331,
+        "league_id": 4
+    },
+    "137": {
+        "name": "Buffalo",
+        "abbrevation": "BUF",
+        "event_id": 114558,
+        "team_id": 137,
+        "league_id": 4
+    },
+    "573": {
+        "name": "Western Carolina",
+        "abbrevation": "WCU",
+        "event_id": 114559,
+        "team_id": 573,
+        "league_id": 4
+    },
+    "158": {
+        "name": "Chattanooga",
+        "abbrevation": "CHT",
+        "event_id": 114559,
+        "team_id": 158,
+        "league_id": 4
+    },
+    "268": {
+        "name": "Illinois State",
+        "abbrevation": "ILS",
+        "event_id": 114560,
+        "team_id": 268,
+        "league_id": 4
+    },
+    "133": {
+        "name": "Bradley",
+        "abbrevation": null,
+        "event_id": 114560,
+        "team_id": 133,
+        "league_id": 4
+    },
+    "307": {
+        "name": "Loyola Maryland",
+        "abbrevation": null,
+        "event_id": 114561,
+        "team_id": 307,
+        "league_id": 4
+    },
+    "130": {
+        "name": "Boston U",
+        "abbrevation": null,
+        "event_id": 114561,
+        "team_id": 130,
+        "league_id": 4
+    },
+    "470": {
+        "name": "Southern Illinois",
+        "abbrevation": null,
+        "event_id": 114562,
+        "team_id": 470,
+        "league_id": 4
+    },
+    "119": {
+        "name": "Belmont",
+        "abbrevation": null,
+        "event_id": 114562,
+        "team_id": 119,
+        "league_id": 4
+    },
+    "236": {
+        "name": "Fresno State",
+        "abbrevation": "FRE",
+        "event_id": 114563,
+        "team_id": 236,
+        "league_id": 4
+    },
+    "587": {
+        "name": "Wyoming",
+        "abbrevation": "WYO",
+        "event_id": 114563,
+        "team_id": 587,
+        "league_id": 4
+    },
+    "404": {
+        "name": "Oregon State",
+        "abbrevation": "ORS",
+        "event_id": 114564,
+        "team_id": 404,
+        "league_id": 4
+    },
+    "406": {
+        "name": "Pacific",
+        "abbrevation": null,
+        "event_id": 114564,
+        "team_id": 406,
+        "league_id": 4
+    },
+    "287": {
+        "name": "Lafayette",
+        "abbrevation": "LAF",
+        "event_id": 114565,
+        "team_id": 287,
+        "league_id": 4
+    },
+    "260": {
+        "name": "Holy Cross",
+        "abbrevation": "HC",
+        "event_id": 114565,
+        "team_id": 260,
+        "league_id": 4
+    },
+    "99": {
+        "name": "Alabama State",
+        "abbrevation": "ALAST",
+        "event_id": 114566,
+        "team_id": 99,
+        "league_id": 4
+    },
+    "97": {
+        "name": "Alabama A&M",
+        "abbrevation": "AAM",
+        "event_id": 114566,
+        "team_id": 97,
+        "league_id": 4
+    },
+    "131": {
+        "name": "Bowling Green",
+        "abbrevation": "BGN",
+        "event_id": 114567,
+        "team_id": 131,
+        "league_id": 4
+    },
+    "212": {
+        "name": "Eastern Michigan",
+        "abbrevation": "EMC",
+        "event_id": 114567,
+        "team_id": 212,
+        "league_id": 4
+    },
+    "465": {
+        "name": "South Carolina State",
+        "abbrevation": "SCS",
+        "event_id": 114568,
+        "team_id": 465,
+        "league_id": 4
+    },
+    "371": {
+        "name": "Norfolk State",
+        "abbrevation": "NFS",
+        "event_id": 114568,
+        "team_id": 371,
+        "league_id": 4
+    },
+    "396": {
+        "name": "Oklahoma",
+        "abbrevation": "OKLA",
+        "event_id": 114569,
+        "team_id": 396,
+        "league_id": 4
+    },
+    "98": {
+        "name": "Alabama",
+        "abbrevation": "BAMA",
+        "event_id": 114569,
+        "team_id": 98,
+        "league_id": 4
+    },
+    "508": {
+        "name": "The Citadel",
+        "abbrevation": "CIT",
+        "event_id": 114570,
+        "team_id": 508,
+        "league_id": 4
+    },
+    "560": {
+        "name": "VMI",
+        "abbrevation": "VMI",
+        "event_id": 114570,
+        "team_id": 560,
+        "league_id": 4
+    },
+    "107": {
+        "name": "Ark Pine Bluff",
+        "abbrevation": null,
+        "event_id": 114571,
+        "team_id": 107,
+        "league_id": 4
+    },
+    "222": {
+        "name": "Florida A&M",
+        "abbrevation": "FAMU",
+        "event_id": 114571,
+        "team_id": 222,
+        "league_id": 4
+    },
+    "316": {
+        "name": "Manhattan",
+        "abbrevation": "MAN",
+        "event_id": 114572,
+        "team_id": 316,
+        "league_id": 4
+    },
+    "458": {
+        "name": "Siena",
+        "abbrevation": "SIE",
+        "event_id": 114572,
+        "team_id": 458,
+        "league_id": 4
+    },
+    "270": {
+        "name": "Indiana",
+        "abbrevation": "IND",
+        "event_id": 114573,
+        "team_id": 270,
+        "league_id": 4
+    },
+    "273": {
+        "name": "Iowa",
+        "abbrevation": "IOWA",
+        "event_id": 114573,
+        "team_id": 273,
+        "league_id": 4
+    },
+    "161": {
+        "name": "Cincinnati",
+        "abbrevation": "CIN",
+        "event_id": 114574,
+        "team_id": 161,
+        "league_id": 4
+    },
+    "274": {
+        "name": "Iowa State",
+        "abbrevation": "ISU",
+        "event_id": 114574,
+        "team_id": 274,
+        "league_id": 4
+    },
+    "227": {
+        "name": "Florida International",
+        "abbrevation": "FIU",
+        "event_id": 114575,
+        "team_id": 227,
+        "league_id": 4
+    },
+    "444": {
+        "name": "Sam Houston St",
+        "abbrevation": null,
+        "event_id": 114575,
+        "team_id": 444,
+        "league_id": 4
+    },
+    "329": {
+        "name": "Mercyhurst",
+        "abbrevation": "MHU",
+        "event_id": 114576,
+        "team_id": 329,
+        "league_id": 4
+    },
+    "1355": {
+        "name": "Stonehill",
+        "abbrevation": null,
+        "event_id": 114576,
+        "team_id": 1355,
+        "league_id": 4
+    },
+    "293": {
+        "name": "Lehigh",
+        "abbrevation": "LEI",
+        "event_id": 114577,
+        "team_id": 293,
+        "league_id": 4
+    },
+    "356": {
+        "name": "Navy",
+        "abbrevation": "NAV",
+        "event_id": 114577,
+        "team_id": 356,
+        "league_id": 4
+    },
+    "584": {
+        "name": "Wisconsin",
+        "abbrevation": "WISC",
+        "event_id": 114578,
+        "team_id": 584,
+        "league_id": 4
+    },
+    "435": {
+        "name": "Rutgers",
+        "abbrevation": "RUTG",
+        "event_id": 114578,
+        "team_id": 435,
+        "league_id": 4
+    },
+    "589": {
+        "name": "Yale",
+        "abbrevation": "YALE",
+        "event_id": 114579,
+        "team_id": 589,
+        "league_id": 4
+    },
+    "179": {
+        "name": "Cornell",
+        "abbrevation": "COR",
+        "event_id": 114579,
+        "team_id": 179,
+        "league_id": 4
+    },
+    "159": {
+        "name": "Chicago State",
+        "abbrevation": null,
+        "event_id": 114580,
+        "team_id": 159,
+        "league_id": 4
+    },
+    "1552": {
+        "name": "Le Moyne Dolphins",
+        "abbrevation": "LMC",
+        "event_id": 114580,
+        "team_id": 1552,
+        "league_id": 4
+    },
+    "442": {
+        "name": "St. Peter's",
+        "abbrevation": "SPU",
+        "event_id": 114581,
+        "team_id": 442,
+        "league_id": 4
+    },
+    "432": {
+        "name": "Rider",
+        "abbrevation": "RID",
+        "event_id": 114581,
+        "team_id": 432,
+        "league_id": 4
+    },
+    "129": {
+        "name": "Boston College",
+        "abbrevation": "BC",
+        "event_id": 114582,
+        "team_id": 129,
+        "league_id": 4
+    },
+    "493": {
+        "name": "Syracuse",
+        "abbrevation": "SYR",
+        "event_id": 114582,
+        "team_id": 493,
+        "league_id": 4
+    },
+    "377": {
+        "name": "North Dakota State",
+        "abbrevation": "NDS",
+        "event_id": 114583,
+        "team_id": 377,
+        "league_id": 4
+    },
+    "509": {
+        "name": "St. Thomas",
+        "abbrevation": "UST",
+        "event_id": 114583,
+        "team_id": 509,
+        "league_id": 4
+    },
+    "378": {
+        "name": "North Florida",
+        "abbrevation": "UNF",
+        "event_id": 114584,
+        "team_id": 378,
+        "league_id": 4
+    },
+    "151": {
+        "name": "Central Arkansas",
+        "abbrevation": "UCA",
+        "event_id": 114584,
+        "team_id": 151,
+        "league_id": 4
+    },
+    "479": {
+        "name": "St. Francis PA",
+        "abbrevation": null,
+        "event_id": 114585,
+        "team_id": 479,
+        "league_id": 4
+    },
+    "150": {
+        "name": "Central Connecticut",
+        "abbrevation": "CCSU",
+        "event_id": 114585,
+        "team_id": 150,
+        "league_id": 4
+    },
+    "168": {
+        "name": "Colgate",
+        "abbrevation": "CGT",
+        "event_id": 114586,
+        "team_id": 168,
+        "league_id": 4
+    },
+    "136": {
+        "name": "Bucknell",
+        "abbrevation": "BUC",
+        "event_id": 114586,
+        "team_id": 136,
+        "league_id": 4
+    },
+    "488": {
+        "name": "Stetson",
+        "abbrevation": "STET",
+        "event_id": 114587,
+        "team_id": 488,
+        "league_id": 4
+    },
+    "1321": {
+        "name": "Queens NC",
+        "abbrevation": null,
+        "event_id": 114587,
+        "team_id": 1321,
+        "league_id": 4
+    },
+    "546": {
+        "name": "Utah",
+        "abbrevation": "UTH",
+        "event_id": 114588,
+        "team_id": 546,
+        "league_id": 4
+    },
+    "495": {
+        "name": "TCU",
+        "abbrevation": "TCU",
+        "event_id": 114588,
+        "team_id": 495,
+        "league_id": 4
+    },
+    "317": {
+        "name": "Marist",
+        "abbrevation": "MRST",
+        "event_id": 114589,
+        "team_id": 317,
+        "league_id": 4
+    },
+    "219": {
+        "name": "Fairfield",
+        "abbrevation": "FAIR",
+        "event_id": 114589,
+        "team_id": 219,
+        "league_id": 4
+    },
+    "194": {
+        "name": "Delaware",
+        "abbrevation": "DEL",
+        "event_id": 114590,
+        "team_id": 194,
+        "league_id": 4
+    },
+    "363": {
+        "name": "New Mexico State",
+        "abbrevation": "NMS",
+        "event_id": 114590,
+        "team_id": 363,
+        "league_id": 4
+    },
+    "163": {
+        "name": "Cleveland State",
+        "abbrevation": "CLEV",
+        "event_id": 114591,
+        "team_id": 163,
+        "league_id": 4
+    },
+    "591": {
+        "name": "Youngstown State",
+        "abbrevation": "YSU",
+        "event_id": 114591,
+        "team_id": 591,
+        "league_id": 4
+    },
+    "583": {
+        "name": "Winthrop",
+        "abbrevation": "WIN",
+        "event_id": 114592,
+        "team_id": 583,
+        "league_id": 4
+    },
+    "535": {
+        "name": "NC Asheville",
+        "abbrevation": "UNCA",
+        "event_id": 114592,
+        "team_id": 535,
+        "league_id": 4
+    },
+    "275": {
+        "name": "IUPUI",
+        "abbrevation": null,
+        "event_id": 114593,
+        "team_id": 275,
+        "league_id": 4
+    },
+    "199": {
+        "name": "Detroit",
+        "abbrevation": "DET",
+        "event_id": 114593,
+        "team_id": 199,
+        "league_id": 4
+    },
+    "134": {
+        "name": "Brown",
+        "abbrevation": "BRWN",
+        "event_id": 114594,
+        "team_id": 134,
+        "league_id": 4
+    },
+    "174": {
+        "name": "Columbia",
+        "abbrevation": "CLMB",
+        "event_id": 114594,
+        "team_id": 174,
+        "league_id": 4
+    },
+    "376": {
+        "name": "North Dakota",
+        "abbrevation": "UND",
+        "event_id": 114595,
+        "team_id": 376,
+        "league_id": 4
+    },
+    "466": {
+        "name": "South Dakota",
+        "abbrevation": "SD",
+        "event_id": 114595,
+        "team_id": 466,
+        "league_id": 4
+    },
+    "255": {
+        "name": "Harvard",
+        "abbrevation": "HARV",
+        "event_id": 114596,
+        "team_id": 255,
+        "league_id": 4
+    },
+    "418": {
+        "name": "Princeton",
+        "abbrevation": "PRIN",
+        "event_id": 114596,
+        "team_id": 418,
+        "league_id": 4
+    },
+    "553": {
+        "name": "Vanderbilt",
+        "abbrevation": "VAN",
+        "event_id": 114597,
+        "team_id": 553,
+        "league_id": 4
+    },
+    "225": {
+        "name": "Florida",
+        "abbrevation": "FLA",
+        "event_id": 114597,
+        "team_id": 225,
+        "league_id": 4
+    },
+    "238": {
+        "name": "Gardner-Webb",
+        "abbrevation": "WEBB",
+        "event_id": 114598,
+        "team_id": 238,
+        "league_id": 4
+    },
+    "417": {
+        "name": "Presbyterian",
+        "abbrevation": "PRE",
+        "event_id": 114598,
+        "team_id": 417,
+        "league_id": 4
+    },
+    "226": {
+        "name": "Fla Gulf Coast",
+        "abbrevation": "FGCU",
+        "event_id": 114599,
+        "team_id": 226,
+        "league_id": 4
+    },
+    "1618": {
+        "name": "West Georgia",
+        "abbrevation": "UWGA",
+        "event_id": 114599,
+        "team_id": 1618,
+        "league_id": 4
+    },
+    "96": {
+        "name": "Akron",
+        "abbrevation": "AKR",
+        "event_id": 114600,
+        "team_id": 96,
+        "league_id": 4
+    },
+    "576": {
+        "name": "Western Michigan",
+        "abbrevation": "WMC",
+        "event_id": 114600,
+        "team_id": 576,
+        "league_id": 4
+    },
+    "162": {
+        "name": "Clemson",
+        "abbrevation": "CLEM",
+        "event_id": 114601,
+        "team_id": 162,
+        "league_id": 4
+    },
+    "332": {
+        "name": "Miami Florida",
+        "abbrevation": "MIA",
+        "event_id": 114601,
+        "team_id": 332,
+        "league_id": 4
+    },
+    "425": {
+        "name": "Radford",
+        "abbrevation": "RAD",
+        "event_id": 114602,
+        "team_id": 425,
+        "league_id": 4
+    },
+    "303": {
+        "name": "Longwood",
+        "abbrevation": "LONG",
+        "event_id": 114602,
+        "team_id": 303,
+        "league_id": 4
+    },
+    "249": {
+        "name": "Grand Canyon",
+        "abbrevation": null,
+        "event_id": 114603,
+        "team_id": 249,
+        "league_id": 4
+    },
+    "545": {
+        "name": "Utah State",
+        "abbrevation": "UTS",
+        "event_id": 114603,
+        "team_id": 545,
+        "league_id": 4
+    },
+    "286": {
+        "name": "La Salle",
+        "abbrevation": "LAS",
+        "event_id": 114604,
+        "team_id": 286,
+        "league_id": 4
+    },
+    "477": {
+        "name": "St. Bonaventure",
+        "abbrevation": "SBON",
+        "event_id": 114604,
+        "team_id": 477,
+        "league_id": 4
+    },
+    "575": {
+        "name": "Western Kentucky",
+        "abbrevation": "WKU",
+        "event_id": 114605,
+        "team_id": 575,
+        "league_id": 4
+    },
+    "283": {
+        "name": "Kennesaw St",
+        "abbrevation": "KENN",
+        "event_id": 114605,
+        "team_id": 283,
+        "league_id": 4
+    },
+    "330": {
+        "name": "Merrimack",
+        "abbrevation": null,
+        "event_id": 114606,
+        "team_id": 330,
+        "league_id": 4
+    },
+    "424": {
+        "name": "Quinnipiac",
+        "abbrevation": "QU",
+        "event_id": 114606,
+        "team_id": 424,
+        "league_id": 4
+    },
+    "243": {
+        "name": "Georgia Southern",
+        "abbrevation": "GSO",
+        "event_id": 114607,
+        "team_id": 243,
+        "league_id": 4
+    },
+    "164": {
+        "name": "Coastal Carolina",
+        "abbrevation": "CC",
+        "event_id": 114607,
+        "team_id": 164,
+        "league_id": 4
+    },
+    "190": {
+        "name": "Dartmouth",
+        "abbrevation": "DART",
+        "event_id": 114608,
+        "team_id": 190,
+        "league_id": 4
+    },
+    "410": {
+        "name": "Pennsylvania",
+        "abbrevation": "PENN",
+        "event_id": 114608,
+        "team_id": 410,
+        "league_id": 4
+    },
+    "372": {
+        "name": "North Alabama",
+        "abbrevation": "UNA",
+        "event_id": 114609,
+        "team_id": 372,
+        "league_id": 4
+    },
+    "277": {
+        "name": "Jacksonville",
+        "abbrevation": "JAC",
+        "event_id": 114609,
+        "team_id": 277,
+        "league_id": 4
+    },
+    "385": {
+        "name": "Northern Illinois",
+        "abbrevation": "NIL",
+        "event_id": 114610,
+        "team_id": 385,
+        "league_id": 4
+    },
+    "533": {
+        "name": "Massachusetts",
+        "abbrevation": "UMASS",
+        "event_id": 114610,
+        "team_id": 533,
+        "league_id": 4
+    },
+    "295": {
+        "name": "Liberty",
+        "abbrevation": "LIB",
+        "event_id": 114611,
+        "team_id": 295,
+        "league_id": 4
+    },
+    "548": {
+        "name": "UTEP",
+        "abbrevation": "UTEP",
+        "event_id": 114611,
+        "team_id": 548,
+        "league_id": 4
+    },
+    "529": {
+        "name": "Illinois Chicago",
+        "abbrevation": null,
+        "event_id": 114612,
+        "team_id": 529,
+        "league_id": 4
+    },
+    "203": {
+        "name": "Drake",
+        "abbrevation": "DRA",
+        "event_id": 114612,
+        "team_id": 203,
+        "league_id": 4
+    },
+    "530": {
+        "name": "UL Monroe",
+        "abbrevation": "ULM",
+        "event_id": 114613,
+        "team_id": 530,
+        "league_id": 4
+    },
+    "244": {
+        "name": "Georgia State",
+        "abbrevation": "GST",
+        "event_id": 114613,
+        "team_id": 244,
+        "league_id": 4
+    },
+    "313": {
+        "name": "LSU",
+        "abbrevation": "LSU",
+        "event_id": 114614,
+        "team_id": 313,
+        "league_id": 4
+    },
+    "343": {
+        "name": "Missouri",
+        "abbrevation": "MIZ",
+        "event_id": 114614,
+        "team_id": 343,
+        "league_id": 4
+    },
+    "462": {
+        "name": "South Alabama",
+        "abbrevation": "SAB",
+        "event_id": 114615,
+        "team_id": 462,
+        "league_id": 4
+    },
+    "304": {
+        "name": "UL Lafayette",
+        "abbrevation": "ULL",
+        "event_id": 114615,
+        "team_id": 304,
+        "league_id": 4
+    },
+    "403": {
+        "name": "Oregon",
+        "abbrevation": "ORE",
+        "event_id": 114616,
+        "team_id": 403,
+        "league_id": 4
+    },
+    "334": {
+        "name": "Michigan",
+        "abbrevation": "MICH",
+        "event_id": 114616,
+        "team_id": 334,
+        "league_id": 4
+    },
+    "445": {
+        "name": "Samford",
+        "abbrevation": "SAM",
+        "event_id": 114617,
+        "team_id": 445,
+        "league_id": 4
+    },
+    "208": {
+        "name": "East Tenn State",
+        "abbrevation": null,
+        "event_id": 114617,
+        "team_id": 208,
+        "league_id": 4
+    },
+    "184": {
+        "name": "Cal State Bakersfield",
+        "abbrevation": null,
+        "event_id": 114618,
+        "team_id": 184,
+        "league_id": 4
+    },
+    "524": {
+        "name": "UC San Diego",
+        "abbrevation": null,
+        "event_id": 114618,
+        "team_id": 524,
+        "league_id": 4
+    },
+    "196": {
+        "name": "Delaware State",
+        "abbrevation": "DLS",
+        "event_id": 114619,
+        "team_id": 196,
+        "league_id": 4
+    },
+    "351": {
+        "name": "Morgan State",
+        "abbrevation": "MGN",
+        "event_id": 114619,
+        "team_id": 351,
+        "league_id": 4
+    },
+    "526": {
+        "name": "Central Florida",
+        "abbrevation": "UCF",
+        "event_id": 114620,
+        "team_id": 526,
+        "league_id": 4
+    },
+    "106": {
+        "name": "Arizona",
+        "abbrevation": "ARI",
+        "event_id": 114620,
+        "team_id": 106,
+        "league_id": 4
+    },
+    "242": {
+        "name": "Georgia",
+        "abbrevation": "UGA",
+        "event_id": 114621,
+        "team_id": 242,
+        "league_id": 4
+    },
+    "108": {
+        "name": "Arkansas",
+        "abbrevation": "ARK",
+        "event_id": 114621,
+        "team_id": 108,
+        "league_id": 4
+    },
+    "547": {
+        "name": "Utah Valley",
+        "abbrevation": null,
+        "event_id": 114622,
+        "team_id": 547,
+        "league_id": 4
+    },
+    "541": {
+        "name": "UT Arlington",
+        "abbrevation": null,
+        "event_id": 114622,
+        "team_id": 541,
+        "league_id": 4
+    },
+    "416": {
+        "name": "Prairie View A&M",
+        "abbrevation": null,
+        "event_id": 114623,
+        "team_id": 416,
+        "league_id": 4
+    },
+    "276": {
+        "name": "Jackson State",
+        "abbrevation": null,
+        "event_id": 114623,
+        "team_id": 276,
+        "league_id": 4
+    },
+    "390": {
+        "name": "Northwestern",
+        "abbrevation": "NW",
+        "event_id": 114624,
+        "team_id": 390,
+        "league_id": 4
+    },
+    "359": {
+        "name": "Nebraska",
+        "abbrevation": "NEB",
+        "event_id": 114624,
+        "team_id": 359,
+        "league_id": 4
+    },
+    "368": {
+        "name": "Nicholls State",
+        "abbrevation": "NIC",
+        "event_id": 114625,
+        "team_id": 368,
+        "league_id": 4
+    },
+    "289": {
+        "name": "Lamar",
+        "abbrevation": "LAM",
+        "event_id": 114625,
+        "team_id": 289,
+        "league_id": 4
+    },
+    "489": {
+        "name": "Stony Brook",
+        "abbrevation": "STON",
+        "event_id": 114626,
+        "team_id": 489,
+        "league_id": 4
+    },
+    "155": {
+        "name": "College of Charleston",
+        "abbrevation": "COFC",
+        "event_id": 114626,
+        "team_id": 155,
+        "league_id": 4
+    },
+    "536": {
+        "name": "NC Greensboro",
+        "abbrevation": null,
+        "event_id": 114627,
+        "team_id": 536,
+        "league_id": 4
+    },
+    "328": {
+        "name": "Mercer",
+        "abbrevation": "MER",
+        "event_id": 114627,
+        "team_id": 328,
+        "league_id": 4
+    },
+    "298": {
+        "name": "Arkansas Little Rock",
+        "abbrevation": null,
+        "event_id": 114628,
+        "team_id": 298,
+        "league_id": 4
+    },
+    "574": {
+        "name": "Western Illinois",
+        "abbrevation": "WIL",
+        "event_id": 114628,
+        "team_id": 574,
+        "league_id": 4
+    },
+    "320": {
+        "name": "Marshall",
+        "abbrevation": "MARSH",
+        "event_id": 114629,
+        "team_id": 320,
+        "league_id": 4
+    },
+    "279": {
+        "name": "James Madison",
+        "abbrevation": "JMU",
+        "event_id": 114629,
+        "team_id": 279,
+        "league_id": 4
+    },
+    "498": {
+        "name": "Tennessee Tech",
+        "abbrevation": "TNT",
+        "event_id": 114630,
+        "team_id": 498,
+        "league_id": 4
+    },
+    "349": {
+        "name": "Morehead State",
+        "abbrevation": "MOR",
+        "event_id": 114630,
+        "team_id": 349,
+        "league_id": 4
+    },
+    "440": {
+        "name": "Saint Louis",
+        "abbrevation": "SLU",
+        "event_id": 114631,
+        "team_id": 440,
+        "league_id": 4
+    },
+    "431": {
+        "name": "Richmond",
+        "abbrevation": "RICH",
+        "event_id": 114631,
+        "team_id": 431,
+        "league_id": 4
+    },
+    "142": {
+        "name": "California",
+        "abbrevation": "CAL",
+        "event_id": 114632,
+        "team_id": 142,
+        "league_id": 4
+    },
+    "375": {
+        "name": "North Carolina",
+        "abbrevation": "UNC",
+        "event_id": 114632,
+        "team_id": 375,
+        "league_id": 4
+    },
+    "503": {
+        "name": "Texas A&M Corpus",
+        "abbrevation": null,
+        "event_id": 114633,
+        "team_id": 503,
+        "league_id": 4
+    },
+    "454": {
+        "name": "SE Louisiana",
+        "abbrevation": "SEL",
+        "event_id": 114633,
+        "team_id": 454,
+        "league_id": 4
+    },
+    "374": {
+        "name": "North Carolina Central",
+        "abbrevation": "NCC",
+        "event_id": 114634,
+        "team_id": 374,
+        "league_id": 4
+    },
+    "263": {
+        "name": "Howard",
+        "abbrevation": "HOW",
+        "event_id": 114634,
+        "team_id": 263,
+        "league_id": 4
+    },
+    "542": {
+        "name": "UT Martin",
+        "abbrevation": "TNM",
+        "event_id": 114635,
+        "team_id": 542,
+        "league_id": 4
+    },
+    "1290": {
+        "name": "Lindenwood",
+        "abbrevation": null,
+        "event_id": 114635,
+        "team_id": 1290,
+        "league_id": 4
+    },
+    "497": {
+        "name": "Tennessee State",
+        "abbrevation": "TNST",
+        "event_id": 114636,
+        "team_id": 497,
+        "league_id": 4
+    },
+    "1354": {
+        "name": "Southern Indiana",
+        "abbrevation": null,
+        "event_id": 114636,
+        "team_id": 1354,
+        "league_id": 4
+    },
+    "323": {
+        "name": "MD Eastern Shore",
+        "abbrevation": null,
+        "event_id": 114637,
+        "team_id": 323,
+        "league_id": 4
+    },
+    "177": {
+        "name": "Coppin State",
+        "abbrevation": null,
+        "event_id": 114637,
+        "team_id": 177,
+        "league_id": 4
+    },
+    "261": {
+        "name": "Hou Christian",
+        "abbrevation": "HB",
+        "event_id": 114638,
+        "team_id": 261,
+        "league_id": 4
+    },
+    "1453": {
+        "name": "East Texas A&M",
+        "abbrevation": "TAMC",
+        "event_id": 114638,
+        "team_id": 1453,
+        "league_id": 4
+    },
+    "506": {
+        "name": "Texas State",
+        "abbrevation": "TXST",
+        "event_id": 114639,
+        "team_id": 506,
+        "league_id": 4
+    },
+    "472": {
+        "name": "Southern Miss",
+        "abbrevation": "USM",
+        "event_id": 114639,
+        "team_id": 472,
+        "league_id": 4
+    },
+    "515": {
+        "name": "Troy",
+        "abbrevation": "TRY",
+        "event_id": 114640,
+        "team_id": 515,
+        "league_id": 4
+    },
+    "109": {
+        "name": "Arkansas State",
+        "abbrevation": "ARKS",
+        "event_id": 114640,
+        "team_id": 109,
+        "league_id": 4
+    },
+    "455": {
+        "name": "SE Missouri State",
+        "abbrevation": "SEM",
+        "event_id": 114641,
+        "team_id": 455,
+        "league_id": 4
+    },
+    "460": {
+        "name": "SIU Edwardsville",
+        "abbrevation": null,
+        "event_id": 114641,
+        "team_id": 460,
+        "league_id": 4
+    },
+    "521": {
+        "name": "UC Davis",
+        "abbrevation": "UCD",
+        "event_id": 114642,
+        "team_id": 521,
+        "league_id": 4
+    },
+    "522": {
+        "name": "Cal Irvine",
+        "abbrevation": "UCI",
+        "event_id": 114642,
+        "team_id": 522,
+        "league_id": 4
+    },
+    "248": {
+        "name": "Grambling",
+        "abbrevation": "GRA",
+        "event_id": 114643,
+        "team_id": 248,
+        "league_id": 4
+    },
+    "471": {
+        "name": "Southern",
+        "abbrevation": "SU",
+        "event_id": 114643,
+        "team_id": 471,
+        "league_id": 4
+    },
+    "305": {
+        "name": "Louisiana Tech",
+        "abbrevation": "LT",
+        "event_id": 114644,
+        "team_id": 305,
+        "league_id": 4
+    },
+    "278": {
+        "name": "Jacksonville State",
+        "abbrevation": "JVS",
+        "event_id": 114644,
+        "team_id": 278,
+        "league_id": 4
+    },
+    "415": {
+        "name": "Portland State",
+        "abbrevation": "PRST",
+        "event_id": 114645,
+        "team_id": 415,
+        "league_id": 4
+    },
+    "383": {
+        "name": "Northern Arizona",
+        "abbrevation": "NAU",
+        "event_id": 114645,
+        "team_id": 383,
+        "league_id": 4
+    },
+    "269": {
+        "name": "Incarnate Word",
+        "abbrevation": "IW",
+        "event_id": 114646,
+        "team_id": 269,
+        "league_id": 4
+    },
+    "389": {
+        "name": "Northwestern State",
+        "abbrevation": "NWS",
+        "event_id": 114646,
+        "team_id": 389,
+        "league_id": 4
+    },
+    "467": {
+        "name": "South Dakota State",
+        "abbrevation": "SDS",
+        "event_id": 114647,
+        "team_id": 467,
+        "league_id": 4
+    },
+    "531": {
+        "name": "UMKC",
+        "abbrevation": null,
+        "event_id": 114647,
+        "team_id": 531,
+        "league_id": 4
+    },
+    "543": {
+        "name": "UT Rio Grande Valley",
+        "abbrevation": null,
+        "event_id": 114648,
+        "team_id": 543,
+        "league_id": 4
+    },
+    "1387": {
+        "name": "McNeese State",
+        "abbrevation": "MCN",
+        "event_id": 114648,
+        "team_id": 1387,
+        "league_id": 4
+    },
+    "364": {
+        "name": "New Orleans",
+        "abbrevation": null,
+        "event_id": 114649,
+        "team_id": 364,
+        "league_id": 4
+    },
+    "487": {
+        "name": "Stephen F. Austin",
+        "abbrevation": "SAU",
+        "event_id": 114649,
+        "team_id": 487,
+        "league_id": 4
+    },
+    "572": {
+        "name": "West Virginia",
+        "abbrevation": "WVU",
+        "event_id": 114650,
+        "team_id": 572,
+        "league_id": 4
+    },
+    "170": {
+        "name": "Colorado",
+        "abbrevation": "COL",
+        "event_id": 114650,
+        "team_id": 170,
+        "league_id": 4
+    },
+    "265": {
+        "name": "Idaho State",
+        "abbrevation": "IDST",
+        "event_id": 114651,
+        "team_id": 265,
+        "league_id": 4
+    },
+    "1288": {
+        "name": "Eastern Washington",
+        "abbrevation": null,
+        "event_id": 114651,
+        "team_id": 1288,
+        "league_id": 4
+    },
+    "463": {
+        "name": "South Carolina",
+        "abbrevation": "SC",
+        "event_id": 114652,
+        "team_id": 463,
+        "league_id": 4
+    },
+    "112": {
+        "name": "Auburn",
+        "abbrevation": "AUB",
+        "event_id": 114652,
+        "team_id": 112,
+        "league_id": 4
+    },
+    "539": {
+        "name": "USC",
+        "abbrevation": "USC",
+        "event_id": 114653,
+        "team_id": 539,
+        "league_id": 4
+    },
+    "420": {
+        "name": "Purdue",
+        "abbrevation": "PUR",
+        "event_id": 114653,
+        "team_id": 420,
+        "league_id": 4
+    },
+    "339": {
+        "name": "Mississippi Valley State",
+        "abbrevation": "MVS",
+        "event_id": 114654,
+        "team_id": 339,
+        "league_id": 4
+    },
+    "125": {
+        "name": "Bethune Cookman",
+        "abbrevation": null,
+        "event_id": 114654,
+        "team_id": 125,
+        "league_id": 4
+    },
+    "335": {
+        "name": "Middle Tenn St",
+        "abbrevation": "MTSU",
+        "event_id": 114655,
+        "team_id": 335,
+        "league_id": 4
+    },
+    "342": {
+        "name": "Missouri State",
+        "abbrevation": "MIZST",
+        "event_id": 114655,
+        "team_id": 342,
+        "league_id": 4
+    },
+    "237": {
+        "name": "Furman",
+        "abbrevation": "FUR",
+        "event_id": 114656,
+        "team_id": 237,
+        "league_id": 4
+    },
+    "585": {
+        "name": "Wofford",
+        "abbrevation": "WOF",
+        "event_id": 114656,
+        "team_id": 585,
+        "league_id": 4
+    },
+    "231": {
+        "name": "Florida State",
+        "abbrevation": "FSU",
+        "event_id": 114657,
+        "team_id": 231,
+        "league_id": 4
+    },
+    "563": {
+        "name": "Wake Forest",
+        "abbrevation": "WAKE",
+        "event_id": 114657,
+        "team_id": 563,
+        "league_id": 4
+    },
+    "501": {
+        "name": "Texas A&M",
+        "abbrevation": "TXAM",
+        "event_id": 114658,
+        "team_id": 501,
+        "league_id": 4
+    },
+    "504": {
+        "name": "Texas",
+        "abbrevation": "TEX",
+        "event_id": 114658,
+        "team_id": 504,
+        "league_id": 4
+    },
+    "486": {
+        "name": "Stanford",
+        "abbrevation": "STA",
+        "event_id": 114659,
+        "team_id": 486,
+        "league_id": 4
+    },
+    "205": {
+        "name": "Duke",
+        "abbrevation": "DUKE",
+        "event_id": 114659,
+        "team_id": 205,
+        "league_id": 4
+    },
+    "540": {
+        "name": "USC Upstate",
+        "abbrevation": "UPST",
+        "event_id": 114660,
+        "team_id": 540,
+        "league_id": 4
+    },
+    "258": {
+        "name": "High Point",
+        "abbrevation": "HP",
+        "event_id": 114660,
+        "team_id": 258,
+        "league_id": 4
+    },
+    "387": {
+        "name": "Northern Kentucky",
+        "abbrevation": "NKU",
+        "event_id": 114661,
+        "team_id": 387,
+        "league_id": 4
+    },
+    "433": {
+        "name": "Robert Morris",
+        "abbrevation": "RM",
+        "event_id": 114661,
+        "team_id": 433,
+        "league_id": 4
+    },
+    "441": {
+        "name": "Saint Marys CA",
+        "abbrevation": null,
+        "event_id": 114662,
+        "team_id": 441,
+        "league_id": 4
+    },
+    "452": {
+        "name": "Santa Clara",
+        "abbrevation": null,
+        "event_id": 114662,
+        "team_id": 452,
+        "league_id": 4
+    },
+    "297": {
+        "name": "Lipscomb",
+        "abbrevation": "LIP",
+        "event_id": 114663,
+        "team_id": 297,
+        "league_id": 4
+    },
+    "113": {
+        "name": "Austin Peay",
+        "abbrevation": "APY",
+        "event_id": 114663,
+        "team_id": 113,
+        "league_id": 4
+    },
+    "537": {
+        "name": "NC Wilmington",
+        "abbrevation": "UNCW",
+        "event_id": 114664,
+        "team_id": 537,
+        "league_id": 4
+    },
+    "144": {
+        "name": "Campbell",
+        "abbrevation": "CAMP",
+        "event_id": 114664,
+        "team_id": 144,
+        "league_id": 4
+    },
+    "211": {
+        "name": "Eastern Kentucky",
+        "abbrevation": "EKY",
+        "event_id": 114665,
+        "team_id": 211,
+        "league_id": 4
+    },
+    "118": {
+        "name": "Bellarmine",
+        "abbrevation": null,
+        "event_id": 114665,
+        "team_id": 118,
+        "league_id": 4
+    },
+    "220": {
+        "name": "Fairleigh Dickinson",
+        "abbrevation": null,
+        "event_id": 114666,
+        "team_id": 220,
+        "league_id": 4
+    },
+    "302": {
+        "name": "Long Island",
+        "abbrevation": "LIUCWP",
+        "event_id": 114666,
+        "team_id": 302,
+        "league_id": 4
+    },
+    "447": {
+        "name": "San Diego State",
+        "abbrevation": "SDSU",
+        "event_id": 114667,
+        "team_id": 447,
+        "league_id": 4
+    },
+    "362": {
+        "name": "New Mexico",
+        "abbrevation": "NM",
+        "event_id": 114667,
+        "team_id": 362,
+        "league_id": 4
+    },
+    "448": {
+        "name": "San Diego",
+        "abbrevation": "SDG",
+        "event_id": 114668,
+        "team_id": 448,
+        "league_id": 4
+    },
+    "124": {
+        "name": "Bethesda Flames",
+        "abbrevation": null,
+        "event_id": 114668,
+        "team_id": 124,
+        "league_id": 4
+    },
+    "186": {
+        "name": "Cal St Northridge",
+        "abbrevation": "CSUN",
+        "event_id": 114669,
+        "team_id": 186,
+        "league_id": 4
+    },
+    "300": {
+        "name": "Long Beach State",
+        "abbrevation": "LBSU",
+        "event_id": 114669,
+        "team_id": 300,
+        "league_id": 4
+    },
+    "523": {
+        "name": "Cal Riverside",
+        "abbrevation": "UCRV",
+        "event_id": 114670,
+        "team_id": 523,
+        "league_id": 4
+    },
+    "185": {
+        "name": "CS Fullerton",
+        "abbrevation": "CSF",
+        "event_id": 114670,
+        "team_id": 185,
+        "league_id": 4
+    },
+    "556": {
+        "name": "Villanova",
+        "abbrevation": "NOVA",
+        "event_id": 114671,
+        "team_id": 556,
+        "league_id": 4
+    },
+    "481": {
+        "name": "St. Johns",
+        "abbrevation": "SJU",
+        "event_id": 114671,
+        "team_id": 481,
+        "league_id": 4
+    },
+    "412": {
+        "name": "Pittsburgh",
+        "abbrevation": "PITT",
+        "event_id": 114672,
+        "team_id": 412,
+        "league_id": 4
+    },
+    "306": {
+        "name": "Louisville",
+        "abbrevation": "LOU",
+        "event_id": 114672,
+        "team_id": 306,
+        "league_id": 4
+    },
+    "507": {
+        "name": "Texas Tech",
+        "abbrevation": "TTU",
+        "event_id": 114673,
+        "team_id": 507,
+        "league_id": 4
+    },
+    "139": {
+        "name": "BYU",
+        "abbrevation": "BYU",
+        "event_id": 114673,
+        "team_id": 139,
+        "league_id": 4
+    },
+    "402": {
+        "name": "Oral Roberts",
+        "abbrevation": null,
+        "event_id": 114674,
+        "team_id": 402,
+        "league_id": 4
+    },
+    "401": {
+        "name": "Nebraska Omaha",
+        "abbrevation": null,
+        "event_id": 114674,
+        "team_id": 401,
+        "league_id": 4
+    },
+    "93": {
+        "name": "Abilene Christian",
+        "abbrevation": "ACU",
+        "event_id": 114675,
+        "team_id": 93,
+        "league_id": 4
+    },
+    "473": {
+        "name": "Southern Utah",
+        "abbrevation": "SUU",
+        "event_id": 114675,
+        "team_id": 473,
+        "league_id": 4
+    },
+    "340": {
+        "name": "Mississippi State",
+        "abbrevation": "MSST",
+        "event_id": 114676,
+        "team_id": 340,
+        "league_id": 4
+    },
+    "399": {
+        "name": "Mississippi",
+        "abbrevation": "MIS",
+        "event_id": 114676,
+        "team_id": 399,
+        "league_id": 4
+    },
+    "309": {
+        "name": "Loyola Marymount",
+        "abbrevation": null,
+        "event_id": 114677,
+        "team_id": 309,
+        "league_id": 4
+    },
+    "414": {
+        "name": "Portland",
+        "abbrevation": null,
+        "event_id": 114677,
+        "team_id": 414,
+        "league_id": 4
+    },
+    "525": {
+        "name": "Cal Santa Barbara",
+        "abbrevation": "UCSB",
+        "event_id": 114678,
+        "team_id": 525,
+        "league_id": 4
+    },
+    "257": {
+        "name": "Hawaii",
+        "abbrevation": "HAW",
+        "event_id": 114678,
+        "team_id": 257,
+        "league_id": 4
+    },
+    "201": {
+        "name": "Utah Tech",
+        "abbrevation": "DSU",
+        "event_id": 114679,
+        "team_id": 201,
+        "league_id": 4
+    },
+    "494": {
+        "name": "Tarleton St",
+        "abbrevation": null,
+        "event_id": 114679,
+        "team_id": 494,
+        "league_id": 4
+    },
+    "570": {
+        "name": "Weber State",
+        "abbrevation": "WEB",
+        "event_id": 114680,
+        "team_id": 570,
+        "league_id": 4
+    },
+    "266": {
+        "name": "Idaho",
+        "abbrevation": "IDHO",
+        "event_id": 114680,
+        "team_id": 266,
+        "league_id": 4
+    },
+    "347": {
+        "name": "Montana State",
+        "abbrevation": "MTST",
+        "event_id": 114681,
+        "team_id": 347,
+        "league_id": 4
+    },
+    "346": {
+        "name": "Montana",
+        "abbrevation": "MONT",
+        "event_id": 114681,
+        "team_id": 346,
+        "league_id": 4
+    },
+    "436": {
+        "name": "Sacramento State",
+        "abbrevation": "SAC",
+        "event_id": 114682,
+        "team_id": 436,
+        "league_id": 4
+    },
+    "384": {
+        "name": "No. Colorado",
+        "abbrevation": "UNCO",
+        "event_id": 114682,
+        "team_id": 384,
+        "league_id": 4
+    },
+    "397": {
+        "name": "Oklahoma State",
+        "abbrevation": "OKST",
+        "event_id": 114683,
+        "team_id": 397,
+        "league_id": 4
+    },
+    "282": {
+        "name": "Kansas State",
+        "abbrevation": "KSU",
+        "event_id": 114683,
+        "team_id": 282,
+        "league_id": 4
+    },
+    "456": {
+        "name": "Seattle U",
+        "abbrevation": null,
+        "event_id": 114684,
+        "team_id": 456,
+        "league_id": 4
+    },
+    "247": {
+        "name": "Gonzaga",
+        "abbrevation": null,
+        "event_id": 114684,
+        "team_id": 247,
+        "league_id": 4
+    },
+    "496": {
+        "name": "Temple",
+        "abbrevation": "TEM",
+        "event_id": 114685,
+        "team_id": 496,
+        "league_id": 4
+    },
+    "223": {
+        "name": "Florida Atlantic",
+        "abbrevation": "FAU",
+        "event_id": 114685,
+        "team_id": 223,
+        "league_id": 4
+    },
+    "322": {
+        "name": "Maryland",
+        "abbrevation": "MD",
+        "event_id": 114686,
+        "team_id": 322,
+        "league_id": 4
+    },
+    "409": {
+        "name": "Penn State",
+        "abbrevation": "PSU",
+        "event_id": 114686,
+        "team_id": 409,
+        "league_id": 4
+    },
+    "111": {
+        "name": "Army",
+        "abbrevation": "ARM",
+        "event_id": 114687,
+        "team_id": 111,
+        "league_id": 4
+    },
+    "103": {
+        "name": "American",
+        "abbrevation": null,
+        "event_id": 114687,
+        "team_id": 103,
+        "league_id": 4
+    },
+    "207": {
+        "name": "East Carolina",
+        "abbrevation": "ECU",
+        "event_id": 114688,
+        "team_id": 207,
+        "league_id": 4
+    },
+    "157": {
+        "name": "Charlotte U",
+        "abbrevation": "CHAR",
+        "event_id": 114688,
+        "team_id": 157,
+        "league_id": 4
+    },
+    "421": {
+        "name": "IPFW",
+        "abbrevation": null,
+        "event_id": 114689,
+        "team_id": 421,
+        "league_id": 4
+    },
+    "337": {
+        "name": "Wisc Milwaukee",
+        "abbrevation": null,
+        "event_id": 114689,
+        "team_id": 337,
+        "league_id": 4
+    },
+    "250": {
+        "name": "Wisc Green Bay",
+        "abbrevation": null,
+        "event_id": 114690,
+        "team_id": 250,
+        "league_id": 4
+    },
+    "393": {
+        "name": "Oakland",
+        "abbrevation": "OAK",
+        "event_id": 114690,
+        "team_id": 393,
+        "league_id": 4
+    },
+    "468": {
+        "name": "South Florida",
+        "abbrevation": "USF",
+        "event_id": 114691,
+        "team_id": 468,
+        "league_id": 4
+    },
+    "579": {
+        "name": "Wichita State",
+        "abbrevation": null,
+        "event_id": 114691,
+        "team_id": 579,
+        "league_id": 4
+    },
+    "520": {
+        "name": "UAB",
+        "abbrevation": "UAB",
+        "event_id": 114692,
+        "team_id": 520,
+        "league_id": 4
+    },
+    "518": {
+        "name": "Tulsa",
+        "abbrevation": "TLSA",
+        "event_id": 114692,
+        "team_id": 518,
+        "league_id": 4
+    },
+    "517": {
+        "name": "Tulane",
+        "abbrevation": "TULN",
+        "event_id": 114693,
+        "team_id": 517,
+        "league_id": 4
+    },
+    "380": {
+        "name": "North Texas",
+        "abbrevation": "UNT",
+        "event_id": 114693,
+        "team_id": 380,
+        "league_id": 4
+    },
+    "262": {
+        "name": "Houston",
+        "abbrevation": "HOU",
+        "event_id": 114694,
+        "team_id": 262,
+        "league_id": 4
+    },
+    "105": {
+        "name": "Arizona State",
+        "abbrevation": "ASU",
+        "event_id": 114694,
+        "team_id": 105,
+        "league_id": 4
+    },
+    "327": {
+        "name": "Memphis",
+        "abbrevation": "MEM",
+        "event_id": 114695,
+        "team_id": 327,
+        "league_id": 4
+    },
+    "549": {
+        "name": "Texas San Antonio",
+        "abbrevation": null,
+        "event_id": 114695,
+        "team_id": 549,
+        "league_id": 4
+    },
+    "449": {
+        "name": "San Francisco",
+        "abbrevation": null,
+        "event_id": 114696,
+        "team_id": 449,
+        "league_id": 4
+    },
+    "568": {
+        "name": "Washington State",
+        "abbrevation": "WST",
+        "event_id": 114696,
+        "team_id": 568,
+        "league_id": 4
+    },
+    "345": {
+        "name": "Monmouth",
+        "abbrevation": "MONM",
+        "event_id": 114697,
+        "team_id": 345,
+        "league_id": 4
+    },
+    "381": {
+        "name": "Northeastern",
+        "abbrevation": "NE",
+        "event_id": 114697,
+        "team_id": 381,
+        "league_id": 4
+    },
+    "369": {
+        "name": "NJIT",
+        "abbrevation": "NJIT",
+        "event_id": 114699,
+        "team_id": 369,
+        "league_id": 4
+    },
+    "135": {
+        "name": "Bryant",
+        "abbrevation": "BRY",
+        "event_id": 114699,
+        "team_id": 135,
+        "league_id": 4
+    },
+    "100": {
+        "name": "Albany NY",
+        "abbrevation": "ALBY",
+        "event_id": 114700,
+        "team_id": 100,
+        "league_id": 4
+    },
+    "555": {
+        "name": "Vermont",
+        "abbrevation": "UVM",
+        "event_id": 114700,
+        "team_id": 555,
+        "league_id": 4
+    },
+    "512": {
+        "name": "Towson",
+        "abbrevation": "TOWS",
+        "event_id": 114701,
+        "team_id": 512,
+        "league_id": 4
+    },
+    "204": {
+        "name": "Drexel",
+        "abbrevation": "DREX",
+        "event_id": 114701,
+        "team_id": 204,
+        "league_id": 4
+    },
+    "367": {
+        "name": "Niagara",
+        "abbrevation": "NIAG",
+        "event_id": 114704,
+        "team_id": 367,
+        "league_id": 4
+    },
+    "437": {
+        "name": "Sacred Heart",
+        "abbrevation": "SCH",
+        "event_id": 114708,
+        "team_id": 437,
+        "league_id": 4
+    },
+    "562": {
+        "name": "Wagner",
+        "abbrevation": "WAG",
+        "event_id": 114709,
+        "team_id": 562,
+        "league_id": 4
+    },
+    "314": {
+        "name": "Maine",
+        "abbrevation": "MAINE",
+        "event_id": 114711,
+        "team_id": 314,
+        "league_id": 4
+    },
+    "361": {
+        "name": "New Hampshire",
+        "abbrevation": "UNH",
+        "event_id": 114711,
+        "team_id": 361,
+        "league_id": 4
+    },
+    "272": {
+        "name": "Iona",
+        "abbrevation": "IONA",
+        "event_id": 114714,
+        "team_id": 272,
+        "league_id": 4
+    },
+    "554": {
+        "name": "Va Commonwealth",
+        "abbrevation": "VCU",
+        "event_id": 114717,
+        "team_id": 554,
+        "league_id": 4
+    },
+    "439": {
+        "name": "St. Josephs",
+        "abbrevation": "JOES",
+        "event_id": 114717,
+        "team_id": 439,
+        "league_id": 4
+    },
+    "239": {
+        "name": "George Mason",
+        "abbrevation": "GMU",
+        "event_id": 114719,
+        "team_id": 239,
+        "league_id": 4
+    },
+    "240": {
+        "name": "George Washington",
+        "abbrevation": "GW",
+        "event_id": 114719,
+        "team_id": 240,
+        "league_id": 4
+    },
+    "126": {
+        "name": "Binghamton",
+        "abbrevation": "BING",
+        "event_id": 114723,
+        "team_id": 126,
+        "league_id": 4
+    },
+    "534": {
+        "name": "MD Baltimore Co",
+        "abbrevation": null,
+        "event_id": 114723,
+        "team_id": 534,
+        "league_id": 4
+    },
+    "252": {
+        "name": "Hampton",
+        "abbrevation": "HAMP",
+        "event_id": 114733,
+        "team_id": 252,
+        "league_id": 4
+    },
+    "373": {
+        "name": "North Carolina A&T",
+        "abbrevation": "NAT",
+        "event_id": 114733,
+        "team_id": 373,
+        "league_id": 4
+    },
+    "153": {
+        "name": "Central Michigan",
+        "abbrevation": "CMC",
+        "event_id": 114738,
+        "team_id": 153,
+        "league_id": 4
+    },
+    "218": {
+        "name": "Evansville",
+        "abbrevation": null,
+        "event_id": 114753,
+        "team_id": 218,
+        "league_id": 4
+    },
+    "156": {
+        "name": "Charleston Sou",
+        "abbrevation": "CHSO",
+        "event_id": 114784,
+        "team_id": 156,
+        "league_id": 4
+    },
+    "428": {
+        "name": "Rhode Island",
+        "abbrevation": "URI",
+        "event_id": 114788,
+        "team_id": 428,
+        "league_id": 4
+    },
+    "586": {
+        "name": "Wright State",
+        "abbrevation": "WRST",
+        "event_id": 114794,
+        "team_id": 586,
+        "league_id": 4
+    },
+    "588": {
+        "name": "Xavier",
+        "abbrevation": "XAV",
+        "event_id": 114795,
+        "team_id": 588,
+        "league_id": 4
+    },
+    "191": {
+        "name": "Davidson",
+        "abbrevation": "DAV",
+        "event_id": 114796,
+        "team_id": 191,
+        "league_id": 4
+    },
+    "430": {
+        "name": "Rice",
+        "abbrevation": "RICE",
+        "event_id": 114805,
+        "team_id": 430,
+        "league_id": 4
+    },
+    "411": {
+        "name": "Pepperdine",
+        "abbrevation": null,
+        "event_id": 114816,
+        "team_id": 411,
+        "league_id": 4
+    },
+    "141": {
+        "name": "California Baptist",
+        "abbrevation": null,
+        "event_id": 114817,
+        "team_id": 141,
+        "league_id": 4
+    },
+    "532": {
+        "name": "UMass Lowell",
+        "abbrevation": "UML",
+        "event_id": 114824,
+        "team_id": 532,
+        "league_id": 4
+    },
+    "580": {
+        "name": "William & Mary",
+        "abbrevation": "W&M",
+        "event_id": 114847,
+        "team_id": 580,
+        "league_id": 4
+    },
+    "210": {
+        "name": "Eastern Illinois",
+        "abbrevation": "EIL",
+        "event_id": 114857,
+        "team_id": 210,
+        "league_id": 4
+    },
+    "140": {
+        "name": "Cal Poly SLO",
+        "abbrevation": "CP",
+        "event_id": 114863,
+        "team_id": 140,
+        "league_id": 4
+    },
+    "197": {
+        "name": "Denver",
+        "abbrevation": null,
+        "event_id": 114864,
+        "team_id": 197,
+        "league_id": 4
+    },
+    "1686": {
+        "name": "New Haven",
+        "abbrevation": "NHC",
+        "event_id": 117010,
+        "team_id": 1686,
+        "league_id": 4
+    },
+    "633": {
+        "name": "Indiana",
+        "abbrevation": "IU",
+        "event_id": 117520,
+        "team_id": 633,
+        "league_id": 2
+    },
+    "649": {
+        "name": "Miami Florida",
+        "abbrevation": "MFL",
+        "event_id": 117520,
+        "team_id": 649,
+        "league_id": 2
+    },
+    "6": {
+        "name": "Chicago Bears",
+        "abbrevation": "CHI",
+        "event_id": 117632,
+        "team_id": 6,
+        "league_id": 1
+    },
+    "29": {
+        "name": "Los Angeles Rams",
+        "abbrevation": "LAR",
+        "event_id": 117632,
+        "team_id": 29,
+        "league_id": 1
+    },
+    "28": {
+        "name": "Seattle Seahawks",
+        "abbrevation": "SEA",
+        "event_id": 117633,
+        "team_id": 28,
+        "league_id": 1
+    },
+    "27": {
+        "name": "San Francisco 49ers",
+        "abbrevation": "SF",
+        "event_id": 117633,
+        "team_id": 27,
+        "league_id": 1
+    },
+    "10": {
+        "name": "Denver Broncos",
+        "abbrevation": "DEN",
+        "event_id": 117635,
+        "team_id": 10,
+        "league_id": 1
+    },
+    "4": {
+        "name": "Buffalo Bills",
+        "abbrevation": "BUF",
+        "event_id": 117635,
+        "team_id": 4,
+        "league_id": 1
+    },
+    "19": {
+        "name": "New England Patriots",
+        "abbrevation": "NE",
+        "event_id": 117890,
+        "team_id": 19,
+        "league_id": 1
+    },
+    "13": {
+        "name": "Houston Texans",
+        "abbrevation": "HOU",
+        "event_id": 117890,
+        "team_id": 13,
+        "league_id": 1
+    }
+}
