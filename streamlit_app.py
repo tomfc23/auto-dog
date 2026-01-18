@@ -185,9 +185,14 @@ if not st.session_state.data_loaded:
         st.session_state.all_detailed_odds = all_detailed_odds
         
         if live_probs:
-            status_placeholder.success(f"✓ Loaded odds for {len(live_probs)} teams from {len(st.session_state.market_config)} books")
+            num_books = len(set(
+                book['Book'] 
+                for odds_list in all_detailed_odds.values() 
+                for book in odds_list
+            ))
+            status_placeholder.success(f"✓ Loaded odds for {len(live_probs)} teams from {num_books} books")
         else:
-            status_placeholder.warning("⚠ No live market data retrieved")
+            status_placeholder.warning("⚠ No live market data retrieved - check API or enter odds manually")
         
         # Complete
         progress_bar.progress(100)
@@ -277,4 +282,4 @@ if not valid_df.empty:
             details['No-Vig American'] = details['FairProb'].apply(prob_to_american)
             st.table(details[['Book', 'Team Odds', 'Opponent Odds', 'No-Vig American']])
 else:
-    st.warning("Waiting for live market data. Use the sidebar to enter odds manually if the API is down.")
+    st.warning(f"No valid EV data available. {len(df_display[df_display['Missing']])} teams missing odds. Use the sidebar to enter odds manually.")
