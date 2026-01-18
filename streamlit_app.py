@@ -5,10 +5,11 @@ import pandas as pd
 import os
 import re
 
-# --- Configuration & Caching ---
+# --- Configuration ---
 st.set_page_config(page_title="DOTD Live EV Optimizer", layout="wide")
 
-@st.cache_data
+# --- Helper Functions ---
+
 def load_config(file_name):
     """Loads metadata files like team_config and market_config."""
     if not os.path.exists(file_name):
@@ -19,7 +20,6 @@ def load_config(file_name):
     except:
         return {}
 
-@st.cache_data(ttl=300) # Refresh live odds every 5 minutes automatically
 def fetch_live_market_data(market_config):
     """
     Fetches the 'v' parameter and market odds directly from Unabated API.
@@ -87,7 +87,6 @@ def fetch_live_market_data(market_config):
         st.error(f"Live Fetch Error: {e}")
         return {}, {}
 
-@st.cache_data(ttl=600)
 def fetch_poll_data(sport):
     """Fetches the current DOTD poll options and votes."""
     try:
@@ -101,8 +100,6 @@ def fetch_poll_data(sport):
         return r.json(), None
     except Exception as e:
         return None, str(e)
-
-# --- Logic & Computation ---
 
 def american_to_prob(odds):
     return 100 / (odds + 100) if odds > 0 else abs(odds) / (abs(odds) + 100)
@@ -140,30 +137,51 @@ def process_poll_data(raw_data, team_config):
         dog_snapshot[key]['rank'] = rank
     return dog_snapshot
 
-# --- Main App ---
+# --- Initialize Session State ---
+if "data_loaded" not in st.session_state:
+    st.session_state.data_loaded = False
+    st.session_state.manual_probs = {}
+    st.session_state.live_probs = {}
+    st.session_state.all_detailed_odds = {}
+    st.session_state.dog_data = {}
+    st.session_state.team_config = {}
+    st.session_state.market_config = {}
 
+# --- Load Data on First Run ---
+if not st.session_state.data_loaded:
+    with st.spinner("Loading live market data..."):
+        # Load configs
+        st.session_state.team_config = load_config('team_config.json')
+        st.session_state.market_config = load_config('market_config.json')
+        
+        # Fetch poll data
+        raw_poll, err = fetch_poll_data(sport="nhl")
+        if err:
+            st.error(f"Poll fetch error: {err}")
+        else:
+            st.session_state.dog_data = process_poll_data(raw_poll, st.session_state.team_config)
+        
+        # Fetch live market data
+        live_probs, all_detailed_odds = fetch_live_market_data(st.session_state.market_config)
+        st.session_state.live_probs = live_probs
+        st.session_state.all_detailed_odds = all_detailed_odds
+        
+        st.session_state.data_loaded = True
+
+# --- Main App ---
 st.title("🏒 DOTD Live Optimizer")
 
-# Load static configs
-team_config = load_config('team_config.json')
-market_config = load_config('market_config.json')
-
-if "manual_probs" not in st.session_state:
-    st.session_state.manual_probs = {}
-
-# --- Fetch Everything Live ---
-raw_poll, err = fetch_poll_data(sport="nhl")
-live_probs, all_detailed_odds = fetch_live_market_data(market_config)
-
-if err or not team_config:
-    st.error("Setup Error: Ensure team_config.json is in your GitHub.")
+# Check for config errors
+if not st.session_state.team_config:
+    st.error("Setup Error: Ensure team_config.json is in your directory.")
     st.stop()
 
-dog_data = process_poll_data(raw_poll, team_config)
-final_probs = {**live_probs, **st.session_state.manual_probs}
+# Combine live and manual probabilities
+final_probs = {**st.session_state.live_probs, **st.session_state.manual_probs}
 
+# Calculate results
 results_list = []
-for name, data in dog_data.items():
+for name, data in st.session_state.dog_data.items():
     tid = str(data.get('team_id'))
     fair_prob = final_probs.get(tid)
     payout = calculate_payout(data['rank'], data['odds'])
@@ -180,8 +198,8 @@ df_display = pd.DataFrame(results_list)
 # --- Sidebar: Manual Overrides ---
 with st.sidebar:
     st.header("🛠 Live Data Settings")
-    if st.button("🔄 Force Market Refresh"):
-        st.cache_data.clear()
+    if st.button("🔄 Refresh All Data"):
+        st.session_state.data_loaded = False
         st.rerun()
     
     st.divider()
@@ -219,8 +237,8 @@ if not valid_df.empty:
         avg_no_vig = prob_to_american(row_data['Fair Prob'])
         st.metric("Fair Market Price", f"{avg_no_vig:+d}")
         
-        if tid in all_detailed_odds:
-            details = pd.DataFrame(all_detailed_odds[tid])
+        if tid in st.session_state.all_detailed_odds:
+            details = pd.DataFrame(st.session_state.all_detailed_odds[tid])
             details['No-Vig American'] = details['FairProb'].apply(prob_to_american)
             st.table(details[['Book', 'Team Odds', 'Opponent Odds', 'No-Vig American']])
 else:
