@@ -3,7 +3,8 @@ import json
 import requests
 import pandas as pd
 import os
-import re
+from playwright.sync_api import sync_playwright
+from urllib.parse import urlparse, parse_qs
 
 # --- Configuration ---
 st.set_page_config(page_title="DOTD Live EV Optimizer", layout="wide")
@@ -20,6 +21,36 @@ def load_config(file_name):
     except:
         return {}
 
+def get_unabated_v_parameter():
+    """Uses Playwright to capture the v parameter from network requests."""
+    v_param = None
+    try:
+        with sync_playwright() as p:
+            browser = p.chromium.launch(headless=True)
+            context = browser.new_context(
+                user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+            )
+            page = context.new_page()
+            try:
+                with page.expect_request(
+                    lambda request: "b_gameodds.json" in request.url, 
+                    timeout=60000
+                ) as request_info:
+                    page.goto("https://unabated.com/nhl/odds", wait_until="domcontentloaded")
+                
+                captured_url = request_info.value.url
+                parsed_url = urlparse(captured_url)
+                params = parse_qs(parsed_url.query)
+                v_param = params.get('v', [None])[0]
+            except Exception as e:
+                print(f"Error capturing request: {e}")
+            finally:
+                browser.close()
+    except Exception as e:
+        print(f"Error launching browser: {e}")
+    
+    return v_param
+
 def fetch_live_market_data(market_config):
     """
     Fetches the 'v' parameter and market odds directly from Unabated API.
@@ -28,21 +59,18 @@ def fetch_live_market_data(market_config):
     debug_info = {"v_param": None, "api_url": None, "error": None}
     
     try:
-        session = requests.Session()
-        # 1. Get the 'v' parameter (usually found in the main odds page JS)
-        main_page = session.get("https://www.unabated.com/odds/nhl", timeout=10).text
-        v_match = re.search(r'"v":"(.*?)"', main_page)
-        v_param = v_match.group(1) if v_match else None
+        # 1. Get the 'v' parameter using Playwright
+        v_param = get_unabated_v_parameter()
         debug_info["v_param"] = v_param
         
         if not v_param:
-            debug_info["error"] = "Could not find 'v' parameter in page"
+            debug_info["error"] = "Could not capture 'v' parameter from network requests"
             return {}, {}, debug_info
 
         # 2. Fetch the live event data (League 6 = NHL)
         api_url = f"https://api.unabated.com/api/v2/events?league_id=6&v={v_param}"
         debug_info["api_url"] = api_url
-        response = session.get(api_url, timeout=10).json()
+        response = requests.get(api_url, timeout=10).json()
         
         averaged_probs = {}
         detailed_odds = {}
