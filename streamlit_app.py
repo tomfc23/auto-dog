@@ -149,24 +149,59 @@ if "data_loaded" not in st.session_state:
 
 # --- Load Data on First Run ---
 if not st.session_state.data_loaded:
-    with st.spinner("Loading live market data..."):
-        # Load configs
+    status_placeholder = st.empty()
+    progress_bar = st.progress(0)
+    
+    try:
+        # Step 1: Load configs
+        status_placeholder.info("📂 Loading configuration files...")
+        progress_bar.progress(20)
         st.session_state.team_config = load_config('team_config.json')
         st.session_state.market_config = load_config('market_config.json')
         
-        # Fetch poll data
+        if st.session_state.team_config:
+            status_placeholder.success(f"✓ Loaded {len(st.session_state.team_config)} teams from config")
+        else:
+            status_placeholder.warning("⚠ No team config found")
+        
+        # Step 2: Fetch poll data
+        status_placeholder.info("🗳️ Fetching DOTD poll data...")
+        progress_bar.progress(40)
         raw_poll, err = fetch_poll_data(sport="nhl")
         if err:
-            st.error(f"Poll fetch error: {err}")
+            status_placeholder.error(f"Poll fetch error: {err}")
         else:
             st.session_state.dog_data = process_poll_data(raw_poll, st.session_state.team_config)
+            status_placeholder.success(f"✓ Loaded {len(st.session_state.dog_data)} poll options")
         
-        # Fetch live market data
+        # Step 3: Fetch live market data
+        status_placeholder.info("📊 Fetching live odds from Unabated API...")
+        progress_bar.progress(60)
         live_probs, all_detailed_odds = fetch_live_market_data(st.session_state.market_config)
+        
+        status_placeholder.info("🔢 Processing market data...")
+        progress_bar.progress(80)
         st.session_state.live_probs = live_probs
         st.session_state.all_detailed_odds = all_detailed_odds
         
+        if live_probs:
+            status_placeholder.success(f"✓ Loaded odds for {len(live_probs)} teams from {len(st.session_state.market_config)} books")
+        else:
+            status_placeholder.warning("⚠ No live market data retrieved")
+        
+        # Complete
+        progress_bar.progress(100)
         st.session_state.data_loaded = True
+        
+        status_placeholder.success("✅ All data loaded successfully!")
+        import time
+        time.sleep(1)
+        status_placeholder.empty()
+        progress_bar.empty()
+        
+    except Exception as e:
+        status_placeholder.error(f"❌ Error during data load: {e}")
+        progress_bar.empty()
 
 # --- Main App ---
 st.title("🏒 DOTD Live Optimizer")
