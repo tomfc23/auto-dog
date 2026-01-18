@@ -23,20 +23,25 @@ def load_config(file_name):
 def fetch_live_market_data(market_config):
     """
     Fetches the 'v' parameter and market odds directly from Unabated API.
-    Returns: (averaged_probs, detailed_odds)
+    Returns: (averaged_probs, detailed_odds, debug_info)
     """
+    debug_info = {"v_param": None, "api_url": None, "error": None}
+    
     try:
         session = requests.Session()
         # 1. Get the 'v' parameter (usually found in the main odds page JS)
         main_page = session.get("https://www.unabated.com/odds/nhl", timeout=10).text
         v_match = re.search(r'"v":"(.*?)"', main_page)
         v_param = v_match.group(1) if v_match else None
+        debug_info["v_param"] = v_param
         
         if not v_param:
-            return {}, {}
+            debug_info["error"] = "Could not find 'v' parameter in page"
+            return {}, {}, debug_info
 
         # 2. Fetch the live event data (League 6 = NHL)
         api_url = f"https://api.unabated.com/api/v2/events?league_id=6&v={v_param}"
+        debug_info["api_url"] = api_url
         response = session.get(api_url, timeout=10).json()
         
         averaged_probs = {}
@@ -82,10 +87,11 @@ def fetch_live_market_data(market_config):
                     for b in book_pairs
                 ]
 
-        return averaged_probs, detailed_odds
+        return averaged_probs, detailed_odds, debug_info
     except Exception as e:
+        debug_info["error"] = str(e)
         st.error(f"Live Fetch Error: {e}")
-        return {}, {}
+        return {}, {}, debug_info
 
 def fetch_poll_data(sport):
     """Fetches the current DOTD poll options and votes."""
@@ -146,6 +152,7 @@ if "data_loaded" not in st.session_state:
     st.session_state.dog_data = {}
     st.session_state.team_config = {}
     st.session_state.market_config = {}
+    st.session_state.api_debug = {}
 
 # --- Load Data on First Run ---
 if not st.session_state.data_loaded:
@@ -177,7 +184,8 @@ if not st.session_state.data_loaded:
         # Step 3: Fetch live market data
         status_placeholder.info("📊 Fetching live odds from Unabated API...")
         progress_bar.progress(60)
-        live_probs, all_detailed_odds = fetch_live_market_data(st.session_state.market_config)
+        live_probs, all_detailed_odds, debug_info = fetch_live_market_data(st.session_state.market_config)
+        st.session_state.api_debug = debug_info
         
         status_placeholder.info("🔢 Processing market data...")
         progress_bar.progress(80)
@@ -241,6 +249,18 @@ with st.sidebar:
     if st.button("🔄 Refresh All Data"):
         st.session_state.data_loaded = False
         st.rerun()
+    
+    st.divider()
+    
+    # API Debug Info
+    with st.expander("🔍 API Debug Info"):
+        if st.session_state.api_debug:
+            st.code(f"v_param: {st.session_state.api_debug.get('v_param', 'Not found')}")
+            if st.session_state.api_debug.get('api_url'):
+                st.code(f"API URL: {st.session_state.api_debug['api_url']}", language="text")
+            if st.session_state.api_debug.get('error'):
+                st.error(f"Error: {st.session_state.api_debug['error']}")
+            st.caption(f"Teams fetched: {len(st.session_state.live_probs)}")
     
     st.divider()
     st.subheader("Manual Odds Entry")
